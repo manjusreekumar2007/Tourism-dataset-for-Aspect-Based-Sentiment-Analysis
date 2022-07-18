@@ -1,0 +1,2404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<review><tripreview review_index="0">
+    <Title>"Pathetic experience!"    </Title>
+    <Username>BouncerGaga    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>1    </Rating>
+    <Review_date>Reviewed 29 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>2 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="0_0">Dirty water, stale food, absolutely no service attitude, Why do everybody our there behave so hot-headedly?
+    <aspectTerm term="water" polarity="negative" aspectCategories="Hygiene">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_1">Absolute waste of time.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="1">
+    <Title>"Amazing Experience!!!"    </Title>
+    <Username>Rakesh_Duan    </Username>
+    <Userloc>Kharagpur, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 23 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="1_0">The water rides particularly were very good!
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="1_3">The restaurants inside were not that good!
+    <aspectTerm term="restaurants" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="1_6">But overall arrangements were good!
+    <aspectTerm term="arrangements" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="2">
+    <Title>"Wonderla (Veegaland)"    </Title>
+    <Username>Ramsad R    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 21 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>40 reviews    </total_reviews>
+    <helpful_votes>33 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="2_0">The first amusement park in Kochi was set up in 2000.
+    <aspectTerm term="amusement park" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_1">It is promoted by Kochouseph Chittilappilly and his son Arun Chittilappilly.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_2">The popular Wonder la Amusement Park in Kochi, which was initially called Veegaland until it was re-branded in April 2011 is situated on the top of a hill at Pallikkara.
+    <aspectTerm term="Wonder la" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="3">
+    <Title>"one of my favorite"    </Title>
+    <Username>Bony M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 21 July 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="3_0">This is one of my favorite amusement parks in Kerala.
+    <aspectTerm term="amusement park" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_1">I have visited here many times during my vacation to Kerala.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_2">Must See in my opinion!
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="4">
+    <Title>"Best place for family fun in kerala"    </Title>
+    <Username>kssaril    </Username>
+    <Userloc>Phoenix, Arizona    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 18 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>16 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="4_0">WonderLa Kochi is a real wonder in Kerala .
+    <aspectTerm term="WonderLa Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_1">Kids were excited about this trip but my concern was about the quality and hygiene because of the water rides.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_2">To my surprise, this park was very well maintained and kept clean .
+    <aspectTerm term="well maintained" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ <aspectTerm term="clean" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_3">the water quality is well maintained.
+    <aspectTerm term="water quality" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_4">The rides were also very fun and exciting .
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_5">we have enjoyed the trip and will go again.
+    <aspectTerm term="trip" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_6">Weekwnds, will be very crowded so plan your trip effectively.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_7">The 3d shows are not good and may cause headache to someone.
+    <aspectTerm term="3d shows" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_8">So you may avoid those as it can spoil the trip .
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_9">All water rides are amazing and never miss it .
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_10">my only concern is there was no taxi or public transport around there.
+    <aspectTerm term="public transport" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_11">So be prepared.
+    <aspectTerm term="none" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="5">
+    <Title>"Enjoyment Thriller Enjoyment"    </Title>
+    <Username>kumar_bravo    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 10 July 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>22 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="5_0">The water rides are awesome and super .
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_1">Other rides are thrilling .
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="6">
+    <Title>"Superb Theme Park. Well maintained!!!"    </Title>
+    <Username>Senthil Kumar S    </Username>
+    <Userloc>Coimbatore, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 July 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>20 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="6_0">A great place to get your children and enjoy one full day.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_1">Wonderful rides and great atmosphere to experience.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_2">A must see place in Cochin.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="7">
+    <Title>"One of the best Amusement Parks ever."    </Title>
+    <Username>Dennis_Dominic    </Username>
+    <Userloc>Kochi    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 July 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>62 reviews    </total_reviews>
+    <helpful_votes>65 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="7_0">This is one place you got to visit with your family and kids, Lots of ride and the best part is they are very hygienic.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_1">They have lots of water rides and also family exclusive areas.
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="family exclusive areas" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_2">We love to keep going every year.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="8">
+    <Title>"Earlier called Veegaland, this is a fun-packed site in Kochi !"    </Title>
+    <Username>VinodKV    </Username>
+    <Userloc>Ahmedabad, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 5 July 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>47 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="8_0">Went here with family and friends.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_1">It was fun being in the water in summer with friends.
+    <aspectTerm term="fun" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_2">The rides were amazing and it was a good ambience.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_3">Good place to be in, while in the vicinity of Kakanad, Kochi.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="9">
+    <Title>"Just Adventurous"    </Title>
+    <Username>ZinanKakkodan    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="9_0">Supperb Amusement Parks Of I Visited In Kerala I have Seen
+    <aspectTerm term="Amusement Parks" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_1">Awesome Rides and Things to do Nice Superb And Horrible Place
+    <aspectTerm term="Place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Rides" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_2">Wave Pool Is Alsob A Good Thing In The Park
+    <aspectTerm term="Wave Pool" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="10">
+    <Title>"average"    </Title>
+    <Username>PoProstuEwa    </Username>
+    <Userloc>Warsaw, Poland    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 July 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="10_0">It was an interesting experience, however you probably can visit similar parks in your country.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="11">
+    <Title>"Best Amusement park of kerala"    </Title>
+    <Username>SrZ27    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 30 June 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>23 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="11_0">This is a decent amusement park with lot of rides.
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_1">Both land and water rides are pretty good.
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_2">The queues are long on season filled with many school and college kids, but the hack is to go for water rides first,then dry off and go for land rides if you really want to save time as everyone else will do the opposite.
+    <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="12">
+    <Title>"Some really scary and amazing rides but the park stinks!!!"    </Title>
+    <Username>sherryjks    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 30 June 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>39 reviews    </total_reviews>
+    <helpful_votes>85 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="12_0">This amusement park -hands down- has some of the most thrilling, exciting and exhilarating rides that you could find all across India, Maverick being the most scariest as per me.
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Maverick" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_1">Twin flip monster, Space gun and vertical fall come at 2nd, 3rd and 4th place respectively on the thrill scale.
+    <aspectTerm term="Twin flip monster" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Space gun" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="vertical fall" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_2">We missed many of the water rides coz of hygiene and safety concerns.
+    <aspectTerm term="water rides" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_3">The rides from a distance look safe and secure but once you are on em, you tend to feel a little insecure.
+    <aspectTerm term="rides" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_4">One of the passengers in Space Gun got stuck and the ride was stopped for 20-25 minutes just to get him out.
+    <aspectTerm term="Space Gun" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_5">However, the biggest turn-off was unfortunately the people (not all) present in this park with their disgusting foul smell that pervaded almost all the queues towards the rides.
+    <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_6">I am sorry to say but their uncivil, discourteous and impolite behavior stands out as the biggest shortcoming/downside of this park.
+    <aspectTerm term="behavior" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_7">People were staring, breaking lines, dancing like monkeys and doing weird stuff which i feel should have been properly controlled by the authorities in a strict and stern manner.
+    <aspectTerm term="People" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_8">The security guards standing there (except a few) seemed helpless and didn't seem to bother about the inconvenience caused by the rowdy crowd to the 'more civilized' people present in the park.
+    <aspectTerm term="crowd" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="security guards" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_9">The shower area and changing rooms stink too.
+    <aspectTerm term="shower area" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="changing rooms" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_10">We had to specially rent a hotel room for 3 hours just to take shower in a more cleaner and hygienic place.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_11">There is no variety of food in the park restaurants and we had to settle down with ice cream as our lunch.
+    <aspectTerm term="park restaurants" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_12">My advice: Take the fast track tickets- Believe me they are totally worth it.
+    <aspectTerm term="fast track tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="13">
+    <Title>"Best for Family Trip"    </Title>
+    <Username>RAMSAD99    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 June 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="13_0">Wonderla is also known as Veegaland .
+    <aspectTerm term="Wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_1">This place is best for family and group tours it gives a full day of enjoyment for you.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="14">
+    <Title>"Amazing Experience"    </Title>
+    <Username>pranay_kitts    </Username>
+    <Userloc>Bhubaneswar, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 June 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>33 reviews    </total_reviews>
+    <helpful_votes>8 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="14_0">Lots of rides, long queues.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_1">It was a total fun experience.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_2">Opt for fast track tickets only if you are short on time.
+    <aspectTerm term="fast track tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_3">The fast track tickets are almost double the price of regular tickets.
+    <aspectTerm term="fast track tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_4">Good changing rooms and locker facility.
+    <aspectTerm term="changing rooms" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="locker facility" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="15">
+    <Title>"www.gostar.in"    </Title>
+    <Username>wwwgostarin    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="15_0">one of the best place to visit Wonderla Amusement Park is specially attracts childrens from 3 - 10 years of age.
+    <aspectTerm term="Wonderla Amusement Park" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="16">
+    <Title>"water park is outstanding"    </Title>
+    <Username>mjacob007    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 28 June 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>100 reviews    </total_reviews>
+    <helpful_votes>50 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="16_0">skip the dry rides and get to water park before noon.
+    <aspectTerm term="dry rides" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_1">the crowd moves to waterpark after dry rides and it gets very busy after noon.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="17">
+    <Title>"Decent"    </Title>
+    <Username>FreakyDr    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 26 June 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="17_0">A good place to visit with your family.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_1">I believe it could be much better, but due to lack of other theme parks in the area they are not being forced to innovate.
+    <aspectTerm term="theme park" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="18">
+    <Title>"Amazing rides and ecofriendly park"    </Title>
+    <Username>Aravind M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 25 June 2015    </Review_date>
+    <Date_of_visit>Visited November 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>46 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="18_0">Jet privilege no 140923440   I am regular visitor to the park ever since its inaugration in 2001.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_1">Masterplan of the great Kochouseph chittillapilly founder of vguard,the park was veegaland which recently renamed as Wonderla as a part of unification with the theme park at bangalore.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_2">Pallikkara is around 20kms from cochin railway station and 10kms from Kakkanad ,the IT hub.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_3">You are provided a welcome with luscious plants and flowers atop stone walled hairpin bends.
+    <aspectTerm term="plants" polarity="positive" aspectCategories="Environment and View">
+    </aspectTerm>
+<aspectTerm term="flowers" polarity="positive" aspectCategories="Environment and View">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_4">The place is crowded throughout the year.
+    <aspectTerm term="place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_5">Excellent choice of eateries that provides homely food mainting excellent hygiene standards.
+    <aspectTerm term="eateries" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ <aspectTerm term="hygiene standards" polarity="positive" aspectCategories="hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_6">Lot of rides to choose from.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_7">must try the vertical fall,wave pool in water rides and cinemagic ,vintage torando in land rides.
+    <aspectTerm term="vertical fall" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="wave pool" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="vintage torando" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="cinemagic" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_8">for the adventure junkies ,go for twin flip monster and space gun.
+    <aspectTerm term="twin flip monster" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="space gun" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_9">Well trained and amiable staff.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_10">you can expect a mixed crowd throughout the year.
+    <aspectTerm term="crowd" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="19">
+    <Title>"Best amusement park available"    </Title>
+    <Username>Arjun A    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 25 June 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>65 reviews    </total_reviews>
+    <helpful_votes>30 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="19_0">excellent amusement park with new rides, the safety they provide is also appreciable.
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_1">It will be better if they can reduce the rate a bit.
+    <aspectTerm term="rate" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+
+  <sentence id="19_1">It will be better if they can reduce the rate a bit.
+    <aspectTerm term="rate" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+ <tripreview review_index="20">
+
+  <sentence id="19_1">It will be better if they can reduce the rate a bit.
+    <aspectTerm term="rate" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="21">
+
+    <Title>"wonderla"    </Title>
+    <Username>Keralatourconnector    </Username>
+    <Userloc>cochin    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 24 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>16 reviews    </total_reviews>
+    <helpful_votes>16 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="21_0">Wonderla Amusement Park in Kochi, previously known as Veega Land, is located 15 km from Kochi city and is home to 59 amusement rides.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="22">
+    <Title>"Great way to spent a day"    </Title>
+    <Username>rijo_george    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 June 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>32 reviews    </total_reviews>
+    <helpful_votes>27 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="22_0">I have been to wonderla(earlier called as veegaland) many times.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_1">its the best water theme park available in India.
+    <aspectTerm term="water theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_2">once you pay the entry fare, multiple entries are permitted for any rides.
+    <aspectTerm term="entry fare" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_3">water is clean and all land rides are safe.
+    <aspectTerm term="water" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+<aspectTerm term="land rides" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_4">They keep on insreasing the rides every year.
+    <aspectTerm term="rides" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="23">
+    <Title>"The Best and safe Amusement Park in Kerala"    </Title>
+    <Username>Jojijoseph2005    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 18 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>305 reviews    </total_reviews>
+    <helpful_votes>220 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="23_0">With the thrill, dry, water and kids rides Wonderla amusement park at Pallikkara may be the best of its kind in Kerala and is worth spending a day.
+    <aspectTerm term="Wonderla amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_1">Though we have been to Wonderla (formerly Veega land) I went there with family and by 11.30 AM the park was almost full with families with kids.
+    <aspectTerm term="Wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_2">My sons favorite is the Wonder Splash where we step onto a log raft and inch your way on a conveyor track into a cave filled with mystery and then drop down fast into the shallow pool making a splendid splash that will soak all the riders.
+    <aspectTerm term="Wonder Splash" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_3">It is safe and not scary too.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_4">The wave pool is another attraction which we can enjoy and it creates a feel of swimming in a sea.
+    <aspectTerm term="wave pool" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_5">Other water rides like Boomerang, Family slide and Rapid River are also interesting.
+    <aspectTerm term="Boomerang" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="Family slide" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="Rapid River" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_6">I am generally scared of the thriller rides but my family enjoyed the rides Maverick which turns, twists, go upside down etc, The Thunder fall which will take you to the heights and then fall free to the ground level, Twin Flip Monster which go spinning and swirling, Vintage Tornado the rocker coaster etc.
+    <aspectTerm term="Maverick" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Twin Flip Monster" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Vintage Tornado" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ <aspectTerm term="Maverick" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Twin Flip Monster" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Thnder Fall" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_7">I enjoyed the Dry Rides like Cinemagic which is a combination of video, audio and swinging seats, dancing wheel which takes us for a circular and up and down ride, Hang Glider which is a rope way journey and apart from the few mentioned several other dry rides are there for those who like adventurous rides.
+    <aspectTerm term="Cinemagic" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_8">Rides for Kids like jumping frogs, jumping horses, Magic Plane, Kiddies wheel, Castle Jet, Balloon Tower etc and a lot more for the kids to enjoy are there.
+    <aspectTerm term="Balloon Tower" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="jumping frogs" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="jumping horses" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Magic Plane" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="Kiddies wheel" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="Castle Jet" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_9">The main advantage of all the Rides is that they are supposed to be cent percent safe.
+    <aspectTerm term="Rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_10">The Amusement Park has facilities like Dress changing rooms, Lockers, Cloak Room, ATM, First Aid facilities, Prayer rooms, Baby feeding rooms, Purified drinking water etc.
+    <aspectTerm term="Amusement Park" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Dress changing rooms" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Lockers" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Cloak room" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="ATM" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="First Aid facilities" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Prayer rooms" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Baby feeding rooms" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="Purified drinking water" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+
+ </sentence>
+  <sentence id="23_11">and ample parking space.
+    <aspectTerm term="parking space" polarity="positive" aspectCategories="Aminities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_12">Smoking is prohibited in the premises.
+    <aspectTerm term="Smoking" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_13">The staffs are very attentive and explain in detail to the visitors about all facilities, ride etc.
+    <aspectTerm term="staffs" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="24">
+    <Title>"Water fun for a hot day"    </Title>
+    <Username>bumshiva    </Username>
+    <Userloc>Auroville, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 16 June 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>42 reviews    </total_reviews>
+    <helpful_votes>24 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="24_0">Very well organised, nevertheless too often you find long queues for the best attractions.
+    <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_1">Strange, for somebody coming from abroad, to see young boys and girls taking bath and splash in water, but completely dressed.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_2">Basic animation.
+    <aspectTerm term="animation" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_3">The day we went a heavy storm broke up in the afternoon, so we couldn't enjoy the late and night attractions.
+    <aspectTerm term="storm" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_4">Quite average, I would say, but a surprise for India
+    <aspectTerm term="surprise" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="25">
+    <Title>"Fun day...."    </Title>
+    <Username>bunnyalberts    </Username>
+    <Userloc>Jamshedpur, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 15 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>73 reviews    </total_reviews>
+    <helpful_votes>81 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="25_0">This was our 2nd visit to wonderla in 3 years.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_1">Since the holiday season was on - the crowd was too much.
+    <aspectTerm term="crowd" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_2">Anyway you can take a fast track ticket for double the cost and skip the large queue.
+    <aspectTerm term="cost" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_3">However if you are going on a normal off season day i do not recommend the fadst track ticket as they are quite expensive!
+    <aspectTerm term="fadst track" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="25_6">They have a lot of rides for kid - overall good amusement park.
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="26">
+    <Title>"Fun day"    </Title>
+    <Username>Karen F    </Username>
+    <Userloc>Sunshine Coast, Australia    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 14 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="26_0">Well worth the visit.
+    <aspectTerm term="visit" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_1">Waterslides were great.
+    <aspectTerm term="Waterslides" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_2">Just a warning,be careful what you choose to go on,as the power does go out sometimes.
+    <aspectTerm term="power" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+
+ 
+  <sentence id="26_7">Segways a great ride.
+    <aspectTerm term="Segways" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="27">
+    <Title>"fine entertainment"    </Title>
+    <Username>Kuruvilla C    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 June 2015    </Review_date>
+    <Date_of_visit>Visited October 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>18 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="27_0">gud place for some water entertainment.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ <tripreview review_index="28">
+    <Title>"wonderla is wonderful"    </Title>
+    <Username>Shafi A    </Username>
+    <Userloc>Riyadh, Saudi Arabia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 11 June 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="28_0">I was there with my children and other relatives, all were so happy by seeing this wonderful theme park, they have 3D show at the exit of park, very nice experience.
+    <aspectTerm term="theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="3D show" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_1">the food inside also good, very nice place.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_2">a must to visit and value for money.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="29">
+    <Title>"Good Fabulous to be with friends"    </Title>
+    <Username>Girinath    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 June 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="29_0">One of the very best theme parks ever seen.
+    <aspectTerm term="theme parks" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_1">Nice charming climate and secure place with lot amenities.
+    <aspectTerm term="climate" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_2">a must revisit place to have a day fulfilled overwhelming fun.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="30">
+    <Title>"Nice amusement Park"    </Title>
+    <Username>blnprasadprasad    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 7 June 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="30_0">Basically wonderla is one of the best amusement park group in india they do have in bangalore and coming soon in Hyderabad, I recommend to visit you will have good time there will be packages for purchasing tickets if you going for weekends and holidays there will be big queue at every ride so opt FASTTRACK Tickets in which you can save your time and you will complete all your Rides
+    <aspectTerm term="wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="FASTTRACK Tickets" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_2">if you are going for weekdays no problem
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="30_11">If you are group you can save lot of money for Photo Package
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="31">
+    <Title>"Paradise lost"    </Title>
+    <Username>Tatukochi    </Username>
+    <Userloc>Kochi    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>29 reviews    </total_reviews>
+    <helpful_votes>23 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="31_0">Amazingly cleanly maintained theme park, excellent for a family day out, and to bring out the child in you.
+    <aspectTerm term="theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="32">
+    <Title>"Awesome experience "    </Title>
+    <Username>Aadhi A    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="32_0">You can enjoy a great time with friends
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_1">clean surroundings, healthy food
+    <aspectTerm term="surroundings" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_2">Safety assuring rides
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="33">
+    <Title>"Awesome Experience.... Have to visit and revisit..."    </Title>
+    <Username>DrArunBabu    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 4 June 2015    </Review_date>
+    <Date_of_visit>Visited October 2014    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="33_0">Awesome experience.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_1">Clean surroundings.
+    <aspectTerm term="surroundings" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_2">healthy food.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_3">It would be better to deposit some cash and get that watch(which functions like a debit card) as long as you are inside the amusement park.
+    <aspectTerm term="watch" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_4">It saves us from taking paper currency in pockets to get any food or drinks or stuff.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_5">There are many breathtaking moments in space gun, free fall etc.
+    <aspectTerm term="space gun" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="free fall" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_6">Water games are superb
+    <aspectTerm term="Water games" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="33_8">Even after spending a whole day there, we were not contended.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="34">
+    <Title>"Wonderla -"    </Title>
+    <Username>kannancp    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 June 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="34_0">Had a great time with my friends.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_1">The hill top hangout place gives you a fresh feel.
+    <aspectTerm term="hill top hangout place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_2">Neat and clean.
+    <aspectTerm term="clean" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_3">Two times, I visited the park.
+    <aspectTerm term="park" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="35">
+    <Title>"Awesome, Great, Amazing and Wonderful Wonder La amusement park for everyone. Never missed to visit WONDER LA."    </Title>
+    <Username>SHIRISH3333    </Username>
+    <Userloc>Ahmedabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="35_0">If you are in or around Kochi, Never missed visit to Wonderla amusement park.
+    <aspectTerm term="Wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_1">This one of the Best in India.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_2">There are many kind of rides available.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_3">Inside amusement park =   Rides : Water rides, Dry rides, Thrill rides, Kids rides.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_4">There are also 3d theater name is XD max and Cinemagic ride.
+    <aspectTerm term="XD max" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_5">Both show wow amazing.
+    <aspectTerm term="show" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_6">You and your friends and family I sure say wow amazing experience.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_7">Musical fountain and Laser show also very very lovely.
+    <aspectTerm term="Musical fountain" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Laser show" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_8">Thall all are in include just in one ticket, Not pay any extra for any ride or show.
+    <aspectTerm term="ticket" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_9">You will have to pay only for your food.
+    <aspectTerm term="food" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_10">Ticket rate: 730 (Monday to Friday) 912 (Sat-Sunday-holiday) per person.
+    <aspectTerm term="Ticket rate" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_11">Fast track ticket also available in 1460 and 1830 per person respectively.
+    <aspectTerm term="Fast track ticket" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_12">Fast track ticket benefits is you will not have to wait for ride in queue.
+    <aspectTerm term="Fast track ticket" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_13">in vacation and holidays there so much rush so sometime you will have to join queue for your ride.
+    <aspectTerm term="rush" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_14">If you do not like to wait for your ride so buy fast track ticket, it's costly but save your time for ride.
+    <aspectTerm term="fast track ticket" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="35_15">Food :  Food quality is very good and very affordable too.
+    <aspectTerm term="Food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_16">tea, Coffee, snacks, Idli, Biryani(veg and non veg both), Biscuits, cookies, fast food, wefers available.
+    <aspectTerm term="Food" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_17">All food come with good quality.
+    <aspectTerm term="food" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_18">Food stall staffs are very good.
+    <aspectTerm term="Food stall staffs" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_19">Medical emergency : WonderLa have a own ambulance there so you need not worry about medical emergency.
+    <aspectTerm term="ambulance" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_20">They provide fast medical service if something happen.
+    <aspectTerm term="medical service" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_21">WonderLa staffs are very helpful and friendly.
+    <aspectTerm term="WonderLa staffs" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_22">You can easily access your query solution from there about park.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_23">Parking :  Parking facilities is best there.
+    <aspectTerm term="Parking facilities" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_24">Very huge area of parking.
+    <aspectTerm term="area of parking" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_25">Your vehicle is safe there.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_26">Suggestion : --- Please reach at park on morning time when open.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_27">so you can enjoy all rides without missing any ride.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_28">--- XD max, Cinemagic, Laser show Musical fountain show under schedule timing.
+    <aspectTerm term="XD max, Cinemagic, Laser show Musical fountain show" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_29">Best to visit these at afternoon time after lunch.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_30">--- Please always keep your children with you.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_31">Park is very big and people rush is very huge so take more care of your children.
+    <aspectTerm term="Park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="rush" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_32">--- Teenegers please be confident first before enter to any ride.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_33">Some rides are very horrible.
+    <aspectTerm term="rides" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_34">(Twin flip monster, Super jumper, Space gun, Maverick, Thunder fall etc.
+    <aspectTerm term="Twin flip monster" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Super jumper" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Space gun" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Maverick" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Thunder fall" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_35">) Heart patient don't go on above ride.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_36">---Locker available so best to get locker and put your ornaments and other things there.
+    <aspectTerm term="Locker" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_37">Enjoy there for new experience.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_38">Wonderful Wonder La.
+    <aspectTerm term="Wonder La" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="36">
+    <Title>"Lots of fun"    </Title>
+    <Username>letigammill2014    </Username>
+    <Userloc>Fort Lauderdale, Florida    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>52 reviews    </total_reviews>
+    <helpful_votes>29 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="36_0">We spent nearly 2 months traveling in India as a family and Australian friends of ours recommended that we visited Wonderla in Kochi.
+    <aspectTerm term="Wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_1">On our last day before leaving the country, we visited the park with our 2 kids (14 and 12 year old).
+    <aspectTerm term="park" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_2">It was quite an experience for everyone.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_3">It was a packed vacation day for the locals and visitors, and it seemed that we were the only foreign tourists in the park.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_4">Everything is very clean and the changing rooms were very spacious.
+    <aspectTerm term="changing rooms" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="clean" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_5">We enjoyed the water park a lot and decided to pay for the Fast Track tickets due to the crowded lines.
+    <aspectTerm term="water park" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ <aspectTerm term="Fast Track tickets" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_6">We met several locals and posed for lots of pictures.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_7">Lunch was good and cheap at one of the fast food restaurants.
+    <aspectTerm term="Lunch" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_8">At the end of the day our 14-year-old mentioned that it was his favorite day of our visit to India.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_9">It was certainly a great way to finish a memorable trip to India!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="37">
+    <Title>"Affordable amusement park"    </Title>
+    <Username>rohitmahambrey    </Username>
+    <Userloc>Mapusa, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 26 May 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>29 reviews    </total_reviews>
+    <helpful_votes>10 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="37_0">Wonderla has 2 outlets in India - Bangalore and Kochi.
+    <aspectTerm term="Wonderla" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_1">I visited the Kochi outlet.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_2">What I liked about it compared to other similar outlets in India (eg Adlabs Imagica, Pune and Essel world Water Kingdom) is  1.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_3">Parking absolutely free  2.
+    <aspectTerm term="Parking" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_4">No restrictions in carrying food items / beverages in the park (no hoardings mentions prevention neither frisking)  3.
+    <aspectTerm term="restrictions" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_5">In the event you have to eat / drink from different options available inside the park they are reasonably priced  4.
+    <aspectTerm term="options" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_6">Pricing for entry tickets is quite reasonable   I would recommend fast track as it is crowded (we chose) so no waiting.
+    <aspectTerm term="entry tickets" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="fast track" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_7">Only thing fast track not sold online   Cons: Park timings are 11 - 6 pm only on weekdays which gives lesser time in the park considering it has both dry and wet rides (so you waste time in changing).
+    <aspectTerm term="fast track" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="Park timings" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="38">
+    <Title>"Best place to be with family"    </Title>
+    <Username>Deepu K    </Username>
+    <Userloc>Manama, Bahrain    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 25 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="38_0">Had a great time with family.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_1">Nice and neat place.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_2">Well organized.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_3">If you can afford, please go for FastTrack to make sure, time is not wasted in waiting lines.
+    <aspectTerm term="FastTrack" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="39">
+ 
+    <Title>"Best place for your kids to enjoy"    </Title>
+    <Username>Sumitz26    </Username>
+    <Userloc>Hamilton, New Zealand    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 21 May 2015    </Review_date>
+    <Date_of_visit>Thank Sumitz26    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="40_0">I have been there multiple times and each time I go, I find new rides set up.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_1">Your kids can enjoy it more than you and it is one of the best water theme parks available in India.
+    <aspectTerm term="it" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="41">
+    <Title>"The Best water theme park in India"    </Title>
+    <Username>Shibu Z T T    </Username>
+    <Userloc>Kerala, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 18 May 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>99 reviews    </total_reviews>
+    <helpful_votes>58 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="41_0">This is the best water theme park I have visited in India.
+    <aspectTerm term="water theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_1">I have visited almost all theme parks in India and this is the one that is maintained well.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_2">Clean and neat.
+    <aspectTerm term="clean" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_3">Rides are also more in numbers.
+    <aspectTerm term="Rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_4">Better than wonderla in Bangalore.
+    <aspectTerm term="wonderla" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_5">My son loves this place and every time to kerala this is a must visit place for me and my family.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_6">A day full of fun for family.
+    <aspectTerm term="fun" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_7">Food is available in plenty.
+    <aspectTerm term="Food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ 
+
+ </tripreview>
+ <tripreview review_index="42">
+ 
+    <Title>"Fun Fun"    </Title>
+    <Username>Helen B    </Username>
+    <Userloc>Melbourne, Australia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 May 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="43_0">We had such fun at the park.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="43_1">It was so interesting as an Australian in so many ways.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ <tripreview review_index="44">
+    <Title>"Thrills coming your way"    </Title>
+    <Username>RahulDP    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 10 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="44_0">A perfect place to hang out with anyone be it friends or family.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="44_2">This could be the perfect vacation that you may envision.
+    <aspectTerm term="vacation" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="45">
+    <Title>"JUST EXCELLENT!!"    </Title>
+    <Username>Jobin J    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 8 May 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="45_0">We enjoyed a lot.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="45_2">The whole park is the result of excellent workers.
+    <aspectTerm term="workers" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_3">Thank you all for this wonder full memory!
+    <aspectTerm term="memory" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="46">
+    <Title>"The best!"    </Title>
+    <Username>Anirudh_Shirsat    </Username>
+    <Userloc>Ponda, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 8 May 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>74 reviews    </total_reviews>
+    <helpful_votes>49 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="46_0">Went with only my brother and mom here.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_1">Had amazing amount of fun!
+    <aspectTerm term="fun" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_2">Loved it to the core.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_3">Great rides!
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_4">Had lots of fun and in the end was satisfied to the brink and went out with a big smile on my face.
+    <aspectTerm term="none" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="47">
+    <Title>"FUN FUn And Fun"    </Title>
+    <Username>Honeyduke2014    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 May 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>72 reviews    </total_reviews>
+    <helpful_votes>89 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="47_0">The most amazing place to get in water urself
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_1">had sooo mmuch fun here .
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="47_3">visited as a part of colg excursion and no words to explain.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="47_5">we all enjoyed the place soo much as not sure wtr we will able to enjoy like this any wr else
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_6">Just Visit enjoy ride, play , pool etc .
+    <aspectTerm term="ride" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>'
+<aspectTerm term="play" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+<aspectTerm term="pool" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="48">
+    <Title>" Enjoy, it's pure fun !!"    </Title>
+    <Username>Anjutres    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 26 April 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>29 reviews    </total_reviews>
+    <helpful_votes>65 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="48_0">It was pure fun and thoroughly enjoyed every bit.
+    <aspectTerm term="fun" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_1">A great opportunity to make friends with your kids.
+    <aspectTerm term="opportunity" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="48_3">The park is well maintained with very courteous and welcoming staff.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_4">It is nicely spread out with areas for wet and dry activities.
+    <aspectTerm term="wet and dry activities" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_5">It also has a number of cafes, restaurants and ice cream parlours.
+    <aspectTerm term="cafes" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="restaurants" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="ice cream parlours" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_6">All areas especially the pools, toilets, changing areas are all kept very clean and look pretty hygienic.
+    <aspectTerm term="pools" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="toilets" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="changing areas" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_7">We actually saw a staff taking samples and testing the pool water, it was a very reassuring sight.
+    <aspectTerm term="sight" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_8">Go there with your family and friends, it will definitely be a memorable day.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="49">
+    <Title>"Sparkling day"    </Title>
+    <Username>ShijiMohan    </Username>
+    <Userloc>Muscat, Oman    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 22 April 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>14 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="49_0">Enjoyed a lot with my family members.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="49_2">The whole day with full of energy and eagerness.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_3">Hope we will make an other visit in couple of months.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="50">
+    <Title>"VERY NICE AND WELL MANAGE"    </Title>
+    <Username>ishfaqali    </Username>
+    <Userloc>Warangal, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 18 April 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>40 reviews    </total_reviews>
+    <helpful_votes>53 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="50_0">VERY GOOD LOCATION ,all type of children games available but one suggestion go for fast track ticket to avoid long que in any game counter even though double the price as it saves lots of time and energy only staff can be more well trained and with a good smile as most of the customers are cute childer with so much exitement so they should be taught to be more pateint ,all places safety mesures are followed ,kudos for that
+    <aspectTerm term="LOCATION" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="children games" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="fast track ticket" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="51">
+    <Title>"Excellent Water Theme Park"    </Title>
+    <Username>Yadav987    </Username>
+    <Userloc>Pune, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 18 April 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="51_0">It is one of the excellent water theme park with lots of dry and water rides
+    <aspectTerm term="water theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="51_2">really enjoyed.
+    <aspectTerm term="null" polarity="positive" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_3">It was a bit crowded due to vacation time,otherwise good.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ <tripreview review_index="52">
+    <Title>"Good Theme Park....."    </Title>
+    <Username>jaiganesh2k    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 17 April 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>17 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="52_0">It seems to be good theme park
+    <aspectTerm term="theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_1">And its best class in water theme and amusement park.
+    <aspectTerm term="water theme" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_2">Large number of games and lot of entertainment
+    <aspectTerm term="games" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="entertainment" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="53">
+    <Title>"Wonderla Amusement Park"    </Title>
+    <Username>sreenathr10    </Username>
+    <Userloc>Kasaragod, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 17 April 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>49 reviews    </total_reviews>
+    <helpful_votes>51 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="53_0">wonderla is a one of the good amusement park that I have gone.
+    <aspectTerm term="wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_1">it is really adventures.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_2">there is so many rides.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_3">like roller coaster etc.
+    <aspectTerm term="roller coaster" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="54">
+    <Title>"Good place to visit "    </Title>
+    <Username>SALMAN A    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 16 April 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="54_0">A nice place to be , has son extreme thrill rides and good place for the kids to enjoy
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_1">It's always good to visit here on a weekday so that u you don't get caught to a crowd which will make you tired by standing in the q for along time
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="crowd" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_2">I suggest you take the fast track pass on a weekend visit !
+    <aspectTerm term="fast track" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_5">It is double the ticket price but is actually worth on a weekend , specially on a school holiday time
+    <aspectTerm term="null" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="55">
+    <Title>"The best amusement park I've ever visited."    </Title>
+    <Username>JesilJose    </Username>
+    <Userloc>Ernakulam, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 16 April 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>10 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="55_0">One of the best water-themed amusement parks in India.
+    <aspectTerm term="water-themed amusement parks" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_1">One of the safest too.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_2">Our family had the best time ever.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_3">The food court isn't bad either.
+    <aspectTerm term="food court" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_4">The rides are exhilarating and mind blowing.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_5">The only negative is that if you misplace any belongings, there's very little chance of finding it or getting it back.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="56">
+    <Title>"The last word for Amusements in Kerala !!!"    </Title>
+    <Username>SHNAIR123    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 8 April 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>292 reviews    </total_reviews>
+    <helpful_votes>419 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="56_0">Wonderla has 55 land and water-based rides.
+    <aspectTerm term="Wonderla" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_1">The park features a wide variety of attractions including some rides, water rides, a musical fountain and laser shows, a virtual reality show.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="rides" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="water rides" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="musical fountain" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="virtual reality show" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="laser shows" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_2">Wonderla has conference facilities for up to 1,000 persons, and features five restaurants with a total seating capacity of 1,150.
+    <aspectTerm term="Wonderla" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_3">It has locker rooms with over 2,350 lockers and restrooms and showers.
+    <aspectTerm term="locker rooms" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_4">[citation needed] The park also features a first aid facility and a paging system.
+    <aspectTerm term="first aid facility" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_5">Wonderla opened its resort, an 84-room hotel complex spread over 100,000 square feet to public in 2012.
+    <aspectTerm term="Wonderla" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_6">The resort features dedicated children's play areas and other recreational and conferencing facilities.
+    <aspectTerm term="resort" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="children's play areas" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+<aspectTerm term="conferencing facilities" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="57">
+    <Title>"GOOD AMUSEMENT PARK"    </Title>
+    <Username>BaluVenkatesh    </Username>
+    <Userloc>Singapore, Singapore    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 6 April 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>14 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="57_0">Nothing new or special.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_1">But we enjoyed.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_2">Location too far from City.
+    <aspectTerm term="Location" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_3">It would be better if they launch any new attracting activities.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_4">Activities they have that we could see in all Amusement Parks.
+    <aspectTerm term="Activities" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_5">Nothing Unique but worth for the money.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="58">
+    <Title>"Wonde La!"    </Title>
+    <Username>MhdMuqthar    </Username>
+    <Userloc>Malappuram, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 April 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>45 reviews    </total_reviews>
+    <helpful_votes>37 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="58_0">As its name the park is filled with a lot of wonderful rides!
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_1">the park is able to entertain people of all ages!
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_2">The park is very hygienic and is the best among the water theme parks in southern inda!
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="59">
+    <Title>"cheer full experience."    </Title>
+    <Username>panx21    </Username>
+    <Userloc>India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 April 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>50 reviews    </total_reviews>
+    <helpful_votes>52 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="59_0">wonder la as per its name an excellent amusement park with lot of wonderful rides.
+    <aspectTerm term="wonder la" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_1">specially two family rides are amazing.
+    <aspectTerm term="family rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_2">its well maintained, clean place with lot of game and water fun options.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_3">staff is courteous and friendly.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_4">a family friendly atmosphere.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="60">
+    <Title>"Ver nice place dont miss it / buy fast track ticket if u can afford its the best"    </Title>
+    <Username>DRCDK    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 March 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>11 reviews    </total_reviews>
+    <helpful_votes>8 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="60_0">Well maintained/sooo clean the whole campus all water rides have never seen a theme park so clean//friendly staff/take some caps to walk around or u can buy them as soon as you enter.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="61">
+    <Title>"wonderful experience"    </Title>
+    <Username>Anish V    </Username>
+    <Userloc>Kothamangalam, Kerala, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 March 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="61_0">wonder la is really the best amusement park in Kerala and south India .
+    <aspectTerm term="wonder" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="62">
+    <Title>"A great experience"    </Title>
+    <Username>rubystella08    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 March 2015    </Review_date>
+    <Date_of_visit>Visited October 2014    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>134 reviews    </total_reviews>
+    <helpful_votes>78 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="62_0">An excellent theme park with wonderful rides and games including water games for which it is famous for.
+    <aspectTerm term="theme park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="water games" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_1">Promises for an excellent picnic with families and friends.
+    <aspectTerm term="picnic" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="63">
+    <Title>"Fantastic theme park. Recommended to all"    </Title>
+    <Username>albinxavier333    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 26 March 2015    </Review_date>
+    <Date_of_visit>Visited April 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>33 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="63_0">Been here several times.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_1">This place is one of a kind compared to all the other water theme park.
+    <aspectTerm term="place " polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_2">You can enjoy the whole day with out any bore.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_3">The water is clear an hygienic.
+    <aspectTerm term="water" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_4">This is a great place to enjoy with friends and family.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_5">Recommend to all.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="64">
+    <Title>"Grat fun"    </Title>
+    <Username>Isha7788    </Username>
+    <Userloc>Malappuram, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 26 March 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>19 reviews    </total_reviews>
+    <helpful_votes>24 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="64_0">We went to Wonderla in December with family it was grate fun.
+    <aspectTerm term="Wonderla" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_1">Actually in one day we cant finish all the games.
+     <aspectTerm term="games" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="65">
+    <Title>"The best water parks in India"    </Title>
+    <Username>Riya_Mampilly    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 24 March 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>16 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="65_0">The rides are very good and exciting!
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_1">Ideal to spend a whole day at this amusement park.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_2">The water rides and land rides are equally good.
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="land rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="66">
+    <Title>"Fantastic theme park"    </Title>
+    <Username>kevinjohn1991    </Username>
+    <Userloc>Cochin    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 21 March 2015    </Review_date>
+    <Date_of_visit>Visited April 2014    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>173 reviews    </total_reviews>
+    <helpful_votes>61 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="66_0">The park is probably one of the better(if not the best), theme parks in South India.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_1">The park is beautifully set in the middle of a peaceful town.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_2">The rides are extremely good and the park is very clean.
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_3">The food at the various outlets in the park are pathetic to say the least.
+    <aspectTerm term="food" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_4">The park can be very crowded during the weekends and on public holidays.
+    <aspectTerm term="park" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="67">
+    <Title>"Excellent and value for Money"    </Title>
+    <Username>aishabb    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 20 March 2015    </Review_date>
+    <Date_of_visit>4    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>34 reviews    </total_reviews>
+    <helpful_votes>48 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="67_0">Been along with my family for this trip, the park opens only by 11 AM, i think they should change the timings and start early as we will not will be able to cover all the rides .
+    <aspectTerm term="timings" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_1">Expect a long ques for buying a ticket as the place is always crowded.
+    <aspectTerm term="ques" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_2">The place is very pleasant, very well maintained and peaceful.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_3">The park is very well maintained and very clean.
+    <aspectTerm term="park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="68">
+    <Title>"Nice place to unwind."    </Title>
+    <Username>Donald D    </Username>
+    <Userloc>Kollam, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 18 March 2015    </Review_date>
+    <Date_of_visit>Visited October 2014    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>210 reviews    </total_reviews>
+    <helpful_votes>74 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="68_0">Beautifully set and maintained this amusement park has come a long way since it started off in the name of Veegaland.
+    <aspectTerm term="amusement park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_1">There are many rides but it is best to choose them specially during holiday season as much time will be lost waiting in the queue.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_2">The water rides are awesome and enjoyable , recommended for the family.
+    <aspectTerm term="water rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ 
+
+
+ <tripreview review_index="69">
+<Title>"fun filled"    </Title>
+    <Username>latha333    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 18 March 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Wonderla Amusement Park    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="69_0">kids are so happy with a day filled with all the fun rides .
+    
+    <aspectTerm term="rides" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="69_1">also must visit is wonderla at Kochi.
+    <aspectTerm term="wonderla" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="69_2">and the eateries around keep the kids totally happy .
+    <aspectTerm term="eateries" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+</tripreview>
+</review>
