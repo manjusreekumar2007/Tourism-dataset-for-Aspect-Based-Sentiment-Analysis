@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<review><tripreview review_index="0">
+    <Title>"Great collection of Artefacts"    </Title>
+    <Username>Jose M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>Jose M    </Review_extracted_on>
+    <Contributor_level>"Great collection of Artefacts"    </Contributor_level>
+    <total_reviews>Reviewed 3 days ago NEW    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This is the passion of one family. The building itself is designed and built by them and you are likely to meet the couple and their son. They collected the exhibits over many years. Wish they had a much larger place to display. 
+Highly recommended    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="0_0">This is the passion of one family.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_1">The building itself is designed and built by them and you are likely to meet the couple and their son.
+    <aspectTerm term="building" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_2">They collected the exhibits over many years.
+    <aspectTerm term="exhibits" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_3">Wish they had a much larger place to display.
+    <aspectTerm term="place" polarity="negative" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="1">
+    <Title>"Good exibition"    </Title>
+    <Username>Ellafrieda    </Username>
+    <Userloc>Berlin, Germany    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>Ellafrieda    </Review_extracted_on>
+    <Contributor_level>"Good exibition"    </Contributor_level>
+    <total_reviews>Reviewed 6 days ago NEW    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>The place is very interesting and nice. They have many things they show. The stuff is kind and helpful. But also a little bit pushing to buy something in the shop. The arcitecture is great.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="1_0">The place is very interesting and nice.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_1">They have many things they show.
+    <aspectTerm term="things" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_2">The stuff is kind and helpful.
+    <aspectTerm term="stuff" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_3">But also a little bit pushing to buy something in the shop.
+    <aspectTerm term="shop" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_4">The arcitecture is great.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="2">
+    <Title>"jam-packed with exhibits"    </Title>
+    <Username>Marina P    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Review_extracted_on>Marina P    </Review_extracted_on>
+    <Contributor_level>"jam-packed with exhibits"    </Contributor_level>
+    <total_reviews>Reviewed 1 week ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>this museum is jam-packed with exhibits. But almost no labels with dates and explanations of things. Poor work-staff scientists    </Destination>
+    <Place>Visited March 2015    </Place>
+  <sentence id="2_0">this museum is jam-packed with exhibits.
+    <aspectTerm term="exhibits" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_1">But almost no labels with dates and explanations of things.
+    <aspectTerm term="labels" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="3">
+    <Title>"Amazing collection of some really ancient antiques"    </Title>
+    <Username>Vaibhav30    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>Vaibhav30    </Review_extracted_on>
+    <Contributor_level>"Amazing collection of some really ancient antiques"    </Contributor_level>
+    <total_reviews>Reviewed 1 week ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Amazing collection of ancient antiques. Some were as old as 3000 B.C. Three floored structure and each piece of its architecture is antique. Some key points for travellers 
+1. Footwear not allowed. You have to keep your footwear in lockers outside. No charge for lockers. Guard is there. 
+2. Entry fee - Rs 100 
+3. Extra charge in case you want to take photographs. Very genuine amount. 
+4. People who cannot stand the smell of wooden polish should avoid this place as majority of antiques are wooden and all are protected by polish.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="3_0">Amazing collection of ancient antiques.
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_1">Some were as old as 3000 B.C. Three floored structure and each piece of its architecture is antique.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_2">Some key points for travellers  1.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_3">Footwear not allowed.
+    <aspectTerm term="Footwear" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_4">You have to keep your footwear in lockers outside.
+    <aspectTerm term="footwear" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_5">No charge for lockers.
+    <aspectTerm term="charge" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_6">Guard is there.
+    <aspectTerm term="Gaurd" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="3_8">entry fee - Rs 3.
+    <aspectTerm term="entry fee" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="3_10">Extra charge in case you want to take photographs.
+    <aspectTerm term="charge" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="photographs" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_11">Very genuine amount.
+    <aspectTerm term="amount" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="3_13">People who cannot stand the smell of wooden polish should avoid this place as majority of antiques are wooden and all are protected by polish.
+    <aspectTerm term="smell" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="4">
+    <Title>"Awesome Collection!"    </Title>
+    <Username>BhaswatiC    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>BhaswatiC    </Review_extracted_on>
+    <Contributor_level>"Awesome Collection!"    </Contributor_level>
+    <total_reviews>Reviewed 1 week ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>A three storeyed structure with a single person's collection of the cultural heritage of Kerala across centuries.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="4_0">A three storeyed structure with a single person's collection of the cultural heritage of Kerala across centuries.
+    <aspectTerm term="heritage" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="5">
+    <Title>"Very interesting eccentric collection"    </Title>
+    <Username>michnoquetUk    </Username>
+    <Userloc>UK    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>michnoquetUk    </Review_extracted_on>
+    <Contributor_level>"Very interesting eccentric collection"    </Contributor_level>
+    <total_reviews>Reviewed 1 week ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This museum is a delight of "stuff" one man collected over 40 years. It is arranged on three floors and there is everything from treasure to junk. Huge wooden carvings of elephants and Hindu gods along side enormous unglazed pots for poking dead people into for burial. Top floor is a Kathakali dance threatre with beautiful painted panels on the ceiling. A pleasant hour was spent and it would be easy to spend twice as long    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="5_0">This museum is a delight of "stuff" one man collected over 40 years.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_1">It is arranged on three floors and there is everything from treasure to junk.
+    <aspectTerm term="everything" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_2">Huge wooden carvings of elephants and Hindu gods along side enormous unglazed pots for poking dead people into for burial.
+    <aspectTerm term="wooden carvings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="carvings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_3">Top floor is a Kathakali dance threatre with beautiful painted panels on the ceiling.
+    <aspectTerm term="theatre" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="6">
+    <Title>"A must see in Kerala"    </Title>
+    <Username>Simon L    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>Simon L    </Review_extracted_on>
+    <Contributor_level>"A must see in Kerala"    </Contributor_level>
+    <total_reviews>Reviewed 1 week ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Visited in 2016 and so glad we did. 
+
+The Fort Kochi area can seem a little too touristy at times, so it was lovely to be able to experience some of the local culture in this way. 
+
+Situated at the southern end of Ernakulam and out of the city centre, we were told that the Folklore Museum is suffering from a lack of visitors. This is a real shame as it is no more than 15 mins by tuk tuk from the ferry port . Entry is Rs 200, with an extra 100 if you want to take photos (worthwhile to support the museum). 
+
+The museum houses a private collection in a purpose-built structure, combining Malabar, colonial Portuguese and Keralan styles of architecture. The roof is intricately carved and weighs 63 tonnes - it has to be seen to be believed! 
+
+The derth of items on show is incredible - large sculpture on the first floor, smaller items on the second and galleries packed full in between. There is also a collection of costumes for traditional dances which makes for great photos. 
+
+The people working there really help to make a visit worthwhile. They are very friendly, and forthcoming with the history of the collection and of Kerala. Don't be afraid to ask anything! 
+
+We stayed for almost 90 mins and had a great time. Combine a visit to the museum with a trip to one of the clothing stores for saris and fabric (we went to Kalyan Silks), and then lunch in The Grand (some of the best food we've had, and very inexpensive) and you can easily while away a whole morning.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="6_0">Visited in 2016 and so glad we did.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_1">The Fort Kochi area can seem a little too touristy at times, so it was lovely to be able to experience some of the local culture in this way.
+    <aspectTerm term="Fort" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_2">Situated at the southern end of Ernakulam and out of the city centre, we were told that the Folklore Museum is suffering from a lack of visitors.
+    <aspectTerm term="Ernakulam" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Folklore" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_3">This is a real shame as it is no more than 15 mins by tuk tuk from the ferry port Rs 100-150.
+    <aspectTerm term="tuk tuk" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="shame" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="6_5">Entry is Rs.10
+    <aspectTerm term="Entry" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_7">The museum houses a private collection in a purpose-built structure, combining Malabar, colonial Portuguese and Keralan styles of architecture.
+    <aspectTerm term="architecure" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_8">The roof is intricately carved and weighs 63 tonnes - it has to be seen to be believed!
+    <aspectTerm term="roof" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_9">The derth of items on show is incredible - large sculpture on the first floor, smaller items on the second and galleries packed full in between.
+    <aspectTerm term="item" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="galleries" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_10">There is also a collection of costumes for traditional dances which makes for great photos.
+    <aspectTerm term="costumes" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="traditional dances" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_11">The people working there really help to make a visit worthwhile.
+    <aspectTerm term="people" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_12">They are very friendly, and forthcoming with the history of the collection and of Kerala.
+    <aspectTerm term="people" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_13">Don't be afraid to ask anything!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_14">We stayed for almost 90 mins and had a great time.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_15">Combine a visit to the museum with a trip to one of the clothing stores for saris and fabric (we went to Kalyan Silks), and then lunch in The Grand (some of the best food we've had, and very inexpensive) and you can easily while away a whole morning.
+    <aspectTerm term="clothing stores" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="The Grand" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="7">
+    <Title>"Very nice!"    </Title>
+    <Username>meBriget    </Username>
+    <Userloc>Memphis, TN    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>meBriget    </Review_extracted_on>
+    <Contributor_level>"Very nice!"    </Contributor_level>
+    <total_reviews>Reviewed 2 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This museum is jam packed with wonderful artifacts! In fact, the displays are over- crowded and each piece doesn't get the recognition it deserves. I suppose that can't be helped in a limited space. The museum is new but built with materials from demolished buildings. Air conditioning would be nice for the tourists who aren't accustomed to the oppressive Kerala heat and humidity, and would also help in the preservation of the museum pieces.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="7_0">This museum is jam packed with wonderful artifacts!
+    <aspectTerm term="jam packed" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_1">In fact, the displays are over- crowded and each piece doesn't get the recognition it deserves.
+    <aspectTerm term="displays" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_2">I suppose that can't be helped in a limited space.
+    <aspectTerm term="space" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_3">The museum is new but built with materials from demolished buildings.
+    <aspectTerm term="materials" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_4">Air conditioning would be nice for the tourists who aren't accustomed to the oppressive Kerala heat and humidity, and would also help in the preservation of the museum pieces.
+    <aspectTerm term="Air conditioning" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="8">
+    <Title>"worth seeing private museum"    </Title>
+    <Username>ejsarma    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>ejsarma    </Review_extracted_on>
+    <Contributor_level>"worth seeing private museum"    </Contributor_level>
+    <total_reviews>Reviewed 2 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>the entry ticket is bit expensive but ok nice collection. they could do more by maintaining the collections    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="8_0">the entry ticket is bit expensive but ok nice collection.
+    <aspectTerm term="entry ticket" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="9">
+    <Title>"Very good collection of art materials"    </Title>
+    <Username>Chandasekaran    </Username>
+    <Userloc>Coimbatore, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Chandasekaran    </Review_extracted_on>
+    <Contributor_level>"Very good collection of art materials"    </Contributor_level>
+    <total_reviews>Reviewed 2 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>The place was small but once entered inside ,the richness of old art collection and display were amazing. All need to visit this museum if happens to be in Cochin.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="9_0">The place was small but once entered inside ,the richness of old art collection and display were amazing.
+    <aspectTerm term="old art collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="display" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_1">All need to visit this museum if happens to be in Cochin.
+    <aspectTerm term="Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="10">
+    <Title>"Excellent"    </Title>
+    <Username>utkarsh516    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>utkarsh516    </Review_extracted_on>
+    <Contributor_level>"Excellent"    </Contributor_level>
+    <total_reviews>Reviewed 2 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This museum surprised me to a great extent. This is not much promoted by the Kerala Tourism but it is surely one of the best places to visit in Kochi. It provides good information on Kerala Sculpture Arts, Architecture, Dances and other things. The wooden architecture and the paintings are awesome. I would recommend this place even for those people who do not like to visit the museum. If you are visiting Kochi, it should be in your bucket list.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="10_0">This museum surprised me to a great extent.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_1">This is not much promoted by the Kerala Tourism but it is surely one of the best places to visit in Kochi.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_2">It provides good information on Kerala Sculpture Arts, Architecture, Dances and other things.
+    <aspectTerm term="Arts" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="Architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="Dances" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_3">The wooden architecture and the paintings are awesome.
+    <aspectTerm term="wooden architecture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="paintings" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_4">I would recommend this place even for those people who do not like to visit the museum.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_5">If you are visiting Kochi, it should be in your bucket list.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="11">
+    <Title>"Good collection with magnificent the interior"    </Title>
+    <Username>Sachin_Voyager    </Username>
+    <Userloc>Pune    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>Sachin_Voyager    </Review_extracted_on>
+    <Contributor_level>"Good collection with magnificent the interior"    </Contributor_level>
+    <total_reviews>Reviewed 2 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Its three stories building with wooden interior and that is also one of attraction, carving is really worth to visit. 
+Collection also wide spread from old age to recent metal unique pieces, must visit place.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="11_0">Its three stories building with wooden interior and that is also one of attraction, carving is really worth to visit.
+    <aspectTerm term="wooden interior" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="carving" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_1">Collection also wide spread from old age to recent metal unique pieces, must visit place.
+    <aspectTerm term="Collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="12">
+    <Title>"Good Traditional Stuff Collection"    </Title>
+    <Username>Deepak G    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Deepak G    </Review_extracted_on>
+    <Contributor_level>"Good Traditional Stuff Collection"    </Contributor_level>
+    <total_reviews>Reviewed 3 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>I generally keep Museums lowest on my agenda as I get bore very quickly. However considering the rating and the fact that this hotel was mere 100mtr from my hotel (Keys), I decided to give it a visit. 
+It has a very good collection of Keralite Antiques and the entire ambience keeps you engaged. 
+Duration You'd need- ~45mins 
+Crowded - No 
+Fee - 100 per person + 100 extra for carrying digital camera 
+Recommended - Yes.    </Destination>
+    <Place>    </Place>
+  <sentence id="12_0">I generally keep Museums lowest on my agenda as I get bore very quickly.
+    <aspectTerm term="Museums" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_1">However considering the rating and the fact that this hotel was mere 100mtr from my hotel (Keys), I decided to give it a visit.
+    <aspectTerm term="rating" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_2">It has a very good collection of Keralite Antiques and the entire ambience keeps you engaged.
+    <aspectTerm term="Keralite Antiques" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_3">Duration You'd need- ~45mins  Crowded - No  Fee - 100 per person + 100 extra for carrying digital camera  Recommended - Yes.
+    <aspectTerm term="duration" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="crowd" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Fee" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="13">
+    <Title>"Fantastic museum"    </Title>
+    <Username>byvonne    </Username>
+    <Userloc>The Hague, The Netherlands    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>byvonne    </Review_extracted_on>
+    <Contributor_level>"Fantastic museum"    </Contributor_level>
+    <total_reviews>Reviewed 3 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This place is for some reason often forgotton amonst the sights to see in Kochi. We went there on a slow day and were quite blown away! The museum is a comprehensive treasure house of Keralan Folk Art through the ages, with just hundreds of beautiful pieces. If I were telling somebody what to see in Kochi I'd advise that this museum be among their first ports of call.    </Destination>
+    <Place>    </Place>
+  <sentence id="13_0">This place is for some reason often forgotton amonst the sights to see in Kochi.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_1">We went there on a slow day and were quite blown away!
+    <aspectTerm term="blown away" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_2">The museum is a comprehensive treasure house of Keralan Folk Art through the ages, with just hundreds of beautiful pieces.
+    <aspectTerm term="musuem" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="13_3">If I were telling somebody what to see in Kochi I'd advise that this museum be among their first ports of call.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="14">
+    <Title>"Amazing "    </Title>
+    <Username>queensquitter    </Username>
+    <Userloc>goucestershire    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>queensquitter    </Review_extracted_on>
+    <Contributor_level>"Amazing "    </Contributor_level>
+    <total_reviews>Reviewed 3 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>I can honestly say that this little museum contains so many beautiful treasures worthy of any museum in the world. A fantastic opportunity to see ancient artefacts and magnificent examples of southern Indian culture.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="14_0">I can honestly say that this little museum contains so many beautiful treasures worthy of any museum in the world.
+    <aspectTerm term="treasures" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_1">A fantastic opportunity to see ancient artefacts and magnificent examples of southern Indian culture.
+    <aspectTerm term="ancient artefacts" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="15">
+    <Title>"Commendable work and efforts"    </Title>
+    <Username>karunkunden    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>karunkunden    </Review_extracted_on>
+    <Contributor_level>"Commendable work and efforts"    </Contributor_level>
+    <total_reviews>Reviewed 3 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>I was impressed with Mr Thomas and his family hard work to bring such a nice Museum they have excellent collection and has put best efforts to restore and present our cultural heritage . If you want to explore and learn about the Kerala you should visit here . 
+excellent efforts.    </Destination>
+    <Place>    </Place>
+  <sentence id="15_0">I was impressed with Mr Thomas and his family hard work to bring such a nice Museum they have excellent collection and has put best efforts to restore and present our cultural heritage .
+    <aspectTerm term="Mr Thomas and his family" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="cultural heritage" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="15_1">If you want to explore and learn about the Kerala you should visit here .
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="15_2">excellent efforts.
+    <aspectTerm term="excellent" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="16">
+    <Title>"Private Collection"    </Title>
+    <Username>rxqueen7    </Username>
+    <Userloc>Mississauga    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Review_extracted_on>rxqueen7    </Review_extracted_on>
+    <Contributor_level>"Private Collection"    </Contributor_level>
+    <total_reviews>Reviewed 3 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This is an interesting museum , a private collection of rare items set over three floors. A lot of character pieces and a nice little store to purchase souvenirs as well as some of the artwork displayed.    </Destination>
+    <Place>Visited February 2016    </Place>
+  <sentence id="16_0">This is an interesting museum , a private collection of rare items set over three floors.
+    <aspectTerm term="items" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_1">A lot of character pieces and a nice little store to purchase souvenirs as well as some of the artwork displayed.
+    <aspectTerm term="artwork" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="17">
+    <Title>"Kerala in one building"    </Title>
+    <Username>SoumikPyne    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Review_extracted_on>SoumikPyne    </Review_extracted_on>
+    <Contributor_level>"Kerala in one building"    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This museum is a privately owned collection of rare items from the many old and dilapidated tharavads of Kerala, you can find it all here from 5th century swords to zamorin muskets and wooden masks to burial urns. 
+It's a little pricey but well worth the money.    </Destination>
+    <Place>Visited February 2015    </Place>
+  <sentence id="17_0">This museum is a privately owned collection of rare items from the many old and dilapidated tharavads of Kerala, you can find it all here from 5th century swords to zamorin muskets and wooden masks to burial urns.
+    <aspectTerm term="dilapidated tharavads" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_1">It's a little pricey but well worth the money.
+    <aspectTerm term="pricey" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="18">
+    <Title>"Best Museum in kochi. Near Subway Restaurant at Thevara ferry .Nice place"    </Title>
+    <Username>joymathew449    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>joymathew449    </Review_extracted_on>
+    <Contributor_level>"Best Museum in kochi. Near Subway Restaurant at Thevara ferry .Nice place"    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Its the best museum in kochi very near to Subway Restaurant at Thevara Ferry. A really really nice place. Looking forard to be back soon.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="18_0">Its the best museum in kochi very near to Subway Restaurant at Thevara Ferry.
+    <aspectTerm term="Subway Restaurant" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" Thevara Ferry" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_1">A really really nice place.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_2">Looking forard to be back soon.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="19">
+    <Title>"Worth a visit"    </Title>
+    <Username>lakshmi G    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>lakshmi G    </Review_extracted_on>
+    <Contributor_level>"Worth a visit"    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This place is really nice for people who enjoy our history. They have antiques, swords, artwork, art forms and paintings and more which are more than 200 years old. They are well maintained and gives us an insight of the life back then. Take a visit and it has lot more than what i mentioned to offer . It will be worth it.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="19_0">This place is really nice for people who enjoy our history.
+    <aspectTerm term="Museum" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_1">They have antiques, swords, artwork, art forms and paintings and more which are more than 200 years old.
+    <aspectTerm term="antiques" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="paintings" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_2">They are well maintained and gives us an insight of the life back then.
+    <aspectTerm term=" well maintained" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_3">Take a visit and it has lot more than what i mentioned to offer .
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_4">It will be worth it.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"Small jewel"    </Title>
+    <Username>ola79    </Username>
+    <Userloc>Szczecin, Poland    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>ola79    </Review_extracted_on>
+    <Contributor_level>"Small jewel"    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Although it's a little bit far from all places of interest in Kochi it really is worth the effort. A truly splendid place, although tiny it's packed with artifacts that kept me busy for over one hour. The traditional architecture of the museum is just wonderful and the wooden, classical kerala theatre on the 2nd floor simply took my breath away    </Destination>
+    <Place>    </Place>
+  <sentence id="20_0">Although it's a little bit far from all places of interest in Kochi it really is worth the effort.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_1">A truly splendid place, although tiny it's packed with artifacts that kept me busy for over one hour.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="21">
+    <Title>"Lovely artwork "    </Title>
+    <Username>SPai1986    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>SPai1986    </Review_extracted_on>
+    <Contributor_level>"Lovely artwork "    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>My visit to Folklore Museum was short but I enjoyed alot of the artwork. There's alot history and beautiful pieces. If you're bored and have time to kill then this is a place to check out. I wouldn't say it's a must-see spot.My only complaint is that the staff member who I purchased my ticket from was not so pleasant and that there's a fee to take photos. I understand the need to raise funds for this privately run museum but it's kinda silly to pay separately for taking photos when you already purchased an entrance ticket.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="21_0">My visit to Folklore Museum was short but I enjoyed alot of the artwork.
+    <aspectTerm term="Folklore" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_1">There's alot history and beautiful pieces.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_2">If you're bored and have time to kill then this is a place to check out.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_3">I wouldn't say it's a must-see spot.
+    <aspectTerm term="Museum" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_4">My only complaint is that the staff member who I purchased my ticket from was not so pleasant and that there's a fee to take photos.
+    <aspectTerm term="staff" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_5">I understand the need to raise funds for this privately run museum but it's kinda silly to pay separately for taking photos when you already purchased an entrance ticket.
+    <aspectTerm term="funds" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="entrance ticket" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="22">
+    <Title>"Too good a place! Dont miss this..."    </Title>
+    <Username>Asawari1946    </Username>
+    <Userloc>Kolhapur, Maharashtra, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>Asawari1946    </Review_extracted_on>
+    <Contributor_level>"Too good a place! Dont miss this..."    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>We 4 adults along with our kids of 5 n 8 years visited this. Everyone enjoyed this a lot! Its awesome! The collection they have with them is marvelous! All the historical things they have are really beyond imagination! The entry ticket is very cheap compared to the treasure inside!! Dont miss this!    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="22_0">We 4 adults along with our kids of 5 n 8 years visited this.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_1">Everyone enjoyed this a lot!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_2">Its awesome!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_3">The collection they have with them is marvelous!
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_4">All the historical things they have are really beyond imagination!
+    <aspectTerm term="historical things" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_5">The entry ticket is very cheap compared to the treasure inside!
+    <aspectTerm term="entry ticket" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="22_7">Dont miss this!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="23">
+    <Title>"Great historical view of Hindu icons"    </Title>
+    <Username>Lucy H    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>Lucy H    </Review_extracted_on>
+    <Contributor_level>"Great historical view of Hindu icons"    </Contributor_level>
+    <total_reviews>Reviewed 4 weeks ago    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>I was unsure about going to this museum, but was convinced by my guide to go. I am so grateful and glad I did    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="23_0">I was unsure about going to this museum, but was convinced by my guide to go.
+    <aspectTerm term="guide" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="24">
+    <Title>"A marvelous collection of articles relating to South Indian Folk Art- Must Visit"    </Title>
+    <Username>Geesv23    </Username>
+    <Userloc>Mysuru (Mysore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Geesv23    </Review_extracted_on>
+    <Contributor_level>"A marvelous collection of articles relating to South Indian Folk Art- Must Visit"    </Contributor_level>
+    <total_reviews>Reviewed 22 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>If you are in Cochin, this is one museum you should not miss. The highlight of this museum is that the museum in itself is a piece of art. Pillars, roofs, doors and windows from old palaces temples and houses have been effectively used in the construction of this museum. The museum houses an interesting array of artifacts relating to lifestyle, religion, language, music, dance and rituals. 
+This museum houses some really fine examples of Tanjavore glass paintings and some really cool mural paintings. A lot of effort has been put into making this a fantastic museum    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="24_0">If you are in Cochin, this is one museum you should not miss.
+    <aspectTerm term="Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_1">The highlight of this museum is that the museum in itself is a piece of art.
+    <aspectTerm term="art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_2">Pillars, roofs, doors and windows from old palaces temples and houses have been effectively used in the construction of this museum.
+    <aspectTerm term="roofs" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="Pillars" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="doors and windows" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_3">The museum houses an interesting array of artifacts relating to lifestyle, religion, language, music, dance and rituals.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_4">This museum houses some really fine examples of Tanjavore glass paintings and some really cool mural paintings.
+    <aspectTerm term="Tanjavore glass paintings" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="25">
+    <Title>"Mindblowing Antiquities collection and dispay at FOLKLORE museum"    </Title>
+    <Username>POTHULA    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>POTHULA    </Review_extracted_on>
+    <Contributor_level>"Mindblowing Antiquities collection and dispay at FOLKLORE museum"    </Contributor_level>
+    <total_reviews>Reviewed 22 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>JAN 20th, 2016 is most memorable day in my life since I was able to visit magnificent art gallery called "FOLKLORE" museum unexpectedly since it was next to my Hotel KEYS. I am always fascinate about the ancient ethnic artifacts, History and culture etc..In fact my entire Kerala tour would not have completed 100 percent if I could not have visited this gallery. 
+
+It was founded by Mr George Thaliath and his wife Annie. I should really appreciate their great interest, efforts and dedication in collecting, organizing and displaying magnificent antiquities. 
+
+The museum covers all varieties of artifacts related to ancient social, culture, art etc   mind-blowing collection and skillful display 
+
+Above all FOLKLORE theatre located in the second floor is the key attraction.
+
+I sincerely recommend to all travelers visiting Cochin to visit this place and encourage the family of Mr Goerge family. 
+
+Hats off to Mr Goerge and Ms Annie  if at all I get a chance to visit Cochin again and I shall certanely visit this place.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="25_0">JAN 20th, 2016 is most memorable day in my life since I was able to visit magnificent art gallery called "FOLKLORE" museum unexpectedly since it was next to my Hotel KEYS.
+    <aspectTerm term="FOLKLORE" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_1">I am always fascinate about the ancient ethnic artifacts, History and culture etc.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="25_3">In fact my entire Kerala tour wouldn't have completed 100% if I couldn't have visited this gallery.
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_4">It was founded by Mr George Thaliath and his wife Annie.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_5">I should really appreciate their great interest, efforts and dedication in collecting, organizing and displaying magnificent antiquities.
+    <aspectTerm term="antiquities" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_6">The museum covers all varieties of artifacts related to ancient social, culture, art etc.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="culture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_7">  mind-blowing collection and skillful display   Above all FOLKLORE theatre located in the second floor is the key attraction  .
+    <aspectTerm term="FOLKLORE" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_8">I sincerely recommend to all travelers visiting Cochin to visit this place and encourage the family of Mr Goerge family.
+    <aspectTerm term="Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_9">Hats off to Mr Goerge and Ms Annie  .
+    <aspectTerm term="Mr Goerge and Ms Annie" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="25_11">if at all I get a chance to visit Cochin again and I shall certanely visit this place.
+    <aspectTerm term="Cochin" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="26">
+    <Title>"costly place"    </Title>
+    <Username>karthikpk23    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 15 January 2016    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Review_extracted_on>karthikpk23    </Review_extracted_on>
+    <Contributor_level>"costly place"    </Contributor_level>
+    <total_reviews>Reviewed 15 January 2016    </total_reviews>
+    <helpful_votes>3    </helpful_votes>
+    <Destination>we went to this place. it is a private place and the cost per visit is too high. it is far better to visit Hill palace mueseum than this place    </Destination>
+    <Place>Visited June 2015    </Place>
+  <sentence id="26_0">we went to this place.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_1">it is a private place and the cost per visit is too high.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="27">
+    <Title>"Lovely building, lots of artifacts"    </Title>
+    <Username>jdselby    </Username>
+    <Userloc>Seattle, Washington    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 14 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>jdselby    </Review_extracted_on>
+    <Contributor_level>"Lovely building, lots of artifacts"    </Contributor_level>
+    <total_reviews>Reviewed 14 January 2016    </total_reviews>
+    <helpful_votes>3    </helpful_votes>
+    <Destination>We thought it was fine... lots of artifacts and interesting things to look at in a very lovely building. It's too bad they don't still do the Kathakali in the theater upstairs which is gorgeous and would be a fabulous venue.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="27_0">We thought it was fine
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="27_1">lots of artifacts and interesting things to look at in a very lovely building.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="27_2">It's too bad they don't still do the Kathakali in the theater upstairs which is gorgeous and would be a fabulous venue.
+    <aspectTerm term="Kathakali" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+ <tripreview review_index="30">
+    <Title>"Unusual local museum"    </Title>
+    <Username>caralyn s    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 11 January 2016    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>caralyn s    </Review_extracted_on>
+    <Contributor_level>"Unusual local museum"    </Contributor_level>
+    <total_reviews>Reviewed 11 January 2016    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This was an amazing find on the outskirts of Kochi. The ground floor is full of statues and a little dark but as you climb to the upper floors the exhibits are stunning especially the costumes and puppets. The small shop is also worth a visit, I bought some lovely rosewood book marks. The staff are extremely helpful too and anxious that more visitors find it, hence this review.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="30_0">This was an amazing find on the outskirts of Kochi.
+    <aspectTerm term="Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_1">The ground floor is full of statues and a little dark but as you climb to the upper floors the exhibits are stunning especially the costumes and puppets.
+    <aspectTerm term="floor" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="statues" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_2">The small shop is also worth a visit, I bought some lovely rosewood book marks.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_3">The staff are extremely helpful too and anxious that more visitors find it, hence this review.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="31">
+    <Title>"Fascinating collection!"    </Title>
+    <Username>Seeyouagainsoon    </Username>
+    <Userloc>Singapore, Singapore    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Seeyouagainsoon    </Review_extracted_on>
+    <Contributor_level>"Fascinating collection!"    </Contributor_level>
+    <total_reviews>Reviewed 9 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Interesting artifacts on display covering a span of 3 stories. This is definitely worth a visit! We met the collector himself when we were there, and he seems like a very humble gentleman.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="31_0">Interesting artifacts on display covering a span of 3 stories.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_1">This is definitely worth a visit!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_2">We met the collector himself when we were there, and he seems like a very humble gentleman.
+    <aspectTerm term="collector" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="collector" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="32">
+    <Title>"Good collection of antique crafts"    </Title>
+    <Username>AmarNaik    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 8 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>AmarNaik    </Review_extracted_on>
+    <Contributor_level>"Good collection of antique crafts"    </Contributor_level>
+    <total_reviews>Reviewed 8 January 2016    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>if you are interested in history and antiques then this a good place to visit. the multi storey building has a good collection of some of india's ancient antiques. 
+
+good place to visit once if you are in cochin.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="32_0">if you are interested in history and antiques then this a good place to visit.
+    <aspectTerm term="antiques" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_1">the multi storey building has a good collection of some of india's ancient antiques.
+    <aspectTerm term="storey" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_2">good place to visit once if you are in cochin.
+    <aspectTerm term="cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="33">
+    <Title>"Beautiful artifacts"    </Title>
+    <Username>ssrao    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>ssrao    </Review_extracted_on>
+    <Contributor_level>"Beautiful artifacts"    </Contributor_level>
+    <total_reviews>Reviewed 6 January 2016    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This musuem is just 10 minutes away from Ernakulam Railway station. Its beautiful wooden architecture arrests your attention from a distance. The museum has artifacts covering three floors and is a must visit if you are interested in history. The artifacts include statues of Gods, Goddesses, their vaahanas etc. dating some centuries back. There are portraits of royal men and women of Kerala.Taking pictures is allowed, so you may click photographs of manuscripts and seals etc. These would come handy while explaining history lessons to your children. The storage of artifacts seems to be an issue and one has to move carefully to avoid bumping into them.    </Destination>
+    <Place>    </Place>
+  <sentence id="33_0">This musuem is just 10 minutes away from Ernakulam Railway station.
+    <aspectTerm term="musuem" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_1">Its beautiful wooden architecture arrests your attention from a distance.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_2">The museum has artifacts covering three floors and is a must visit if you are interested in history.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_3">The artifacts include statues of Gods, Goddesses, their vaahanas etc.
+    <aspectTerm term="artifacts" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_4">dating some centuries back.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_5">There are portraits of royal men and women of Kerala.
+    <aspectTerm term="portraits" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_6">Taking pictures is allowed, so you may click photographs of manuscripts and seals etc.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_7">These would come handy while explaining history lessons to your children.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_8">The storage of artifacts seems to be an issue and one has to move carefully to avoid bumping into them.
+    <aspectTerm term="artifacts" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="34">
+    <Title>"Amazing Personal Effort."    </Title>
+    <Username>Chandan B    </Username>
+    <Userloc>Noida, Uttar Pradesh, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Review_extracted_on>Chandan B    </Review_extracted_on>
+    <Contributor_level>"Amazing Personal Effort."    </Contributor_level>
+    <total_reviews>Reviewed 6 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Have good collection of artefacts on Kerala's history. As we were told this is purely personal effort without any state's support which is commendable.    </Destination>
+    <Place>Visited January 2016    </Place>
+  <sentence id="34_0">Have good collection of artefacts on Kerala's history.
+    <aspectTerm term="collection of artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_1">As we were told this is purely personal effort without any state's support which is commendable.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="35">
+    <Title>"Lots of stuff - not so well curated"    </Title>
+    <Username>JohnEl_121    </Username>
+    <Userloc>Eindhoven, The Netherlands    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 3 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>JohnEl_121    </Review_extracted_on>
+    <Contributor_level>"Lots of stuff - not so well curated"    </Contributor_level>
+    <total_reviews>Reviewed 3 January 2016    </total_reviews>
+    <helpful_votes>3    </helpful_votes>
+    <Destination>The Folklore museum has a lot of items in it, almost too much. It felt like they don't have storage space so they keep everything on display. It's worth a visit.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="35_0">The Folklore museum has a lot of items in it, almost too much.
+    <aspectTerm term="Folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_1">It felt like they don't have storage space so they keep everything on display.
+    <aspectTerm term="storage" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_2">It's worth a visit.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="36">
+    <Title>"Best site to see in Cochin"    </Title>
+    <Username>Jisabella21    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 January 2016    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Jisabella21    </Review_extracted_on>
+    <Contributor_level>"Best site to see in Cochin"    </Contributor_level>
+    <total_reviews>Reviewed 3 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>If you only have time to see one thing in Cochin make sure you see this! 
+
+Very varied with something for everyone...art sculptures, cutlasses and weapons, puppets, puppets, business, jewellery, painting, architecture. 
+
+Amazing building composed of parts of 40 different Keralan buildings. I was lucky to be shown around by Jacob - a member of the family that owns this private museum. 
+
+They needed sponsorship to keep it open so PLEASE GO AND SUPPORT THIS FANTASTIC MUSEUM.    </Destination>
+    <Place>    </Place>
+  <sentence id="36_0">If you only have time to see one thing in Cochin make sure you see this!
+    <aspectTerm term="Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_1">Very varied with something for everyone
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_2">art sculptures, cutlasses and weapons, puppets, puppets, business, jewellery, painting, architecture.
+    <aspectTerm term="jewellery, art sculptures" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="weapons,puppets,business,painting,architecture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_3">Amazing building composed of parts of 40 different Keralan buildings.
+    <aspectTerm term="building" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_4">I was lucky to be shown around by Jacob - a member of the family that owns this private museum.
+    <aspectTerm term="Jacob" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_5">They needed sponsorship to keep it open so PLEASE GO AND SUPPORT THIS FANTASTIC MUSEUM.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="37">
+    <Title>"A gem"    </Title>
+    <Username>Ashish A    </Username>
+    <Userloc>San Diego    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Ashish A    </Review_extracted_on>
+    <Contributor_level>"A gem"    </Contributor_level>
+    <total_reviews>Reviewed 3 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This should be on the TOP of one's list of places to see in Kochi. An astounding collection of art works from various regions of Kerela including all the components that make up the building itself! Nothing else in Kochi, including the Dutch palace or the St Francis church come even close to the awesomeness of this museum.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="37_0">This should be on the TOP of one's list of places to see in Kochi.
+    <aspectTerm term="Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_1">An astounding collection of art works from various regions of Kerela including all the components that make up the building itself!
+    <aspectTerm term="art works" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_2">Nothing else in Kochi, including the Dutch palace or the St Francis church come even close to the awesomeness of this museum.
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="38">
+    <Title>"A highlight of our visit to Cochin"    </Title>
+    <Username>tomnjill    </Username>
+    <Userloc>niagara on the lake, Ontario    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>tomnjill    </Review_extracted_on>
+    <Contributor_level>"A highlight of our visit to Cochin"    </Contributor_level>
+    <total_reviews>Reviewed 2 January 2016    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>An amazing collection of artifacts and such. You could easily spend half a day wandering about! 
+A bit of a trek - or tuk-tuk ride - to reach, but well worth the effort. If you are in Ernakulum it is definitely worth a visit.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="38_0">An amazing collection of artifacts and such.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_1">You could easily spend half a day wandering about!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_2">A bit of a trek - or tuk-tuk ride - to reach, but well worth the effort.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_3">If you are in Ernakulum it is definitely worth a visit.
+    <aspectTerm term="Ernakulam" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="39">
+    <Title>"Must see museum "    </Title>
+    <Username>Monojit G    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 January 2016    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Review_extracted_on>Monojit G    </Review_extracted_on>
+    <Contributor_level>"Must see museum "    </Contributor_level>
+    <total_reviews>Reviewed 2 January 2016    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>The museum is full of old antics of India and nearby countries.its worth visit if you are interested in history you will enjoy it otherwise for family also its nice place    </Destination>
+    <Place>Visited July 2015    </Place>
+  <sentence id="39_0">The museum is full of old antics of India and nearby countries.
+    <aspectTerm term="antics" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="40">
+    <Title>"Best place of interest in Cochin"    </Title>
+    <Username>729suec    </Username>
+    <Userloc>Stoke-on-Trent    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 31 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>729suec    </Review_extracted_on>
+    <Contributor_level>"Best place of interest in Cochin"    </Contributor_level>
+    <total_reviews>Reviewed 31 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>An amaxing collection , we were told the museum was under threat of closure as they do not have the funding to keep it open much longer. In fdact they were having to sell-off some of the artefacts. Please visit and donate what you can.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="40_0">An amaxing collection , we were told the museum was under threat of closure as they do not have the funding to keep it open much longer.
+    <aspectTerm term="funding" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_1">In fdact they were having to sell-off some of the artefacts.
+    <aspectTerm term="artefacts" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_2">Please visit and donate what you can.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="41">
+    <Title>"Excellent place"    </Title>
+    <Username>Khushaal    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 31 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Khushaal    </Review_extracted_on>
+    <Contributor_level>"Excellent place"    </Contributor_level>
+    <total_reviews>Reviewed 31 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>FOLKLORE MUSEUM is a unique building and the whole building is made of wood . It is the best museum in India .    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="41_0">FOLKLORE MUSEUM is a unique building and the whole building is made of wood .
+    <aspectTerm term="Folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="wood" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_1">It is the best museum in India .
+    <aspectTerm term="India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="42">
+    <Title>"Heritage Museum"    </Title>
+    <Username>RaviSharma_83    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 28 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>RaviSharma_83    </Review_extracted_on>
+    <Contributor_level>"Heritage Museum"    </Contributor_level>
+    <total_reviews>Reviewed 28 December 2015    </total_reviews>
+    <helpful_votes>3    </helpful_votes>
+    <Destination>Museum have around 400 artifacts across India and adjoining countries and they also have a Performance Hall where you can experience live dance performances subject to prior requests .    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="42_0">Museum have around 400 artifacts across India and adjoining countries and they also have a Performance Hall where you can experience live dance performances subject to prior requests .
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="dance" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Perfomance hall" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="43">
+    <Title>"Must see museum"    </Title>
+    <Username>SBali    </Username>
+    <Userloc>Mumbai    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 December 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Review_extracted_on>SBali    </Review_extracted_on>
+    <Contributor_level>"Must see museum"    </Contributor_level>
+    <total_reviews>Reviewed 28 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>A unique building made from old teak structures. It houses one of the best private collections of Indian vessels, masks, musical instruments, locks, vessels and handicrafts. There is a hall on top where talks and events take place. Must see in Cochin!    </Destination>
+    <Place>Visited January 2015    </Place>
+  <sentence id="43_0">A unique building made from old teak structures.
+    <aspectTerm term="teak" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="43_1">It houses one of the best private collections of Indian vessels, masks, musical instruments, locks, vessels and handicrafts.
+    <aspectTerm term="musical instruments" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="handicrafts" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="43_2">There is a hall on top where talks and events take place.
+    <aspectTerm term="hall" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="43_3">Must see in Cochin!
+    <aspectTerm term="Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="44">
+    <Title>"Worth a visit"    </Title>
+    <Username>Wriddhi B    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 27 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Wriddhi B    </Review_extracted_on>
+    <Contributor_level>"Worth a visit"    </Contributor_level>
+    <total_reviews>Reviewed 27 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>The place charge INR 100/- per head, which is higher than most museums, but the place still worth a visit.    </Destination>
+    <Place>    </Place>
+  <sentence id="44_0">The place charge INR 100/- per head, which is higher than most museums, but the place still worth a visit.
+    <aspectTerm term="charge" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="45">
+    <Title>"Wow, Keralan culture and history at its best"    </Title>
+    <Username>SaulKomstanothin    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 26 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>SaulKomstanothin    </Review_extracted_on>
+    <Contributor_level>"Wow, Keralan culture and history at its best"    </Contributor_level>
+    <total_reviews>Reviewed 26 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>We did not know this museum. Walking through the fist room and moving up through the floors, one begins to wonder how one person, one family had the will and foresight to construct such a thing of beauty, not just for Keralans but for the world. Masses of artefacts, deeply moving displays of everyday life and rituals, as well as folklore. Every corner resonated with history, and a sort of magic, when surrounded by so much thoughtfully displayed beauty. We were completely awestruck, and could not quite believe that the museum is run with no state or federal support at all - it literally is a labour of love, and a testament to the depth and breadth of South Indian cultural and religious life - of course, not just Hinduism, but the important place that Christianity has also occupied in the last few hundred years. A brilliant and bold statement, in a troubled world, of how important co-existence is and how beautiful it can be.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="45_0">We did not know this museum.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_1">Walking through the fist room and moving up through the floors, one begins to wonder how one person, one family had the will and foresight to construct such a thing of beauty, not just for Keralans but for the world.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_2">Masses of artefacts, deeply moving displays of everyday life and rituals, as well as folklore.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_3">Every corner resonated with history, and a sort of magic, when surrounded by so much thoughtfully displayed beauty.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_4">We were completely awestruck, and could not quite believe that the museum is run with no state or federal support at all - it literally is a labour of love, and a testament to the depth and breadth of South Indian cultural and religious life - of course, not just Hinduism, but the important place that Christianity has also occupied in the last few hundred years.
+    <aspectTerm term="support" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_5">A brilliant and bold statement, in a troubled world, of how important co-existence is and how beautiful it can be.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="46">
+    <Title>"Good collection of antiques"    </Title>
+    <Username>shankark    </Username>
+    <Userloc>kuala lumpur    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 25 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>shankark    </Review_extracted_on>
+    <Contributor_level>"Good collection of antiques"    </Contributor_level>
+    <total_reviews>Reviewed 25 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>Privately owned collections that is on display. Some are quite interesting pieces such as Chola statues, Kathakali costumes etc.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="46_0">Privately owned collections that is on display.
+    <aspectTerm term="collections" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_1">Some are quite interesting pieces such as Chola statues, Kathakali costumes etc.
+    <aspectTerm term="Kathakali costumes" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="47">
+    <Title>"Fine collections of all the history of Kerala"    </Title>
+    <Username>Sankeshwari    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 24 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Sankeshwari    </Review_extracted_on>
+    <Contributor_level>"Fine collections of all the history of Kerala"    </Contributor_level>
+    <total_reviews>Reviewed 24 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This place has been certified by limca book of records for gathering more cultural artifacts about the Kerala history and its worth the visit. Once you reach to the museum you will be greeted with traditional Kerala welcome with "tikka" on forehead. This is located in new wooden building constructed and all possible collection which talks about the Kerala history has been placed here. This has the entrance fee of 100 per head (Indian nationals) and if you want to the use the camera then per camera 100 rupees. Once you enter there are very old (few are 300 years old 1300 BC time frame terracotta articles) artifacts and idols are neatly placed and you can see them. It has two floors for different art culture and on second floor you see the different folk dance (kathakalli and other) dance attires are placed and it has the perfect lighting conditions to see them clearly. 
+They opened shops for handicrafts and other wooden artifacts but I would recommend not purchasing since they quoted very exuberantly. It's worth visit once and not to miss visiting this place.    </Destination>
+    <Place>    </Place>
+  <sentence id="47_0">This place has been certified by limca book of records for gathering more cultural artifacts about the Kerala history and its worth the visit.
+    <aspectTerm term="cultural artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="limca book" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_1">Once you reach to the museum you will be greeted with traditional Kerala welcome with "tikka" on forehead.
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_2">This is located in new wooden building constructed and all possible collection which talks about the Kerala history has been placed here.
+    <aspectTerm term="wooden building" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_3">This has the entrance fee of 100 per head (Indian nationals) and if you want to the use the camera then per camera 100 rupees.
+    <aspectTerm term="entrance fee" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_4">Once you enter there are very old (few are 300 years old 1300 BC time frame terracotta articles) artifacts and idols are neatly placed and you can see them.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_5">It has two floors for different art culture and on second floor you see the different folk dance (kathakalli and other) dance attires are placed and it has the perfect lighting conditions to see them clearly.
+    <aspectTerm term="floor" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="art culture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_6">They opened shops for handicrafts and other wooden artifacts but I would recommend not purchasing since they quoted very exuberantly.
+    <aspectTerm term="handicrafts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="wodden artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_7">It's worth visit once and not to miss visiting this place.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="48">
+    <Title>"Fascinating collection"    </Title>
+    <Username>WalrusOfHove    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 23 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>WalrusOfHove    </Review_extracted_on>
+    <Contributor_level>"Fascinating collection"    </Contributor_level>
+    <total_reviews>Reviewed 23 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Located in a beautiful wooden heritage house, this is a large collection of cultural artifacts relating to Keralan folklore and well worth 30 minutes of anyone's time.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="48_0">Located in a beautiful wooden heritage house, this is a large collection of cultural artifacts relating to Keralan folklore and well worth 30 minutes of anyone's time.
+    <aspectTerm term="cultural artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="49">
+    <Title>"Out of the way but one of the very few worthwhile bits of Kochi"    </Title>
+    <Username>TasteTestersUK    </Username>
+    <Userloc>Hebden Bridge, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 21 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>TasteTestersUK    </Review_extracted_on>
+    <Contributor_level>"Out of the way but one of the very few worthwhile bits of Kochi"    </Contributor_level>
+    <total_reviews>Reviewed 21 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>Kochi is amazingly dirty, smelly and fouled with litter and rats. There are good hotels and lovely people, but the pollution is awful and there are very few things to do unless you can turn a blind eye to beaches and walks covered in rotting rubbish and waste plastic. 
+
+The folklore museum, though, is superb. A taxi ride out of the main town, it's a fantastic old building stuffed with interesting artefacts. It made us realise that Kerala has a proud, colourful and fascinating past that isn't evident in the chaos and grime of everyday city life.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="49_0">Kochi is amazingly dirty, smelly and fouled with litter and rats.
+    <aspectTerm term="Kochi" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_1">There are good hotels and lovely people, but the pollution is awful and there are very few things to do unless you can turn a blind eye to beaches and walks covered in rotting rubbish and waste plastic.
+    <aspectTerm term="pollution" polarity="negative" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_2">The folklore museum, though, is superb.
+    <aspectTerm term="folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_3">A taxi ride out of the main town, it's a fantastic old building stuffed with interesting artefacts.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_4">It made us realise that Kerala has a proud, colourful and fascinating past that isn't evident in the chaos and grime of everyday city life.
+    <aspectTerm term="Kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="50">
+    <Title>"three floors of incredible artifacts"    </Title>
+    <Username>MarionW1525    </Username>
+    <Userloc>Shoreline, Washington    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 20 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>MarionW1525    </Review_extracted_on>
+    <Contributor_level>"three floors of incredible artifacts"    </Contributor_level>
+    <total_reviews>Reviewed 20 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>plan to spend about 2 hours here to see over 4,000 artifacts collected by its owner, and antique dealer. This private museum was created in Keralan style from ancient temples and beautiful old houses ...a truly a magnificent building. While the interior is a bit crowded you will delight in what there is to see: antique ceiling fans, exquisitely carved wooden ceilings supported by massive wooden beams with carved figures, 3,000 year old burial urns, jewelry and paintings, musical instruments, costumes of various traditional and ritual dance forms.. on and on. It's an astonishing collection that delights    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="50_0">plan to spend about 2 hours here to see over 4,000 artifacts collected by its owner, and antique dealer.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_1">This private museum was created in Keralan style from ancient temples and beautiful old houses
+    <aspectTerm term="ancient temples" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_2">a truly a magnificent building.
+    <aspectTerm term="building" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_3">While the interior is a bit crowded you will delight in what there is to see: antique ceiling fans, exquisitely carved wooden ceilings supported by massive wooden beams with carved figures, 3,000 year old burial urns, jewelry and paintings, musical instruments, costumes of various traditional and ritual dance forms.
+    <aspectTerm term="interior" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="carved wooden cielings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="50_5">on and on.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="51">
+    <Title>"Packed full of exhibits!"    </Title>
+    <Username>niceguy1966    </Username>
+    <Userloc>London, England    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 19 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>niceguy1966    </Review_extracted_on>
+    <Contributor_level>"Packed full of exhibits!"    </Contributor_level>
+    <total_reviews>Reviewed 19 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>The Folklore Museum is literally crammed with exhibits. There is so much to see! Sadly it seems to be under threat due to a high tax bill it can't pay. Hopefully someone finds a solution as it is a great way to see a massive range of clothing, statues, photos and other items that give you a good overview of Kerala history in one place.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="51_0">The Folklore Museum is literally crammed with exhibits.
+    <aspectTerm term="Folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_1">There is so much to see!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_2">Sadly it seems to be under threat due to a high tax bill it can't pay.
+    <aspectTerm term="tax bill" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_3">Hopefully someone finds a solution as it is a great way to see a massive range of clothing, statues, photos and other items that give you a good overview of Kerala history in one place.
+    <aspectTerm term="clothing" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="52">
+    <Title>"Wonderful, wonderful museum. Might have to close down needs support."    </Title>
+    <Username>Onepea1    </Username>
+    <Userloc>Belgium    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 19 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Onepea1    </Review_extracted_on>
+    <Contributor_level>"Wonderful, wonderful museum. Might have to close down needs support."    </Contributor_level>
+    <total_reviews>Reviewed 19 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This folklore museum is absolutely beautiful. The interior is all dark wood, and it houses lots of Indian heritage that just should not be lost. We were very disappointed when we went there to find out that they are having to sell off some of their artefacts to meet debts and that the government may have to close The museum to repay the debt. You can see how much the staff here love the museum and rightly so. So do you go while you can and hopefully visitors can prevent it being closed down.    </Destination>
+    <Place>    </Place>
+  <sentence id="52_0">This folklore museum is absolutely beautiful.
+    <aspectTerm term="folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_1">The interior is all dark wood, and it houses lots of Indian heritage that just should not be lost.
+    <aspectTerm term="interior" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="Indian heritage" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_2">We were very disappointed when we went there to find out that they are having to sell off some of their artefacts to meet debts and that the government may have to close The museum to repay the debt.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_3">You can see how much the staff here love the museum and rightly so.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_4">So do you go while you can and hopefully visitors can prevent it being closed down.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="53">
+    <Title>"Historic Kerala"    </Title>
+    <Username>Helen H    </Username>
+    <Userloc>Portsmouth, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 19 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>Helen H    </Review_extracted_on>
+    <Contributor_level>"Historic Kerala"    </Contributor_level>
+    <total_reviews>Reviewed 19 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This is a colourful and pleasant place to visit for those interested in Indian history. Delightful guides too    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="53_0">This is a colourful and pleasant place to visit for those interested in Indian history.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="54">
+    <Title>"This is a must see when visiting Cochin"    </Title>
+    <Username>mikemurray2009    </Username>
+    <Userloc>Toronto, Canada    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 17 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>mikemurray2009    </Review_extracted_on>
+    <Contributor_level>"This is a must see when visiting Cochin"    </Contributor_level>
+    <total_reviews>Reviewed 17 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Great museum. I understood from staff this was a private museum that has been collecting and preserving local history and local artifacts. Part of funding comes from admittance fee but also from the sale of many items in the museum from antique items to newly made local crafts. This is a must see in Cochin with staff willing to answer questions. Make the trip you will be surprised!    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="54_0">Great museum.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_1">I understood from staff this was a private museum that has been collecting and preserving local history and local artifacts.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_2">Part of funding comes from admittance fee but also from the sale of many items in the museum from antique items to newly made local crafts.
+    <aspectTerm term="funding" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_3">This is a must see in Cochin with staff willing to answer questions.
+    <aspectTerm term="Cochin" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_4">Make the trip you will be surprised!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="55">
+    <Title>"Should be on number one thing to see"    </Title>
+    <Username>bbb05    </Username>
+    <Userloc>Ghent, Belgium    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 14 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>bbb05    </Review_extracted_on>
+    <Contributor_level>"Should be on number one thing to see"    </Contributor_level>
+    <total_reviews>Reviewed 14 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>The collection on show is faboulous, more interesting than the history museum in Trivandrum. As you need transport ( tuktuk or taxi) anyhow to go to Matancherry ( Dutch Palace Synagoge ...) you can as well cotninue to the Folklore Museum. In fact you better see the museum first before diving into tha antique shops of Matancherry. pRIVATE MUSEUM ? THOUSANDS OF OBJECTS ON SHOW ? YOU ARE WELCOMED BY THE OWNER    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="55_0">The collection on show is faboulous, more interesting than the history museum in Trivandrum.
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_1">As you need transport ( tuktuk or taxi) anyhow to go to Matancherry ( Dutch Palace Synagoge
+    <aspectTerm term="transport" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_2">) you can as well cotninue to the Folklore Museum.
+    <aspectTerm term="Folklore" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_3">In fact you better see the museum first before diving into tha antique shops of Matancherry.
+    <aspectTerm term="antique  shops" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_4">pRIVATE MUSEUM ?
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_5">THOUSANDS OF OBJECTS ON SHOW ?
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="56">
+    <Title>"Super Museum"    </Title>
+    <Username>AyurvedamSreenilayam    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 11 December 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Review_extracted_on>AyurvedamSreenilayam    </Review_extracted_on>
+    <Contributor_level>"Super Museum"    </Contributor_level>
+    <total_reviews>Reviewed 11 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>that was awonderful experience in my life to visit folklore museum last january,You should visit here once in your life.    </Destination>
+    <Place>Visited January 2015    </Place>
+  <sentence id="56_0">that was awonderful experience in my life to visit folklore museum last january,You should visit here once in your life.
+    <aspectTerm term="folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="57">
+    <Title>"Museum maintained by single family"    </Title>
+    <Username>JK_delhi    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 10 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>JK_delhi    </Review_extracted_on>
+    <Contributor_level>"Museum maintained by single family"    </Contributor_level>
+    <total_reviews>Reviewed 10 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>One of the best museum maintained by single family. 
+- Museum structure made of completely wood. 
+- Treasure were collected from Tamil Nadu, Karnataka, and Kerala region and very old and antique. 
+- There is small shop inside the Museum for cloths. 
+- The entry fee is Rs 100/ per head and Rs 100/ for camera. 
+
+Must see in Kochi.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="57_0">One of the best museum maintained by single family.
+    <aspectTerm term="family" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_1">- Museum structure made of completely wood.
+    <aspectTerm term="structure" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="Treasure" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="shop" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_2">- Treasure were collected from Tamil Nadu, Karnataka, and Kerala region and very old and antique.
+    <aspectTerm term="treasure" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_3">- There is small shop inside the Museum for cloths.
+    <aspectTerm term="shop" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_4">- The entry fee is Rs 100/ per head and Rs 100/ for camera.
+    <aspectTerm term="entry fee" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_5">Must see in Kochi.
+    <aspectTerm term="Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="58">
+    <Title>"Nice museum "    </Title>
+    <Username>Parvez S    </Username>
+    <Userloc>Jammu City, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 10 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>Parvez S    </Review_extracted_on>
+    <Contributor_level>"Nice museum "    </Contributor_level>
+    <total_reviews>Reviewed 10 December 2015    </total_reviews>
+    <helpful_votes>3    </helpful_votes>
+    <Destination>It was just near to where i stayed and went around to check it out. There are lot of exhibits there. One can visit if there is time nothing of the sort that is a must see attraction.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="58_0">It was just near to where i stayed and went around to check it out.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_1">There are lot of exhibits there.
+    <aspectTerm term="exhibits" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_2">One can visit if there is time nothing of the sort that is a must see attraction.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="59">
+    <Title>"Great Museum Collection by One Man"    </Title>
+    <Username>rajni_m_patel    </Username>
+    <Userloc>walsall    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 7 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>rajni_m_patel    </Review_extracted_on>
+    <Contributor_level>"Great Museum Collection by One Man"    </Contributor_level>
+    <total_reviews>Reviewed 7 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>Wonderful collection of ancient artifacts dating back to the 600/700 AD through to the late 19th century. The whole of Kerala and its ancient customs is housed under this one roof. I thoroughly enjoyed the all the floors and the string puppet theater. They also had for sale of of the collection of less importance and of not great value, we purchased 3 items from here. The money raised form the sale of these items goes into maintaining the museum and the important larger artifacts. A must visit place if you are into museums and ancient history.    </Destination>
+    <Place>Visited December 2015    </Place>
+  <sentence id="59_0">Wonderful collection of ancient artifacts dating back to the 600/700 AD through to the late 19th century.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_1">The whole of Kerala and its ancient customs is housed under this one roof.
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_2">I thoroughly enjoyed the all the floors and the string puppet theater.
+    <aspectTerm term="theater" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_3">They also had for sale of of the collection of less importance and of not great value, we purchased 3 items from here.
+    <aspectTerm term="collection" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_4">The money raised form the sale of these items goes into maintaining the museum and the important larger artifacts.
+    <aspectTerm term="money" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_5">A must visit place if you are into museums and ancient history.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ 
+ <tripreview review_index="61">
+ 
+    <Title>"Collection of history"    </Title>
+    <Username>SumitNagori    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>SumitNagori    </Review_extracted_on>
+    <Contributor_level>"Collection of history"    </Contributor_level>
+    <total_reviews>Reviewed 3 December 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>Kerala folklore theatre and museum is a different and must see place in kochi. It has a collection of artifacts which reflects Indian history and culture. It has a huge collection of idols, frames and other items of historical importance. The top floor of the museum is very unique. The top floor is made completely of tonnes of wood and has no concrete slabs/pillars. The ceiling, flooring and walls are made of wood. The top floor is used as theatre. 
+
+I found the entry fees of Rs 100/- a little on the higher side for a museum. 
+An important place of attraction in kochi.    </Destination>
+    <Place>    </Place>
+  <sentence id="61_0">Kerala folklore theatre and museum is a different and must see place in kochi.
+    <aspectTerm term="folklore" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_1">It has a collection of artifacts which reflects Indian history and culture.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_2">It has a huge collection of idols, frames and other items of historical importance.
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_3">The top floor of the museum is very unique.
+    <aspectTerm term="top floor" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_4">The top floor is made completely of tonnes of wood and has no concrete slabs/pillars.
+    <aspectTerm term="tonnes of wood" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_5">The ceiling, flooring and walls are made of wood.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_6">The top floor is used as theatre.
+    <aspectTerm term="theatre" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_7">I found the entry fees of Rs 100/- a little on the higher side for a museum.
+    <aspectTerm term="entry fee" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="61_9">An important place of attraction in kochi.
+    <aspectTerm term="kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="62">
+    <Title>"A must see museum"    </Title>
+    <Username>saugata    </Username>
+    <Userloc>Bangalore    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>saugata    </Review_extracted_on>
+    <Contributor_level>"A must see museum"    </Contributor_level>
+    <total_reviews>Reviewed 2 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>I had been to this museum on 1st Dec 2015. This is a three story structure made of wood which reminded me of Tibetan architecture. The museum is a treasure of 17th and 18th century artifacts from Tamil Nadu, Karnataka, Kerala region. There are lot of stone sculptures from the Chola Dynasty. I could also see earthern pots which are 3000 yrs old. There is also good collection of dresses and ornaments of 17th century as well as various weapons used by the kings and the soldiers. The top floor is unique which has a big hall with no pillar support..an engineering marvel.The entry fee is Rs 100/ per head and Rs 100/ for camera.Must see in Kochi.    </Destination>
+    <Place>    </Place>
+  <sentence id="62_0">I had been to this museum on 1st Dec 2015.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_1">This is a three story structure made of wood which reminded me of Tibetan architecture.
+    <aspectTerm term="structure" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="Tibetian architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_2">The museum is a treasure of 17th and 18th century artifacts from Tamil Nadu, Karnataka, Kerala region.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_3">There are lot of stone sculptures from the Chola Dynasty.
+    <aspectTerm term="sculptures" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_4">I could also see earthern pots which are 3000 yrs old.
+    <aspectTerm term="earthern pots" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_5">There is also good collection of dresses and ornaments of 17th century as well as various weapons used by the kings and the soldiers.
+    <aspectTerm term="weapons and ornaments" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_6">The top floor is unique which has a big hall with no pillar support.
+    <aspectTerm term="hall" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="no pillar" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="62_8">an engineering marvel.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_9">The entry fee is Rs 100/ per head and Rs 100/ for camera.
+    <aspectTerm term="entry fee" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_10">Must see in Kochi.
+    <aspectTerm term="kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="63">
+    <Title>"Unmissable. Wow!"    </Title>
+    <Username>Soupinmyfly    </Username>
+    <Userloc>Cambridge, England, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>Soupinmyfly    </Review_extracted_on>
+    <Contributor_level>"Unmissable. Wow!"    </Contributor_level>
+    <total_reviews>Reviewed 2 December 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>The folk museum is a little out of the way but is an unmissable experience. Housed in a traditional 4 storey traditional wooden building the collection represents many years of private collecting. The rooms are literally stuffed with cultural and historical artefacts. Costumes and masks are particularly well represented. Each room on each floor is an aladdin's cave of objects d'art. Less stuffy than a public museum the collection provides an intimate exhibition of a huge number of items collected and documented over many years. The top floor provides a stage and finely decorated auditorium. It deservedly has the reputation as being one of the best museums in India. Entrance is 200R photography 100R.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="63_0">The folk museum is a little out of the way but is an unmissable experience.
+    <aspectTerm term="folk" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_1">Housed in a traditional 4 storey traditional wooden building the collection represents many years of private collecting.
+    <aspectTerm term="wooden building" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_2">The rooms are literally stuffed with cultural and historical artefacts.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_3">Costumes and masks are particularly well represented.
+    <aspectTerm term="costumes" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_4">Each room on each floor is an aladdin's cave of objects d'art.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_5">Less stuffy than a public museum the collection provides an intimate exhibition of a huge number of items collected and documented over many years.
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_6">The top floor provides a stage and finely decorated auditorium.
+    <aspectTerm term="auditorium" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_7">It deservedly has the reputation as being one of the best museums in India.
+    <aspectTerm term="India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_8">Entrance is 200R photography 100R.
+    <aspectTerm term="entry fee" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="64">
+    <Title>"Too many artifacts without organization"    </Title>
+    <Username>bkwrmgrl1    </Username>
+    <Userloc>Hamilton, Ohio    </Userloc>
+    <Rating>1    </Rating>
+    <Review_date>Reviewed 1 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>bkwrmgrl1    </Review_extracted_on>
+    <Contributor_level>"Too many artifacts without organization"    </Contributor_level>
+    <total_reviews>Reviewed 1 December 2015    </total_reviews>
+    <helpful_votes>1    </helpful_votes>
+    <Destination>This museum is just a collection of random objects, grouped into categories with no explanations about them. It is based on a private collection and it shows. Nothing has been done to help the visitor understand what they are looking at.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="64_0">This museum is just a collection of random objects, grouped into categories with no explanations about them.
+    <aspectTerm term="collection" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_1">It is based on a private collection and it shows.
+    <aspectTerm term="collection" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_2">Nothing has been done to help the visitor understand what they are looking at.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="65">
+    <Title>"Must visit!!"    </Title>
+    <Username>Jayaraj_Alavelli    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Jayaraj_Alavelli    </Review_extracted_on>
+    <Contributor_level>"Must visit!!"    </Contributor_level>
+    <total_reviews>Reviewed 30 November 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>The museum is spread across 3 floors with very interesting and rare artefacts. I found the top most floor interesting as it explained the mudras and the styles of Kerala-origin dances. 
+
+If you are a history buff, you will spend at least 3 hours.    </Destination>
+    <Place>    </Place>
+  <sentence id="65_0">The museum is spread across 3 floors with very interesting and rare artefacts.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_1">I found the top most floor interesting as it explained the mudras and the styles of Kerala-origin dances.
+    <aspectTerm term="top most floor" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="dances" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_2">If you are a history buff, you will spend at least 3 hours.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="66">
+    <Title>"Reflects the culture of Kerala"    </Title>
+    <Username>AB22992    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Review_extracted_on>AB22992    </Review_extracted_on>
+    <Contributor_level>"Reflects the culture of Kerala"    </Contributor_level>
+    <total_reviews>Reviewed 29 November 2015    </total_reviews>
+    <helpful_votes>5    </helpful_votes>
+    <Destination>This museum has three floors. 1st floor has all the antiques of Chole dynasty. 2nd floor has collection of costumes used in classical dance form, Kathakali. The top floor has a theatre that shows cultural dance performances for which you need to book in advance. This place has immense historical significance.    </Destination>
+    <Place>Visited November 2015    </Place>
+  <sentence id="66_0">This museum has three floors.
+    <aspectTerm term="museum" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_1">1st floor has all the antiques of Chole dynasty.
+    <aspectTerm term="antiques" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_2">2nd floor has collection of costumes used in classical dance form, Kathakali.
+    <aspectTerm term="classical dance" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_3">The top floor has a theatre that shows cultural dance performances for which you need to book in advance.
+    <aspectTerm term="theatre" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="dance" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_4">This place has immense historical significance.
+    <aspectTerm term="museum" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="67">
+    <Title>"Beautiful Collection"    </Title>
+    <Username>Tman96    </Username>
+    <Userloc>Pune, Maharashtra, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 25 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Tman96    </Review_extracted_on>
+    <Contributor_level>"Beautiful Collection"    </Contributor_level>
+    <total_reviews>Reviewed 25 November 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>This museum is a great place to view a collection of cultural and historical artefacts from southern India particularly from Kerala. You have to pay an extra fee to photograph the exhibits. The whole building is made of stone and wood with intricate carvings and wooden staircases. The exhibits range from statues of mythological beings, dance and musical instruments and costumes to everyday objects and weapons. Getting a guide with you is recommended as the information given for some of the exhibits is sparse.    </Destination>
+    <Place>    </Place>
+  <sentence id="67_0">This museum is a great place to view a collection of cultural and historical artefacts from southern India particularly from Kerala.
+    <aspectTerm term="artefacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_1">You have to pay an extra fee to photograph the exhibits.
+    <aspectTerm term="extra fee" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_2">The whole building is made of stone and wood with intricate carvings and wooden staircases.
+    <aspectTerm term="building" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="intricate carvings" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_3">The exhibits range from statues of mythological beings, dance and musical instruments and costumes to everyday objects and weapons.
+    <aspectTerm term="dance" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="musical instruments" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_4">Getting a guide with you is recommended as the information given for some of the exhibits is sparse.
+    <aspectTerm term="guide" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="information" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="68">
+    <Title>"Worth a visit"    </Title>
+    <Username>Sarika_Alavelli    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 24 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Review_extracted_on>Sarika_Alavelli    </Review_extracted_on>
+    <Contributor_level>"Worth a visit"    </Contributor_level>
+    <total_reviews>Reviewed 24 November 2015    </total_reviews>
+    <helpful_votes>4    </helpful_votes>
+    <Destination>The building itself is a piece of wonder with its three floors following the architectural styles of kerela. 
+It has an incredible collection of artifacts. 
+Great place to learn about the culture of Kerala.    </Destination>
+    <Place>    </Place>
+  <sentence id="68_0">The building itself is a piece of wonder with its three floors following the architectural styles of kerela.
+    <aspectTerm term="kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="building" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_1">It has an incredible collection of artifacts.
+    <aspectTerm term="artifacts" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_2">Great place to learn about the culture of Kerala.
+    <aspectTerm term="culture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+ <tripreview review_index="69">
+
+
+   <Title>"Good hangout place"    </Title>
+    <Username>Navaneeth P    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+  <sentence id="69_0">I usually visit this place to eat delicious cakes and cheese omlet.
+    <aspectTerm term="cakes and cheesse" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="69_1">:) Good, peaceful place to hangout with friends or family.
+    <aspectTerm term="hangout" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+</sentence>
+</tripreview>
+</review>

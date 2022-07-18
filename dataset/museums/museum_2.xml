@@ -1,0 +1,2374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<review><tripreview review_index="0">
+    <Title>"Delicious Iced Tea!"    </Title>
+    <Username>amysala    </Username>
+    <Userloc>Auckland, New Zealand    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="0_0">If it's really hot and you are dying for refreshment, go here for their iced tea.
+    <aspectTerm term="it" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="iced tea" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_1">you mix it yourself and it's YUM.
+    <aspectTerm term="it" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="1">
+    <Title>"A good place to chill out."    </Title>
+    <Username>Bobsyouruncle251    </Username>
+    <Userloc>Dorchester, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="1_0">If you are getting a bit worn down by India, this is a cosmopolitan little venue in a shady environment, serving good, healthy food.
+    <aspectTerm term="cosmopolitan little venue" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="cosmopolitan little venue" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="cosmopolitan little venue" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_1">The art is interesting.
+    <aspectTerm term="art" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="2">
+    <Title>"Creative art space to work"    </Title>
+    <Username>desireehalaseh    </Username>
+    <Userloc>Iasi, Romania    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="2_0">Wrote all my travel articles here in a cool, chilled, good vibes good music kind of place.
+    <aspectTerm term="travel articles" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="music" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_1">You must try out their ayurvedic dish - organic brown rice set!
+    <aspectTerm term="ayurvedic dish" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="organic brown rice" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="3">
+    <Title>"Arty"    </Title>
+    <Username>mary_india    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="3_0">Very calming place.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="4">
+    <Title>"Big meals lucky to finish"    </Title>
+    <Username>Monique F    </Username>
+    <Userloc>Newcastle, Australia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited September 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>15 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="4_0">I recommend the omlette, but beware it is huge and comes with lots of bread, I had it for bruch no need for lunch.
+    <aspectTerm term="omlette" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="bread" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_1">service is very quick too!
+    <aspectTerm term="service" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="5">
+    <Title>"Woth being"    </Title>
+    <Username>Sabina Q    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="5_0">One of the best things to do in Kochi.
+    <aspectTerm term="things" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_1">Try chocolate homemade cake, you will not regret.
+    <aspectTerm term="chocolate home madecake" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_2">The prices are also good.
+    <aspectTerm term="prices" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="6">
+    <Title>"A touch of class with Art"    </Title>
+    <Username>LindaEspeaks    </Username>
+    <Userloc>Sydney, Australia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>16 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="6_0">fort Kochi is the art capital of INdia and they do it well.
+    <aspectTerm term="art capital" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="INDIA" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_1">Kashi has style so makes sure that it has art displays in a clean environment that is interesting and classy.
+    <aspectTerm term="art display" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="environment" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="7">
+    <Title>"Great breakfast"    </Title>
+    <Username>OTG26    </Username>
+    <Userloc>Uk    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>144 reviews    </total_reviews>
+    <helpful_votes>71 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="7_0">Lovely relaxing place, with shady areas and a mix of customers.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="areas" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="customers" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_1">The art work didn't impress but the breakfast omelettes were excellent
+    <aspectTerm term="art work" polarity="negative" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="breakfast" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_2">served with thick toast and melon on the side.
+    <aspectTerm term="thick toast, melon" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_3">Other reviewers loved the coffee, but it was not to our taste.
+    <aspectTerm term="coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="coffee" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_4">We all have different tastes, and unlike another reviewer, we thought the music was great.
+    <aspectTerm term="taste" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="music" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+
+ 
+  <sentence id="7_7">It's a great busy little place with interesting shops nearby
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="shops" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="8">
+    <Title>"Excellent gallery and desserts"    </Title>
+    <Username>Ajay S    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="8_0">Came here very late in the night.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_1">Almost closing time, but, place is a must see in Kochi.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_2">Very thought provoking art gallery.
+    <aspectTerm term="art gallery" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_3">This is complemented with plenty of options to help your sweet tooth.
+    <aspectTerm term="sweet tooth" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="9">
+    <Title>"Great place to chill out"    </Title>
+    <Username>Surfsandwiches    </Username>
+    <Userloc>Bristol, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="9_0">A small art gallery at the front, with a great courtyard cafe to the rear.
+    <aspectTerm term="art gallery" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="courtyard cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_1">Served good food and drink with a nice atmosphere.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="drink" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_2">Mainly tourists in here.
+    <aspectTerm term="tourists" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="10">
+    <Title>"Beautiful coffee. Beautiful atmosphere !"    </Title>
+    <Username>julie51_11    </Username>
+    <Userloc>Brisbane, Australia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="10_0">Great atmosphere.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_1">Beautifully decorated.
+    <aspectTerm term="decorated" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_2">Lovely gallery as well with contemporary art.
+    <aspectTerm term="gallery" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="contemporary art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_3">Coffee was fabulous !
+    <aspectTerm term="coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="11">
+    <Title>"Wonderful courtyard space and some interesting art on display"    </Title>
+    <Username>phoebeLewis    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="11_0">Sat and had an iced coffee in the courtyard with a friend.
+    <aspectTerm term="iced coffee" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="courtyard" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_1">Nice and shady seating area surrounded by art and potted, trailing plants.
+    <aspectTerm term="seating area" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="trailing plants" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="art" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_2">The space has been thoughtfully designed in a modern style and has a relaxed yet bustling atmosphere of locals and travellers alike.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="12">
+    <Title>"" the Bst place ""    </Title>
+    <Username>Heral S    </Username>
+    <Userloc>Kochi (Cochin)    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 5 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="12_0">The best place to hang out with frnds n family.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="12_2">Loved the place.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="12_4">Realy yummy food.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="12_6">Sandwiches, chocolate cake, cold coffee  AND  Today the best orange cake and the banana pie I hv evr had just loved it yummy.
+    <aspectTerm term="sandwiches" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="chocolate cake" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="13">
+    <Title>"Laidback , ambient and calm art cafe in Fort Kochi"    </Title>
+    <Username>Ivin T    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 22 January 2016    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="13_0">One of the best hangout spots in fort kochi, and nested among the dutch architecture and ecletic mix of native folks and expats, this cafe is the go to spot for any person visiting here.
+    <aspectTerm term="cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="native folks" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_1">The simple home made chocolate cake and chocolate milk is to die for.
+    <aspectTerm term="chocolate cake" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="chocolate milk" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_2">Hit it up for a memorable bang on buck art plus cafe experience!
+    <aspectTerm term="bunk art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="14">
+    <Title>"Great Place to Escape the Heat"    </Title>
+    <Username>sylvie807    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 21 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="14_0">This little cafe provided refuge from the famous Kerala heat.
+    <aspectTerm term="cafe" polarity="negative" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="kerala heat" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_1">The Indian food in Kerala is delicious, but I highly recommend this spot for non-Indian options.
+    <aspectTerm term="Indian food in kerala" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="this spot" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_2">The changing art gallery is a must see.
+    <aspectTerm term="art gallery" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="15">
+    <Title>"great sunday breakfast option"    </Title>
+    <Username>online_jha    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 19 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="15_0">our weekly fixture for a great ambience and variety of food.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="15_1">the peaceful and ambient climate is just the right mix to be at on a sunday morning.
+    <aspectTerm term="climate" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="16">
+    <Title>"Best coffee in kochi"    </Title>
+    <Username>karthik v    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 17 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>13 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="16_0">The ambience is the best among cafes in Kochi.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_1">And so is their addictive hot coffee.
+    <aspectTerm term="hot coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_2">The service was brisk.
+    <aspectTerm term="service" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_3">The press coffee was the best we had in kochi.
+    <aspectTerm term="press coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="17">
+    <Title>"Delicious food"    </Title>
+    <Username>IonaWalker92    </Username>
+    <Userloc>Edinburgh, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 16 January 2016    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="17_0">A great cafe with delicious food, a lovely atmosphere and Good music.
+    <aspectTerm term="cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="music" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_1">A great place to meet friends or to just chill with a book and a juice.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="18">
+    <Title>"an evening with friends"    </Title>
+    <Username>Geetha M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 14 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="19_0">love to visit this place whenever we are in fort kochi.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="19_2">nice ambience,food but the service is not that excellent.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_3">a bit more pleasant service would be appreciated.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"Must Visit"    </Title>
+    <Username>Atulgzb58    </Username>
+    <Userloc>Ghaziabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="20_0">Wonderful place to relax and eat delicious eateries.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_1">It is very near to the beach and market.
+    <aspectTerm term="beach" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="market" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_2">Highly recommended.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+ <tripreview review_index="18">
+    <Title>"State of the art buzzing coffee shop"    </Title>
+    <Username>Jay S    </Username>
+    <Userloc>Jerusalem, Israel    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+ 
+
+
+  
+  <sentence id="18_0">This place is a Kochi institution, so we had to pop by for lunch one day.
+    <aspectTerm term="place" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="kochi institution" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="lunch" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_1">The atmosphere was good, it was quite busy, mostly tourists.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="tourists" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_2">Due to the busy time of day, our service was unfortunately lacking, with menu's taking a while to arrive and a long delay before we were able to order.
+    <aspectTerm term="services" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="order" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_3">This was compounded with the fact that when it arrived, my chickpea salad was near inedible, doused with what appeared to be half a shaker worth of black pepper.
+    <aspectTerm term="chickpea salad" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="black pepper" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_4">I was quite disappointed, as the menu itself sounded quite nice, and a great alternative to all the curries we had been eating.
+    <aspectTerm term="menu" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="curries" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_5">I would return next visit, though definitely order something else!
+    <aspectTerm term="order" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="19">
+    <Title>"an evening with friends"    </Title>
+    <Username>Geetha M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 14 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="19_0">love to visit this place whenever we are in fort kochi.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="19_2">nice ambience,food but the service is not that excellent.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_3">a bit more pleasant service would be appreciated.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"Must Visit"    </Title>
+    <Username>Atulgzb58    </Username>
+    <Userloc>Ghaziabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="20_0">Wonderful place to relax and eat delicious eateries.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_1">It is very near to the beach and market.
+    <aspectTerm term="beach" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="market" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_2">Highly recommended.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"State of the art buzzing coffee shop"    </Title>
+    <Username>Jay S    </Username>
+    <Userloc>Jerusalem, Israel    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+    <Title>"Must Visit"    </Title>
+    <Username>Atulgzb58    </Username>
+    <Userloc>Ghaziabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="20_0">Wonderful place to relax and eat delicious eateries.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_1">It is very near to the beach and market.
+    <aspectTerm term="beach" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  
+</tripreview>
+
+
+ <tripreview review_index="22">
+    <Title>"Unique modern art venue"    </Title>
+    <Username>Maurice G    </Username>
+    <Userloc>Ottawa, Canada    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 9 January 2016    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>22 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="22_0">Traveling around India, we found a lot of typical tourist shops and cafes.
+    <aspectTerm term="tourist shops" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="cafes" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_1">Few try to bridge the gap between traditional India and modern world art as much as Kashi.
+    <aspectTerm term="traditional India" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="modern world" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_2">Beyond the good food, the art can change between typical paintings to nude sketches.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="paintings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="nude sketches" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_3">Very avant-garde and really worth the trip to see the daily/monthly art exhibition.
+    <aspectTerm term="art exhibition" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_4">The actual venue is quite big with 3 separate seating areas behind the initial art gallery room.
+    <aspectTerm term="venue" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_5">If the kitchen is making it, suggest you try the Chocolate Cake.
+    <aspectTerm term="chocolate cake" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="22_7">Sponge cake is good, but the chocolate coulis placed on top is to die for!
+    <aspectTerm term="sponge cake" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="chocolate coulis" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_8">And the kitchen does not skimp on the slice size - many patrons left their pieces only 2/3 eaten, but all raving about it.
+    <aspectTerm term="slice size" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+ <tripreview review_index="23">
+    <Title>"A must visit in fort kochi!!!"    </Title>
+    <Username>senthurvel    </Username>
+    <Userloc>Erode, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 January 2016    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="23_0">A art gallery and cafe with healthy and delicious dishes!
+    <aspectTerm term="art gallery" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="cafe" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="dishes" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="23_3">It was a wonderful place to have great food with view of arts !
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="24">
+    <Title>"must visit"    </Title>
+    <Username>Dhwanidalal    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 8 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="24_0">good food and good hosts.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="hosts" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_3">try the cakes and today's specials.
+    <aspectTerm term="cakes" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="today's specials" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_4">nice art gallery on the entrance.
+    <aspectTerm term="art gallery" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="25">
+    <Title>"Choc C.a.k.e"    </Title>
+    <Username>Aiba12    </Username>
+    <Userloc>Johannesburg, South Africa    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>27 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="25_0">The ambience !
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="'environment and view">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="25_1">The smell of freshly baked chocolate cakes, chocolate sauce and the freedom to make your own cold coffee !
+    <aspectTerm term="chocolate cakes" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="cold coffee" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="26">
+    <Title>"Must see cafe and gallery in Fort Kochi"    </Title>
+    <Username>tushar s    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>8 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="26_0"> We had heard a lot about Kashi Art Cafe so had to check it out.
+    <aspectTerm term="kashi art cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_1">it was quite full on a late Sat afternoon but we got a corner stool seat luckily, and got a more comfortable table soon, which we shared with a couple from England.
+    <aspectTerm term="corner stool seat" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="table spoon" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_2">The service was rather slow, as the waiters were catching up with the heavy inflow of tourists, but we waited patiently, and like what we had- a Pesto Fussili Pasta, and a couple of drinks- ginger lemonade and Spinach Cucumber Juice.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="drinks- ginger lemonade and Spinach Cucumber Juice" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_3">The pasta was fresh and I liked that they had not overdone the pesto with cheese(as they do in many places).
+    <aspectTerm term="pasta" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_4">We enjoyed a buzz at the place some more time and admired the interiors and lively ambiance before leaving for another cafe trail down in Fort Kochi.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Fort kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="27">
+    <Title>"Great place for a healthey Quick Breakfast"    </Title>
+    <Username>Shruti N    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="27_0">It is by far the most beautiful place I have visited in Fort Kochi.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Fort kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="27_1">Amazingly tasty breakfast with a wonderful atmosphere, makes me give this place a 5/5 :)   Their Spinach mushroom cheese omelets are a must have.
+    <aspectTerm term="breakfast" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="Spinach mushroom cheese omelets" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="28">
+    <Title>"Quaint and charming place"    </Title>
+    <Username>Rochelle R    </Username>
+    <Userloc>Bombay    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>180 reviews    </total_reviews>
+    <helpful_votes>92 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="28_0">A favourite hangout for both locals and foreigners.
+    <aspectTerm term=" locals and foreigners" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_1">This place has an awesome dutch and arty ambience and you feel like sitting here for hours on end.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="29">
+    <Title>"Nice western style cafe"    </Title>
+    <Username>Jisabella21    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 6 January 2016    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>35 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="29_0">But please don't go for the art.
+    <aspectTerm term="art" polarity="negative" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="29_2">as there is very little of it to see.
+    <aspectTerm term="see" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_3">Hence the three star rating as I really like art!
+    <aspectTerm term="art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_4">It is a nice bright clean western style cafe with lots of light and plants.
+    <aspectTerm term="western style cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="lights" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="plants" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_5">A nice place to relax and a an oasis of calm in the chaos of Fort Cochin.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Fort Cochin" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_6">Western style menu makes a nice change from spicy South Indian food - however delicious - sometimes you need a change!
+    <aspectTerm term="Western style menu" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_7">Clean loo.
+    <aspectTerm term="loo" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="30">
+    <Title>"Lively venue with a great atmosphere"    </Title>
+    <Username>Amy T    </Username>
+    <Userloc>Winchester, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 5 January 2016    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="30_0">The Kashi Gallery and Cafe is a great place to relax and enjoy lunch and wouldn't be out of place in the trendy areas of London.
+    <aspectTerm term="Kashi Gallery, Cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="areas of London" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_1">We visited several times during our trip to Fort Kochi for a break from Keralan cuisine and to soak up the atmosphere.
+    <aspectTerm term="Fort Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_2">It seems to be very popular with tourists and travellers for the WiFi and simple meals.
+    <aspectTerm term="WiFi" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="simple meals" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_3">We were lucky to get a table each time we visited but don't let that put you off - have a look around the gallery until a table frees up!
+    <aspectTerm term=" table" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term=" look around the gallery " polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_4">Food portions are generous and we enjoyed the salads and sandwiches, as well as a reasonable amount of cake envy when we were too full to order dessert!
+    <aspectTerm term="Food portions" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_5">Drinks can take a while but it didn't bother us - we were on holiday!
+    <aspectTerm term="Drinks" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="31">
+    <Title>"Very slow service and food safety not as advertised"    </Title>
+    <Username>lana2012    </Username>
+    <Userloc>Mountain View, CA    </Userloc>
+    <Rating>2    </Rating>
+    <Review_date>Reviewed 4 January 2016    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>7 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="31_0">Table next to us found a maggot in their food.
+    <aspectTerm term="holiday" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="maggot in their food" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_1">We waited and waited to order, and then waited and waited for our drinks -- and we ordered iced tea and lemonade!
+    <aspectTerm term="order" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="drinks" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="iced tea, lemonade" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_2">Drinks didn't get come at the same time.
+    <aspectTerm term="Drinks" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_3">Then we waited and waited for the bill only to realize you have to go up front to pay.
+    <aspectTerm term="bill" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term=" pay" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_4">Really quite poor service.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_5">The only draw for us was that they use safe water to make ice, a novelty in India
+    <aspectTerm term=" water" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_6">but not really worth it.
+    <aspectTerm term="worth" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="32">
+    <Title>"Great spot for a coffee, and a quick bite to eat!"    </Title>
+    <Username>tomnjill    </Username>
+    <Userloc>niagara on the lake, Ontario    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="32_0">Stopped in several times for an espresso and a quick lunch or dinner.
+    <aspectTerm term="lunch or dinner" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_1">Great atmosphere and friendly people.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term=" people" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="33">
+    <Title>"Great place and with lovely food"    </Title>
+    <Username>Louisa B    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="33_0">If you want a break from eating south India food, this place offers delicious sandwiches, omelettes and cakes.
+    <aspectTerm term=" place" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="sandwiches,omelettes and cakes" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_1">It is very busy so service can sometimes be a bit slow but it is well worth the wait.
+    <aspectTerm term=" service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_2">Great energy and light in here with free wifi and a clean toilet and lovely art to look at on the way in and out.
+ 
+    <aspectTerm term="wifi" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="toilet " polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+    <aspectTerm term="art " polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="34">
+    <Title>"A wonderful Cafe"    </Title>
+    <Username>donscotti    </Username>
+    <Userloc>Portland, Oregon    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 23 December 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>60 reviews    </total_reviews>
+    <helpful_votes>42 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="35_0">Yes, they have art, but this is the best coffee shop/cafe in town, perhaps in all of southern India.
+    <aspectTerm term="coffee shop" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_1">When you have had enough of crowded India, this is the place to spend a few quiet moments.
+    <aspectTerm term="crowded India" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="36">
+    <Title>"More than a gallery"    </Title>
+    <Username>Eric F    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 December 2015    </Review_date>
+    <Date_of_visit>Visited September 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>27 reviews    </total_reviews>
+    <helpful_votes>13 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="36_0">I found this gem on the last day of my stay in Kochi and I wish I had found the place sooner.
+    <aspectTerm term="stay in Kochi" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_1">It was, without a doubt, one of my favorite finds in the city.
+    <aspectTerm term="finds" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_2">This eclectic and bohemian little shop has great service, and phenomenal atmosphere.
+    <aspectTerm term=" eclectic and bohemian little shop" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_3">I had never expected to find such a place in southern India, and it would be just as successful were they to have placed it in New York, London, or Paris.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_4">This is a must see for anyone craving a decent coffee and the refuge of a creative safe-haven.
+    <aspectTerm term="coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="37">
+    <Title>"Good food , Ambience"    </Title>
+    <Username>Prasanthdhanapal    </Username>
+    <Userloc>cochin    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 22 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="37_0">A great place to spend the evening with family after a visit to the Fort Kochi beach .
+    <aspectTerm term=" place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="family" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="Fort Kochi beach" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_1">The snacks were great and the ambiance was good.
+    <aspectTerm term="snacks" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" ambiance" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="38">
+    <Title>"Went there for Desserts"    </Title>
+    <Username>dubeyamit    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 21 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>15 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="38_0">We had a heavy lunch in one of the seafood joints and dropped into Kashi for a quick dessert.
+    <aspectTerm term=" lunch" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" Kashi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_1">There were only 2 options so we decided to go in for the Choc cake which was pretty good.
+    <aspectTerm term="Choc cake" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_2">They can improve by having a few more options.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="39">
+    <Title>"Well worth visiting  "    </Title>
+    <Username>BoutiqueFarmer    </Username>
+    <Userloc>Petworth, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 20 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>18 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="39_0">Really nice place.
+    <aspectTerm term=" place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_1">OK, so service is slow, but the atmosphere is nice and the food is fine.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term=" food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_2">Great stop off.
+    <aspectTerm term="stop off" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="40">
+    <Title>"Good food, little art"    </Title>
+    <Username>Noel D    </Username>
+    <Userloc>Newcastle, Australia    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 20 December 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>325 reviews    </total_reviews>
+    <helpful_votes>166 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="40_0">We headed here for morning coffee   and   to look at the modern art works.
+    <aspectTerm term="art works" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" modern art works" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_1">The coffee   and   drinks were good although the range of cakes was poor.
+    <aspectTerm term=" coffee   and   drinks " polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="cakes" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_2">There were not a lot of art works although the few we saw were interesting.
+    <aspectTerm term="art works" polarity="negative" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="art works" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="41">
+    <Title>"Great food, lovely staff, fab setting, slow service!"    </Title>
+    <Username>lotte_emily    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 18 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="41_0">Such a lovely setting for breakfast, lunch or dinner at Kashi Art Cafe.
+    <aspectTerm term=" setting" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term=" breakfast, lunch or dinner" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_1">The food tastes great, but the service is very slow.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_2">Really nice, helpful and friendly staff though!
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_3">Just make sure you've got some time.
+    <aspectTerm term=" time" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="42">
+    <Title>"Serene, excellent quality, fast favourite :)"    </Title>
+    <Username>HereWhereEverythere    </Username>
+    <Userloc>London, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 17 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="42_0">It's a little oasis of calm with great quality food and some really interesting pieces of art extending into the cafe itself.
+    <aspectTerm term="little oasis " polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_1">We had sandwiches and wraps for lunch and so impressed we came back the next day (fresh, tasty ingredients).
+    <aspectTerm term="sandwiches, wraps" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="lunch" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_2">Really appreciate their drive to save on plastic by serving drinkable water in glass bottles.
+    <aspectTerm term="drive" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+    <aspectTerm term="drinkable water" polarity="neutral" aspectCategories="Hygiene">
+    </aspectTerm>
+    <aspectTerm term="glass bottles" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="43">
+    <Title>"Amazing"    </Title>
+    <Username>Joanne M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 15 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="44_0">Absolutely fantastic.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_1">Food was delcious.
+    <aspectTerm term="Food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_2">Excellent range if refreshing drinks all made with safe drinking waste.
+    <aspectTerm term="refreshing drinks" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="drinking water" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_3">Beautiful setting and great staff.
+    <aspectTerm term="setting" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_4">Couldn't ask for more.
+    <aspectTerm term="null" polarity="positive" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="45">
+    <Title>"Beautiful place to have a meal"    </Title>
+    <Username>Jerica G    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 14 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="45_0">This was a little oasis in Fort Kochi.
+    <aspectTerm term=" Fort Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="oasis" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_1">I had a lovely breakfast of cinnamon cake with fruit.
+    <aspectTerm term="breakfast" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_2">The amount of fruit they served was awesome!
+    <aspectTerm term="fruit" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_3">Way more than I expected, and everything was the perfect ripeness.
+    <aspectTerm term="ripeness" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_4">I would have loved to eaten here more, if I was spending more time in Fort Kochi.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="Fort Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="spending" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="46">
+    <Title>"Cafe with great atmosphere"    </Title>
+    <Username>alex7100    </Username>
+    <Userloc>Derbyshire, United Kingdom    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 13 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="46_0">Cafe has really cool surroundings and atmosphere, definitely go for a cup of coffee.
+    <aspectTerm term="surroundings, atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="coffee" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_1">Serves really good ice coffee, it's a nice touch they give milk and syrup separately so you can flavour to taste.
+    <aspectTerm term="ice coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="milk" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_2">Food choice is good sandwiches, salads, light lunches etc.
+    <aspectTerm term="choice" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="sandwiches, salads, light lunches etc" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ <tripreview review_index="47">
+    <Title>""One Great Cafe""    </Title>
+    <Username>Lachu2015    </Username>
+    <Userloc>Ernakulam, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 9 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="47_0">For the sake of Art n Good Food this is the place you have to be in.
+    <aspectTerm term="Art" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="Food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_1">No words just simple and Awesome menu but you get all you need to fill your Tummy.
+    <aspectTerm term="menu" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_2">The waiters are up to the mark with pleasant character.
+    <aspectTerm term=" waiters" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="character" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_3">The Penne was great so was the Granola.
+    <aspectTerm term="Penne" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="Granola" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_4">You will surely fell in LOVE with this space on your very first visit and that's something for sure.
+    <aspectTerm term="space" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="48">
+    <Title>"Awesome coffee shop to hang around "    </Title>
+    <Username>Sandeep K    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 8 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="48_0">Kashi is like the heart of coffee shops in Fort Cochin.
+    <aspectTerm term="Kashi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="coffee shops" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="Fort Cochin" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_1">It's an awesome place to hang out, gives you the privacy and can spend time with your loved ones.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term=" spend time" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_2">The theme is like awesome in kashi.
+    <aspectTerm term="theme" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="49">
+    <Title>"Disappointing Evening"    </Title>
+    <Username>cyprusjill    </Username>
+    <Userloc>cyprusjill    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 7 December 2015    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>13 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="49_0">Stumbled across Kashi by accident one afternoon.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="Kashi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_1">Had the most amazing omelette and coffee fresh and reasonably priced.
+    <aspectTerm term="omelette, coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="priced" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_2">Great atmosphere and service however, return at the end of our holiday early evening, we both chose the lasagne which although delicious was clearly reheated in a microwave as my daughters arrive at least ten minutes before mine and the portions were tiny.
+    <aspectTerm term="atmosphere " polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="lasagne" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="portions" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_3">Having spoken to a lady sat next to us she told us she had tried to order after us but they had sold out so clearly ours was the last and they has stretched it out into two portions it was however delicious.
+    <aspectTerm term=" spoken to a lady" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="order" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="portions" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_4">The staff during early evening were two young lads who were actually quite rude, when my daughter and I sat down they were clearly saying something about me and then started to laugh i ignored it as you do!
+    <aspectTerm term="staff" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="49_5">The service in general in the evening was poor compared to the day time however it wouldn't stop me going again
+    <aspectTerm term="service" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+    
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="50">
+    <Title>"Not as good as it used to be"    </Title>
+    <Username>Edwin J    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 6 December 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>11 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="50_0">I used to frequent Kashi's before the whole renovation was done and I used to love it those days.
+    <aspectTerm term="Kashi's" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="renovation" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="those days" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_1">Now the place has been renovated but I feel its lacking in the feel good ambiance that used to be there before.
+    <aspectTerm term=" renovated" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term=" ambiance" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_2">The service is just lacking soul.
+    <aspectTerm term="service" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_3">The food is still good though.
+    <aspectTerm term=" food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="51">
+    <Title>" "Brilliant Art Works with addicting Coffees ""    </Title>
+    <Username>Indukrish    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 December 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>33 reviews    </total_reviews>
+    <helpful_votes>10 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="51_0">We went here for more than a couple of times that we love the ambience and coffee as well.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term=" coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_1">This cafe provides u with addicted press coffees   and   varieties in tea.
+    <aspectTerm term="press coffees" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="tea" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_2">They provide some kind of Farmer's Sandwich with fruits which make us definitely to come back without doubt.
+    <aspectTerm term="Farmer's Sandwich " polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="fruits" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_3">Apart from this the art work make us to stay some extra time to simply sit   and   stare
+    <aspectTerm term="art work" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="51_4">Coffee lovers please don't miss this since you will regret for sure.
+    <aspectTerm term=" regret " polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_5">My kid enjoyed the Hot chocolate cake which we will order whenever we come.
+    <aspectTerm term="Hot chocolate" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term=" order" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_6">Have some chit   and   chat   and   u will love the calm ambience for sure
+    <aspectTerm term=" chit   and   chat" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="52">
+    <Title>"Great ambience and yummy food"    </Title>
+    <Username>Rohini O    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="52_0">Overall a dining pleasure.
+    <aspectTerm term="dining " polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_1">Love the food each time I go there, haven't been disappointed yet.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="52_2">Pleasant staff.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="52_3">There's always an interesting display of art up.
+    <aspectTerm term="display of art up" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="53">
+    <Title>"Great food in a modern surrounding "    </Title>
+    <Username>Natalie A    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>59 reviews    </total_reviews>
+    <helpful_votes>26 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="53_0">We have eaten here a few times, having pasta and chicken sandwiches,all very good.
+    <aspectTerm term="pasta" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="chicken sandwiches" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="53_2">The 'cold coffee' was extremely good.
+    <aspectTerm term="cold coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="54">
+    <Title>"Great food and drink at an incredibly reasonable price."    </Title>
+    <Username>john f    </Username>
+    <Userloc>Los Angeles, California    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 24 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="54_0">The ambiance is simple, but the art work catches your attention.
+    <aspectTerm term=" ambiance" polarity="neutral" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="art work" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_1">The service and the food were terrific.
+    <aspectTerm term="service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term=" food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_2">An easy walk from the Sajhome Stay.
+    <aspectTerm term=" walk" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Sajhome" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="walk " polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="55">
+    <Title>"Food, check. Ambience, check. Experience, check."    </Title>
+    <Username>GreeshmaSharath    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>24 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="55_0">It's a cozy and very artistic.
+    <aspectTerm term="cozy" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_1">Loved the food there.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_2">The way your food and drink is served is just too cute.
+    <aspectTerm term="food " polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_3">They are mostly packed, and the service a little slow.
+    <aspectTerm term="service" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_4">You need to have some patience.
+    <aspectTerm term="patience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_5">Go with a mind to sit back, relax, soak in the ambience and enjoy yourself to a lovely treat!
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="56">
+    <Title>"More style than substance"    </Title>
+    <Username>suhasmallya    </Username>
+    <Userloc>Margao, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 18 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>80 reviews    </total_reviews>
+    <helpful_votes>49 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="56_0">(This place is categorized as a gallery, but what I am reviewing is the restaurant)   We had heard a lot about this place from online reviews as well as from friends.
+    <aspectTerm term=" heard" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="place" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_1">Personally, I thought it was more style than substance.
+    <aspectTerm term="style" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_2">The food was not bad, but it was more artsy with more focus on the setting and the decor than on the menu options.
+    <aspectTerm term="decor" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term=" food" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_3">The food itself was tasty, well-presented and good value for money, but the overall options itself were quite limited.
+    <aspectTerm term="food " polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="value for money" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+    <aspectTerm term="options" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_4">You can certainly eat here if you are in the vicinity, but I wouldn't drive out again to Fort Kochi specifically to eat here as we did this time.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Fort Kochi" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="drive" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="57">
+    <Title>"Good"    </Title>
+    <Username>Tomgeorge1024    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 16 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="57_0">A nice and quiet place to hangout and talk over a coffee with your friends or that special one.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="58">
+    <Title>"Good ambience and food!"    </Title>
+    <Username>Mehul P    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 7 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>13 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="58_0">Located right at the centre of fortkochi, Kashi art cafe is always thronged by foreign tourists as it has a unique ambience and a menu that seperates it from other cafes around.
+    <aspectTerm term="right at the centre of fortkochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term=" Kashi art cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term=" ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="menu" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_1">Must try items on the menu- Cold coffee, chocolate cake and spinach cheese omelette !
+    <aspectTerm term="Cold coffee, chocolate cake and spinach cheese omelette " polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="59">
+    <Title>"Comforting cafe with yum baked stuff and good coffee"    </Title>
+    <Username>banerjee_aditi    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 November 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="59_0">I've been to Fort Kochi thrice and I absolutely love Kashi Art Cafe.
+    <aspectTerm term="Fort Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term=" Kashi Art Cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_1">I go there for the comfortable, unpretentious ambience and good food.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_2">Early mornings are beautiful.
+    <aspectTerm term="Early mornings" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_3">As you wait for breakfast, fresh loaves of bread are brought down and the whole place has a warm and fuzzy aroma of fresh baking.
+    <aspectTerm term="aroma" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="bread" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="baking" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_4">The portions are generous and the service good.
+    <aspectTerm term="portions" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_5">Nice place to unwind.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ 
+ </sentence>
+ </tripreview>
+ <tripreview review_index="60">
+    <Title>"Amazing Food, Amazing Service, Amazing Place"    </Title>
+    <Username>Charles G    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 5 November 2015    </Review_date>
+    <Date_of_visit>Visited November 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="60_0">The food is delicious, we tried a variety of dishes in the three or four times we went and every time it was great and the drinks were very good too.
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="it " polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="drinks" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_1">The place has a very nice feel and is well kept.
+    <aspectTerm term=" place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="feel" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_2">Our server each time was Nadhin, he was the friendliest, warmest guy always with a genuine smile on his face, we really really wanted to take him back to England with us as he was so nice.
+    <aspectTerm term="server" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="61">
+    <Title>"Cool and has real coffee!!!"    </Title>
+    <Username>Zumtinelz    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 5 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>46 reviews    </total_reviews>
+    <helpful_votes>13 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="61_0">For a country, and a part of the country that grows it, the Indian idea of coffee doesn't marry well with my own.
+    <aspectTerm term="Indian idea of coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_1">But finally here (as only in Pondicherry or high end hotels) here is real (or very close to it) coffee and I thanked them for it by taking three!
+    <aspectTerm term="coffee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ 
+ </sentence>
+  <sentence id="61_2">Often hard to get a seat here and people linger, its very pleasant here so you would.
+    <aspectTerm term="seat" polarity="negative" aspectCategories="Infrastructure">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="61_3">The front room is used as a gallery but I would add more seats too.
+    <aspectTerm term="gallery" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="seats" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_4">The service can be leisurely so it all fits well.
+    <aspectTerm term="service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_5">There are western meals like quiche and so on here.
+    <aspectTerm term="quiche" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_6">Not sure what I thought about the omelette I ate.
+    <aspectTerm term=" omelette" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="61_7">I would always avoid westernised food in this country.
+    <aspectTerm term="westernised food" polarity="negative" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_8">In a culture so filled with astonishingly brilliant food I don't understand the need.
+    <aspectTerm term="culture" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_9">But this is such a good spot.
+    <aspectTerm term="spot" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_10">Calm and cool in the hot Kerala daytime.
+    <aspectTerm term="calm" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+<aspectTerm term="cool" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="61_11">In the cool streets of the old city and surrounded on the way in by creative street art and truly lovely interior art by genuine Kerallan artists.
+    <aspectTerm term="streets of the old city" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="street art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="interior art" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="artists" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_12">I don't know if its a permanent feature but when there I saw a brilliant sculpture of Kerallan heads - brilliantly modelled, captured all of the features seen all around in this multi cultural part of the sub-continent.
+    <aspectTerm term=" sculpture" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="multi cultural part of the sub-continent" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_13">In case you have to wait for a table, take your own newspapers.
+    <aspectTerm term="wait for a table" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="62">
+    <Title>"This a fabulous Art Cafe."    </Title>
+    <Username>ArkoBose    </Username>
+    <Userloc>Calcutta, West Bengal, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 November 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="62_0">It is not only a gallery but also a cafe and serves the best european food across Kochi.
+    <aspectTerm term="european food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="Kochi" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_1">The ambience is great as well.
+    <aspectTerm term="ambience" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_2">The portions they serve is quite sumptuous.
+    <aspectTerm term="portions" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="portions" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="63">
+    <Title>"In love with this place"    </Title>
+    <Username>wordofpassage    </Username>
+    <Userloc>San Francisco, California    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 November 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="63_0">Perfect blend of classy art gallery and hip cafe.
+    <aspectTerm term="art gallery, hip cafe" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_1">It's modernist, verdant, and extremely relaxing.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_2">Went there for a ginger lemonade and soup of the day my first evening in Kochi which was awesome.
+    <aspectTerm term="ginger lemonade" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="soup of the day" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="63_4">Excellent for breakfast and lunch, doing a bit of work, and/or just chilling out.
+    <aspectTerm term="breakfast, lunch" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+   
+ </sentence>
+ </tripreview>
+ <tripreview review_index="64">
+    <Title>"For Art lovers"    </Title>
+    <Username>Jinu_Augustine    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 28 October 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>2 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="64_0">Its a nice little place to spend couple of hours.
+    <aspectTerm term=" place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_1">especially for art lovers.
+    <aspectTerm term=" art lovers" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_2">Sandwiches and cakes are good.
+    <aspectTerm term="Sandwiches, cakes" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="65">
+    <Title>"Great Food- MUST VISIT"    </Title>
+    <Username>SonamThakkar    </Username>
+    <Userloc>Singapore, Singapore    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 24 October 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>36 reviews    </total_reviews>
+    <helpful_votes>13 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="65_0">This is a small place not to be missed for great food, excellent service and cozy setup.
+    <aspectTerm term=" food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="service" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="setup" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_1">We went there twice and ordered the vegetarian lasagna and chicken salad sandwich.
+    <aspectTerm term="vegetarian lasagna, chicken salad sandwich" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+    <aspectTerm term="ordered " polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="65_2">It was really yum.
+    <aspectTerm term="It" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="66">
+    <Title>"Classy place but not overly expensive"    </Title>
+    <Username>JamesField_LondonUK    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 October 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>32 reviews    </total_reviews>
+    <helpful_votes>8 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="66_0">Lovely courtyard setting and really good coffee and lunch.
+    <aspectTerm term="courtyard setting" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="coffee, lunch" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_1">Just off the main drag of Princess St so away from the noise and the staff are attentive.
+    <aspectTerm term="staff" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+  <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="66_2">Also, good loo!
+    <aspectTerm term="loo" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ 
+ </tripreview>
+ <tripreview review_index="67">
+    <Title>"Nice cafe!"    </Title>
+    <Username>GarimaGupta    </Username>
+    <Userloc>Delhi, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 11 October 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>110 reviews    </total_reviews>
+    <helpful_votes>44 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="67_0">Behind the Princess Street, tucked away in a narrow lane is the Kashi art gallery and cafe.
+    <aspectTerm term="Princess Street" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Kashi art gallery and cafe" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_1">The restaurant is lively, great service and healthy food.
+    <aspectTerm term=" restaurant" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term=" service " polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    <aspectTerm term="food" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_2">Overall a nice experience!
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+ <tripreview review_index="68">
+
+    <Title>"Plus food"    </Title>
+    <Username>Judith T    </Username>
+    <Userloc>Townsville, Queensland, Australia    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 10 October 2015    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>52 reviews    </total_reviews>
+    <helpful_votes>26 helpful votes    </helpful_votes>
+    <Destination>Kashi Art Gallery    </Destination>
+    <Place>Cochin     </Place>
+    <Review_extracted_on>27th Feb    </Review_extracted_on>
+  <sentence id="68_0">What a lovely contemporary gallery in the next street over from Princess Street.
+    <aspectTerm term="gallery" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="next street over from Princess Street" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+
+   
+  <sentence id="68_1">The added bonus is the Kashi restaurant.
+    <aspectTerm term="Kashi restaurant" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+</review>
