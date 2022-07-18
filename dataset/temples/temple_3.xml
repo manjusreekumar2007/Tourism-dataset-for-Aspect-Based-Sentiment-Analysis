@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<review>
+
+<tripreview review_index="0">
+    <Title>"Temple without idole"    </Title>
+    <Username>KERALADAYZTOURS    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 16 July 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>33 reviews    </total_reviews>
+    <helpful_votes>17 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="0_0">This is the main temple in Thrissur and one of the main temple of art and culture.
+    
+    <aspectTerm term="art" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="culture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_1">The main festival is Pooram .
+    <aspectTerm term="Pooram" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="festival" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="0_2">The amazing thing the idol is not visible, as it is covered under 4 meter high and 6 meter wide mount of ghee, formed by daily Pooja with ghee over centuries.
+    <aspectTerm term="idol" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="Pooja" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_3">The nearst airport is Cochiin and railwaystation Trisivaperur(Thrissur).
+    <aspectTerm term="airport" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+    <aspectTerm term="railwaystation" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+ <tripreview review_index="1">
+    <Title>"Breathtaking Sight"    </Title>
+    <Username>Ramchab    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 15 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="1_0">The temple is quite huge and it takes a while to go for one complete round of the temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="2">
+    <Title>"Divine"    </Title>
+    <Username>SubinPB    </Username>
+    <Userloc>Coimbatore, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 July 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="2_0">The temple is big, its so peaceful inside.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_1">There are a lot of place to rest and is very green inside.
+    <aspectTerm term="green" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_2">Amazing feeling to be inside a temple in the heart of the city and still feel so serene and fresh.
+    <aspectTerm term="serene" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="3">
+    <Title>"A Beautiful Experience!!"    </Title>
+    <Username>mpriya85    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 12 July 2015    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="3_0">This ancient temple is located in the heart of Thrissur city.
+    <aspectTerm term="temple" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+  
+ </sentence>
+  <sentence id="3_1">The premises are very well maintained and clean.
+    <aspectTerm term="premises" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_2">It is a very serene, calm and peaceful place.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_3">Its about 1300 years old and a must visit in Kerala.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="3_4">Non Hindus are not allowed inside the temple.
+    <aspectTerm term="Non Hindus" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="3_5">The is a procedure to pray in the temple which is displayed as we enter the temple.
+    
+    <aspectTerm term="procedure to pray" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="4">
+    <Title>"pooram temple"    </Title>
+    <Username>ernakulamtraveller    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 8 July 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>162 reviews    </total_reviews>
+    <helpful_votes>122 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="4_0">thrissur town is basically around this famous temple.
+   
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_1">pooram is the famous festival here and tens of thousands of people throng here to watch elephants and fire works.
+    <aspectTerm term="festival" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="pooram" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="elephants" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="fire works" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="5">
+    <Title>"Peaceful lace in the heart of town"    </Title>
+    <Username>gvrgvr75    </Username>
+    <Userloc>Coimbatore, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 June 2015    </Review_date>
+    <Date_of_visit>Visited June 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>36 reviews    </total_reviews>
+    <helpful_votes>37 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="5_0">Vadakkumnathan temple is in the heart of Thrissur town.
+    <aspectTerm term="Vadakkumnathan temple" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="5_1">It is known as Parasurama Kshetram.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_2">Lord Parasurama is said to have established the Shiva lingam.
+    <aspectTerm term="Shiva lingam" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+   
+
+ </sentence>
+  <sentence id="5_3">There is a tall villakku outside the temple, which stands on an tortoise.
+    <aspectTerm term="villakku" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+    </sentence>
+  <sentence id="5_4">At the foot of the villakku is a small brass statue of Lord Parasurama.
+    <aspectTerm term="brass statue" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="villakku" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="5_5">Definitely worth visiting for the tranquil atmosphere in the heart of a bustling city likr Thrissur.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="6">
+    <Title>"Amazing experience"    </Title>
+    <Username>Nishadsukumaran    </Username>
+    <Userloc>Abu Dhabi, United Arab Emirates    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 June 2015    </Review_date>
+    <Date_of_visit>Visited November 2014    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="6_0">once of the temples in Kerala you should not miss.
+  
+    <aspectTerm term="temples" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_1">Its the centre of attraction for thrissoor pooram situated in the middle of famour thekkinkad maithan and thrissur round.
+   
+    <aspectTerm term="thrissoor pooram" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="7">
+    <Title>"The face of the Thrissur"    </Title>
+    <Username>SrZ27    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 29 June 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>23 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="7_0">The temple have a vast history of over 1000 years.
+ 
+    <aspectTerm term="history" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_1">its a simple yet majestic temple in the heart of thrissur.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_2">its quite easy to find.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_3">FYI travellers, this temple is open for only hindus and non-hindus are not allowed to enter.
+    <aspectTerm term="temple" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="7_4">But if you want to visit , please consider coming on day of thrissur pooram, which is said to be one of the greatest event on earth.
+    <aspectTerm term="thrissur pooram" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="7_5">the dates do varies from end of aprill to starting of May.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+   
+ </sentence>
+ </tripreview>
+ <tripreview review_index="8">
+    <Title>"Holiness in Tradition"    </Title>
+    <Username>Sankara L    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 25 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>24 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="8_0">With the tradition imbibed with the holiness the temple carries it's own values.
+    <aspectTerm term="tradition" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_1">Be there on POORAM day to know the culture of worship lord Shiva.
+    <aspectTerm term="lord Shiva" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="POORAM day" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="9">
+    <Title>"The heart of Thrissur"    </Title>
+    <Username>Geeta V    </Username>
+    <Userloc>Chennai, Tamil Nadu, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 June 2015    </Review_date>
+    <Date_of_visit>Visited July 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>16 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="9_0">There are are all kinds of temples all along the Kerala stretch.
+    <aspectTerm term="temples" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="9_1">But Vadakkunnathan stands out.
+    <aspectTerm term="Vadakkunnathan" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_2">Early morning or evening, the temple invites you to the quietness it surrounds.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="9_3">The enclosure is huge with a very big parikrama.
+    <aspectTerm term="enclosure" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_4">There are plenty of old trees adorning every corner of the ground.
+    <aspectTerm term="trees" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_5">There is an ancient koothambalam, just as you enter through the gopuram.
+    <aspectTerm term="koothambalam" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="9_6">A quick darshan of Krishna and you are enveloped in silence.
+    <aspectTerm term="darshan" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_7">Walk a little further, you reach the main deity, Shiva.
+    <aspectTerm term="diety" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_8">The silence here is unusual.
+    <aspectTerm term="silence" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_9">Shiva is seen with the chandrakala and a little snow mountain, behind.
+    <aspectTerm term="Shiva" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="9_10">Actually, the mountain is made up of the ghee offerings of all the devotees who visit the temple.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+  
+ </sentence>
+  <sentence id="9_11">The smell of camphor and ghee and oil lamps overpower you.
+    <aspectTerm term="camphor" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="ghee and oil " polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_12">There is a particular order in which you are to go around all the other deities - parvathy, back to Shiva, Ganesha, Shankaranarayana, Rama,
+    <aspectTerm term="order" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="deities" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="9_13">and return the same way back to Shiva.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_14">Don't forget the Nandi.
+    <aspectTerm term="Nandi" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_15">It is huge.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_16">After receiving the prasadam, when you come out, you are back with the trees and and quietness.
+    <aspectTerm term="trees" polarity="positive" aspectCategories="Environment and View">
+    </aspectTerm>
+<aspectTerm term="quietness" polarity="positive" aspectCategories="Environment and View">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_17">There places to prostrate which signify kashi etc.
+    <aspectTerm term="places to postrate" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_18">Once you reach the next gopuram, you have a choice - either complete the parikrama or pradakshinam, or, visit the Paramekkavu Devi temple outside, return and finish the vadakkunnathan.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="null">
+   </aspectTerm>
+ </sentence>
+  <sentence id="9_19">Then there is Parashurama and Shastha, more trees and a a lot of time to meditate!
+    <aspectTerm term="Parashurama, Shastha" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="9_22">be ready for a long walk and a lot of time to be spent here.
+    <aspectTerm term="walk" polarity="negative" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="10">
+    <Title>"Vadakunnathan temple"</Title>
+    <Username>ShajiJV    </Username>
+    <Userloc>Bangalore    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>45 reviews    </total_reviews>
+    <helpful_votes>21 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="10_0">Its in the heart of Thrissur city.
+    <aspectTerm term="Thrissur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_1">Very old temple in the center of huge ground.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="ground" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_2">One should visit this place during the Pooram festival.
+    
+    <aspectTerm term="Pooram festival" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="10_3">It will be unforgettable experience if you see the Elephant parade,Kudamattam and the fireworks.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="Elephant parade" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ <aspectTerm term="Kudamattam" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="fireworks" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="11">
+    <Title>"One of the best tourism place in Thrissur"    </Title>
+    <Username>Adolf V    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 June 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="11_0">Vadakkunnathan Temple, also known as Thenkailasam and Vrishabhachalam, is one of the largest and ancient Shiva temples in Kerala and India.
+    <aspectTerm term="Vadakkunnathan Temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_1">The temple is located in the heart of Thrissur city, is a classic example of the Kerala style of architecture.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Kerala style architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_2">Vadakunnathan temple is surrounded by a massive stone wall enclosing an area of nearly 9 acres (36,000 m2).
+    
+    <aspectTerm term="stone wall" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_3">Inside this fortification, there are four gopurams each facing north, The temple theatre, known as koothambalam, has no parallel to cite anywhere else in the world.
+    <aspectTerm term="koothambalam" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_4">The four magnificent gateways called gopurams and the lofty masonry wall around the temple quadrangle are also imposing pieces of craftsmanship and skill.
+    <aspectTerm term="gateways" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+<aspectTerm term="masonry wall" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+<aspectTerm term="craftsmanship" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+<aspectTerm term="skill" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="11_6">Deities of the sacred shrines are Lord Paramashiva, Parvathy, Sankaranarayana, Ganapathy, Sri Rama and Sri Krishna.
+    <aspectTerm term="Deities" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_7">The Vadakkumnathan temple is renowned for its paintings and carvings.
+    <aspectTerm term="paintings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+    <aspectTerm term="carvings" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_8">The central shrines and Koothambalam shows perfect example of design and sculpture in wood.
+    <aspectTerm term="sculpture" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_9">Myth shows that Parasurama constructed this temple.
+    <aspectTerm term="Parasurama" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_10">The vast area in and around the temple is the location of 'Thrissur Pooram', the superb temple spectacle in Kerala.
+    <aspectTerm term="Kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_11">in Medam April - May which attracts lakhs of people.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_12">But the pooram is celebrated by mainly other two temples and the diety, the Vadakkunnathan is not taking part in the festival or in the Procession.
+    <aspectTerm term="festival" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="11_13">The main attraction of the pooram is the Elanjitharamelam, and Kudamattom.
+    <aspectTerm term="Elanjitharamelam" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="Kudamattom" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="12">
+    <Title>"Semma Temple @ City Center"    </Title>
+    <Username>sragul    </Username>
+    <Userloc>Chennai    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 4 June 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>17 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="12_0">We visited the Great Temple this month were lots of Elephants will be decorated and famous for Festival, the temple is well maintained and has clear Map, how to reach every nook and corner and its importance.
+    <aspectTerm term="Elephants" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_1">I have seen it is the relaxing place for many oldies and walking around the whole temple is like 1.6 km walk in the park.
+    <aspectTerm term="park" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_2">Good Experience.
+    <aspectTerm term="Experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="13">
+    <Title>"beautiful"    </Title>
+    <Username>Neethi S    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 June 2015    </Review_date>
+    <Date_of_visit>Visited August 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="13_0">Amazing place with splendid architecture, right in the heart of the city.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_1">Its huge with trees all around, and a visit is sure to calm your senses.
+    <aspectTerm term="trees" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_2">i have seen students come with their books to study under the great banyan trees in the early hours.
+    <aspectTerm term="banyan trees" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="14">
+    <Title>"An experience that will calm your mind"    </Title>
+    <Username>N_Rathin    </Username>
+    <Userloc>Thrissur, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 June 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>37 reviews    </total_reviews>
+    <helpful_votes>24 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="14_0">Undoubtedly one of the most iconic Shiva temples in the country.
+    <aspectTerm term="Shiva temples" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_1">Architecture that will leave you perplexed.
+    <aspectTerm term="Architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_2">It is a must visit for people who are visiting Thrissur.
+    <aspectTerm term="Thrissur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_3">The temple complex is huge and therefore be prepared to walk.
+    <aspectTerm term="walk" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_4">Customs and Rituals are stictly followed here.
+    <aspectTerm term="Rituals" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_5">Cannot wear a shirt when entering the main temple.
+    <aspectTerm term="shirt" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_6">Pants are allowed.
+    <aspectTerm term="Pants" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_7">Children less than 1 year are not allowed.
+    <aspectTerm term="Children" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_8">Upon entering the temple you will see instructions on how to pray inside and outside the main temple.
+    <aspectTerm term="pray" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="14_9">Can be confusing, but if you want to enjoy the experience, it is ideal to follow the instructions step by step.
+    <aspectTerm term="experience," polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="15">
+    <Title>"Prayer at Temple"    </Title>
+    <Username>devaky2015    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 29 May 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="15_0">It is an ancient Lord Shiva Temple.
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="15_1">I liked to worship Lord Shiva.
+    <aspectTerm term="worship" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="15_2">There should have been line system, this made me little bit upset, but its ok.
+    <aspectTerm term="line system" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="16">
+    <Title>"A must place to visit"    </Title>
+    <Username>IYERSS    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 May 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>65 reviews    </total_reviews>
+    <helpful_votes>44 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="16_0">Visited the Vadakkunathan Temple once again.
+    <aspectTerm term="Temple" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_1">Temple closes sharp at 11.00 and could not have darshan so visited the next day.
+    <aspectTerm term="11.00" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_2">The Temple complex is large, serene and very peaceful although around it mad rush of traffic goes on.
+    <aspectTerm term="traffic" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_3">The deities and the architectural beauty of the temple is worth relishing.
+    <aspectTerm term="architectural" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_4">Definitely worth a visit for all.
+    <aspectTerm term="visit" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="17">
+    <Title>"Classic ancient Siva temple"    </Title>
+    <Username>gsurya    </Username>
+    <Userloc>Mumbai    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 May 2015    </Review_date>
+    <Date_of_visit>Visited May 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>22 reviews    </total_reviews>
+    <helpful_votes>17 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="17_0">Over 2000 years old, this temple is one of the great Siva temples of India.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_1">The linga is unique, like Badrinath is made of ice, this one is made of layers of ghee.
+    <aspectTerm term="linga" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_2">The layout of the temple is impressive and is well maintained and clean.
+    <aspectTerm term="layout" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_3">The atmosphere is of piety and  calm.
+    <aspectTerm term="atmosphere" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_4">The temple looks even more impressive in the evening if its lit up by one of the devotees' offerings.
+    <aspectTerm term="offerings" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_5">This is one of the must-see temples in South India.
+    <aspectTerm term="South India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="18">
+    <Title>"One of the Gretest Siva Temple of Kerala"    </Title>
+    <Username>pnv_2001    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 25 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>72 reviews    </total_reviews>
+    <helpful_votes>95 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="18_0">Recently visited Vadakkunathan Temple.
+    <aspectTerm term="Vadakkunathan Temple" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_1">The temple mainly consists of Vadakkunathan, Parvathy, Sankara Narayanan (both siva and Vishnu) and Rama.
+    <aspectTerm term="Vadakkunathan" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_2">Very rare to see Siva, Vishnu and Rama in one prakaram.
+    <aspectTerm term="prakaram" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_3">The main Garbhagriham is in circular shape wherein main deities Vadakunathan and Parvathy placed either of the side.
+    <aspectTerm term="Garbhagriham" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_4">The best part is you cannot see siva in the form of linga, only you will see mountain of Ghee which neither melt or spoil.
+    <aspectTerm term="linga" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_5">This ghee has got a curative powers.
+    <aspectTerm term="ghee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_6">This temple is built by Saint Parasurama and very important thing is Sri Adi Shankara Samadhi also can be seen.
+    <aspectTerm term="Sri Adi Shankara " polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_7">Lot of great saints, persons visited and did the puja and prayers.
+    <aspectTerm term="prayers" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_8">On the Ghee mountain, the priest used to place half moon in Gold (i.e. crescents in 13 nos.
+    <aspectTerm term="Ghee mountain" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="18_10">The famous Thrissur Pooram will be celebrated in this temple ground.
+    <aspectTerm term="temple ground" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_11">The magnificent part of the Pooram is Kudamattam (Change of Umbrellas).
+    <aspectTerm term="Kudamattam" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_12">This temple is landmark of Thrissur.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_13">Must to see this gigantic temple of Thrissur.
+    <aspectTerm term="Thrissur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_14">When you see the temple a particular place where you can prey towards Ramanatha Swamy of Rameswaram and Natarajar of Chidambaram.
+    <aspectTerm term="Rameswaram" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="18_15">By standing in this temple, you can have imaginary darshan of famous temples of south India.
+    <aspectTerm term="south India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="19">
+    <Title>"serene"    </Title>
+    <Username>kuchitra    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 22 May 2015    </Review_date>
+    <Date_of_visit>Visited September 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="19_0">here is the vadakkunnathan temple this temple is very popular in thrisuur area this is the place were u can be very calm and peace and find the stress out.
+    <aspectTerm term="thrisuur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"one of the finest temple in keral"    </Title>
+    <Username>margikrishtours    </Username>
+    <Userloc>india    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 20 May 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>37 reviews    </total_reviews>
+    <helpful_votes>44 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="20_0">early morn 3 the temple has so many devotees thronging .
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_1">we get the ghee as prasad which was covering the vadakunathan.
+    <aspectTerm term="ghee" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_2">absolute devotion and no unneccessary talk while you are inside.
+    <aspectTerm term="devotion" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="20_3">when ever i get a chance i will definitely go to this temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="21">
+    <Title>"Biggest Temple"    </Title>
+    <Username>sathyaswat    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 13 May 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>109 reviews    </total_reviews>
+    <helpful_votes>78 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="21_0">It is an ancient Hindu temple dedicated to Shiva.
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_1">This is the first temple built by Parasurama, the sixth incarnation of Vishnu.
+    <aspectTerm term="Parasurama" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_2">One of the most colourful temple festivals of Kerala, Thrissur Pooram is conducted in the temple premises.
+    <aspectTerm term="temple premises" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="22">
+    <Title>"Really holy! Amazingly clean!!!"    </Title>
+    <Username>Safesafari    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 11 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>22 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="22_0">We attended the last 2 days of the Puram festival, followed by a final darshan the day after.
+    <aspectTerm term="Puram festival" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="darshan" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_1">What strikes you most about the temple is the simplicity in design and the allround cleanliness, inspite of such huge crowds.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_2">Darshan happens early morning to 11.00 am.
+    <aspectTerm term=" 11.00 am" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="23">
+    <Title>"Great Temple"    </Title>
+    <Username>baburajnair    </Username>
+    <Userloc>shoranur    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 10 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>115 reviews    </total_reviews>
+    <helpful_votes>108 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="23_0">Good old temple.
+    <aspectTerm term="old" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_1">It is in the centre of thrissur town.
+    <aspectTerm term="thrissur" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_2">This temple have lot of stories to tell.
+    <aspectTerm term="stories" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_3">The famous Kudamattam and Elanjithara Melam and the Firework are some of the events associated with this temple.
+    <aspectTerm term="events" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Kudamattam" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="Elanjithara" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="24">
+    <Title>"A very special place!!"    </Title>
+    <Username>SP1712    </Username>
+    <Userloc>Coimbatore, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 May 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>37 reviews    </total_reviews>
+    <helpful_votes>35 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="24_0">Was here once again, for the Pooram 28th - 30th April 2015.
+    <aspectTerm term="28th - 30th April" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_1">As always, very well maintained and serene.
+    <aspectTerm term="serene" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_2">Enjoyed the entire event which was choreographed to a perfect time schedule.
+    <aspectTerm term="event" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_3">The presence of a huge crowd at the events is an uncomfortable aspects especially for ladies and children.
+    <aspectTerm term="crowd" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_4">Well behaved crowd though.
+    <aspectTerm term="crowd" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_5">As in many Kerala temples, to go into the sanctum sanctorum the males have to be in a dhoti / mundu with bare chest.
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="dhoti" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="24_6">Women are allowed in churidar kurtas and need not necessarily be in a saree.
+    <aspectTerm term="churidar" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="25">
+    <Title>"Pooram"    </Title>
+    <Username>Vibin N    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 30 April 2015    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>22 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="25_0">Very nice visuals Trissur pooram.
+    <aspectTerm term="visuals" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_1">Centre of trissur city, 3days enjoyment.
+    <aspectTerm term="trissur" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_2">Next day morning of trissur pooram cracker work amazing.
+    <aspectTerm term="cracker" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="26">
+    <Title>"The Great Temple"    </Title>
+    <Username>manip2014    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 25 April 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>51 reviews    </total_reviews>
+    <helpful_votes>36 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="26_0">This is the Great Temple where the famous Trissur Pooram talking place.
+    <aspectTerm term="Temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_1">This temple have lot of stories to tell.
+    <aspectTerm term="temple" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="26_2">The famous Kudamattam and Elanjithara Melam and the Firework are some of the events .
+    <aspectTerm term="Kudamattam" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="Firework" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+ <tripreview review_index="27">
+    <Title>"The heart and soul of Thrissur"    </Title>
+    <Username>Skumar1974    </Username>
+    <Userloc>Thrissur, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 April 2015    </Review_date>
+    <Date_of_visit>Visited April 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>104 reviews    </total_reviews>
+    <helpful_votes>97 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="28_0">Located in the centre of Thrissur city in Swaraj Round, this most famous Shiva temple named Vadakkunnathan or Lord of North.
+    <aspectTerm term="Swaraj Round" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Vadakkunnathan" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_1">This Shiva temple temple has a long lineage of history attached with it.
+    <aspectTerm term="history" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+
+
+
+ <sentence id="28_2">The rules and procedures of offering prayers are entirely different fron normal temples in India, and it is displayed on a large area how to offer prayers and which order it should be done.
+    <aspectTerm term="prayers" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="India" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_3">Also it is bekieved taht until one's designated time has arrived, one cannot have a chance to visit this temple.
+    <aspectTerm term="visit" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+
+
+ 
+ <tripreview review_index="29">
+    <Title>"Religious trip"    </Title>
+    <Username>vijisekaran    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 31 March 2015    </Review_date>
+    <Date_of_visit>Visited March 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>36 reviews    </total_reviews>
+    <helpful_votes>70 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="29_0">Earlier two or three times we had visted.
+    <aspectTerm term="times" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_1">In 2013 May we visited and it was open upto 11.00 am.
+    <aspectTerm term="11.00 am" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_2">So this time in March 2015 this year we visited around 10.10 am and the temple authorities said the temple doors were closed at 9.00 am because of construction work going on there, which is very very disappointing to the devotees coming from a long distance.
+    <aspectTerm term="construction" polarity="negative" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="authorities" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_3">Hence in our opinion, please ask the local people if you know anybody as to whether the temple is open and upto what time etc.
+    <aspectTerm term="local" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_4">Then only you should venture accordingly giving preference to the temple that is likely to close earlier.
+    <aspectTerm term="venture" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="30">
+    <Title>"Truly Wonderful, a symbol of Kerela Architecture!"    </Title>
+    <Username>Globetrotter_leo    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 March 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>38 reviews    </total_reviews>
+    <helpful_votes>76 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="30_0">It is a very big temple with a vast ground around it.
+    <aspectTerm term="ground" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_1">The temple is built in typical Kerela architecture which is really worth enjoying if you are an architecture lover.
+    <aspectTerm term="Kerela architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_2">There is a good green cover around the temple which makes the place lovely.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_3">On the spiritual side, I felt absolute divinity and peace while inside the temple.
+    <aspectTerm term="divinity" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_4">It is very clean and well maintained temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_5">The temple opens from 5am to 10.30 am in the morning and 5pm to 7 or 7.30pm in the evening.
+    <aspectTerm term="5am to 10.30 am" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="5pm to 7" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_6">Its a must visit place if you land in Thrissur.
+    <aspectTerm term="Thrissur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="31">
+    <Title>"Serene divinity"    </Title>
+    <Username>Santhoshrgopal    </Username>
+    <Userloc>Madurai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 28 March 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>25 reviews    </total_reviews>
+    <helpful_votes>51 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="31_0">For the devout this is a squeaky clean divine place.
+    <aspectTerm term="devout" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_1">Spread over oodles of serene land dotted with smaller shrines,Vadakkunnathan or the Lord of Kailas is an ancient temple.
+    <aspectTerm term="Vadakkunnathan" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_2">This is also the venue of the famed Thrissur pooram festival.
+    <aspectTerm term="venue" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_3">The main sanctum has a shivalinga adorned with a garland of crescents and a mound of ghee.
+    <aspectTerm term="shivalinga" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_4">Visit just after dusk so that you can take in the new subtle lighting around the campus.
+    <aspectTerm term="dusk" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="32">
+    <Title>"Peaceful"    </Title>
+    <Username>JagsIyer    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 23 March 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>27 reviews    </total_reviews>
+    <helpful_votes>18 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="32_0">We were lucky to have found a noble gentleman who explained the steps / pre-defined route to offer the prayers at the temple
+    <aspectTerm term="prayers" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="gentleman" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_1">was fascinating to know
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_2">that people follow a protocol as well they had the time to explain
+    <aspectTerm term="protocol" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="33">
+    <Title>"Open spaces and large temple offering you peace of mind"    </Title>
+    <Username>AravindBee    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 5 March 2015    </Review_date>
+    <Date_of_visit>Visited October 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>50 reviews    </total_reviews>
+    <helpful_votes>48 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="33_0">The place is quite secluded on a normal day and there's a lot to walk around amid tall trees.
+    <aspectTerm term="place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="33_1">I feel fresh and rejuvenated each time I visit this place for the silence and peaceful ambience it beholds.
+    <aspectTerm term="visit" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="34">
+    <Title>"Heavenly feel"    </Title>
+    <Username>anu411    </Username>
+    <Userloc>Thrissur, Kerala, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 March 2015    </Review_date>
+    <Date_of_visit>Visited May 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>52 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="34_0">Situated at the heart of Thrissur.
+    <aspectTerm term="Thrissur" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_1">Closely related to thrissur pooram.
+    <aspectTerm term="thrissur pooram" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_2">One of my favorite places in Thrissur.
+    <aspectTerm term="Thrissur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="35">
+    <Title>"Biggest festival in Kerala is here !!"    </Title>
+    <Username>Singam10    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 26 February 2015    </Review_date>
+    <Date_of_visit>Visited May 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>75 reviews    </total_reviews>
+    <helpful_votes>169 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="35_0">This is one of the famous temples in south India.
+    <aspectTerm term="south India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_1">Kerala's biggest festival Thrissur Pooram takes places here every year and one shouldn't miss this and it occurs every May.
+    <aspectTerm term="May" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="Kerala's" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="festival" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_2">Please make sure you have Earmuffs when you stay there as they fire Huge amount of Crackers with loud noise.
+    <aspectTerm term="Crackers" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="36">
+    <Title>"Vadakkunnathan Temple"    </Title>
+    <Username>Penyatra    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 25 February 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>13 reviews    </total_reviews>
+    <helpful_votes>8 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="36_0">If you appreciate temple architecture and like to hang around sometime in a peaceful surroundings and if you happen to visit Kerala do not miss Vadakkunnathan (Lord Siva)Temple in Trichur, which is the cultural capital of Kerala.
+    <aspectTerm term="Trichur" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_1">The town is planned around the ground called Tekkinkaadu maidanam and the temple is situated in the centre of the huge ground.
+    <aspectTerm term="Tekkinkaadu maidanam" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_2">The age old huge banyan tree in front of the temple welcome you to the temple.
+    <aspectTerm term="banyan tree" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_3">Evening is the best time to visit as the lights bring a divine atmosphere.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_4">Dress code to be followed.
+    <aspectTerm term="Dress code" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_5">Men have to remove their shirts
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_6">jeans and other such clothes are not allowed.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="37">
+    <Title>"Time to Pray and Calm your mind."    </Title>
+    <Username>anoop818    </Username>
+    <Userloc>Thrissur, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 24 February 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>13 reviews    </total_reviews>
+    <helpful_votes>22 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="37_0">This temple is the place where one can find absolute peace of mind.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_1">The place in which the temple is situated is very vast and there is lot of walking space surrounding the temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_2">The evening time many people sit in the grassland ground around the temple.
+    <aspectTerm term="grassland" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="38">
+    <Title>"Temple review"    </Title>
+    <Username>Nalinirao13    </Username>
+    <Userloc>Bangalore, Karnataka, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 19 February 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>22 reviews    </total_reviews>
+    <helpful_votes>22 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="38_0">Beautiful old temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_1">Has many smaller temples inside and outside to be seen.
+    <aspectTerm term="inside" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_2">Most of the temples here require the men to remove their shirts and the women must be clad in a sari.
+    <aspectTerm term="require" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="39">
+    <Title>"Nice Preserved Garden and temples"    </Title>
+    <Username>Samarpak    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 18 February 2015    </Review_date>
+    <Date_of_visit>Visited June 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>84 reviews    </total_reviews>
+    <helpful_votes>68 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="39_0">This temple is right in the center of the town.
+    <aspectTerm term="center" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_1">The entire area is like a protected sacred sanctuary.
+    <aspectTerm term="sanctuary" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_2">As soon as you enter from the huge stone built main door (there are 4, in 4 directions) you land into this pristine garden.
+    <aspectTerm term="main door" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="garden" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_3">One can see all big trees mentioned in Indian mythological literature.
+    <aspectTerm term="trees" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="mythological literature" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_4">The main temple complex is also built in black basalt.
+    <aspectTerm term="black basalt" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="complex" polarity="neutral" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_5">The temple outer walls are painted with murals.
+    <aspectTerm term="murals" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="39_6">The Shrines of Shiva and Rama are must visit.
+    <aspectTerm term="Shrines" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="40">
+    <Title>"Beautiful and Peaceful"    </Title>
+    <Username>Pooja M    </Username>
+    <Userloc>Gurgaon, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 13 February 2015    </Review_date>
+    <Date_of_visit>Visited January 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>136 reviews    </total_reviews>
+    <helpful_votes>101 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="40_0">We went to the temple which is located in the Thrissur round on our way to guruvayoor.
+    <aspectTerm term="Thrissur" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_1">First of all, this is a huge temple with a bigger compound.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_2">They place is really well maintained with a lot of trees and gives you a sense of tranquility.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_3">The main deity is Shiva and it does have places from which you can pray to other important Shiva temples like rameshwaram.
+    <aspectTerm term="deity" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_4">Overall you feel really nice after your visit to this temple.
+    <aspectTerm term="visit" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="40_5">Do note that the temple compound area is vast and if you enjoy walking this is the place to come to.
+    <aspectTerm term="walking" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="41">
+    <Title>"Peaceful temple surrounded by an aura."    </Title>
+    <Username>kspranava    </Username>
+    <Userloc>Bangalore, Karnataka, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 8 February 2015    </Review_date>
+    <Date_of_visit>Visited February 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>11 reviews    </total_reviews>
+    <helpful_votes>14 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="41_0">Very old temple still following traditions.
+    <aspectTerm term="traditions" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_1">Spend some time in temple premises to get a soothing feel.
+    <aspectTerm term="premises" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="41_2">If you visit in the morning, a walk inside the temple would certainly jack up your oxygen input.
+    <aspectTerm term="inside" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="walk" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="42">
+    <Title>"The Lord who gives when you pray"    </Title>
+    <Username>Krishnamurthy S    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 February 2015    </Review_date>
+    <Date_of_visit>Visited December 2014    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>49 reviews    </total_reviews>
+    <helpful_votes>89 helpful votes    </helpful_votes>
+    <Destination>vadakkumnathan temple    </Destination>
+    <Place>thrissur    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="42_0">The Lord Shiva called as Vadakkunnathar gifted Sivaguru and Aryamba couple The Adhi Sankaracharya when the childless couple prayed HIM for a child.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_1">Our prayers also will be fulfilled if you sincerely pray the kind and powerful Lord Shiva here.
+    <aspectTerm term="pray" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_2">Beautiful, serene, calm and peaceful, the Ghee on top of Shivalinga is frozen for years and there is no fly or ants, ghee doesn't melt and is also to the tune of about 2 to 3 tonnes( As I heard from temple priests ), means no abhishekam or dressing for the lord which is unique.
+    <aspectTerm term="Shivalinga" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_3">You have to remove your shirt or banian to have darshan inside temple as it is the tradition in Kerala temples.
+    <aspectTerm term="Kerala" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_4">There are corners notified in the parikrama ( pradakshanam) path when you come around pointing out directions showing Chidambaram, Rameswaram and few other powerful and important Shiva temples in South India.
+    <aspectTerm term="parikrama" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="South India" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_5">Simply claim, turn to the direction indicated and pray, you get all punyas for having visited that Shiva temple pointed.
+    <aspectTerm term="punyas" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_6">Lord Shiva called vadakkunnathar ensures we get additional benefits and blessings.
+    <aspectTerm term="vadakkunnathar" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_7">I always go early morning and walk inside the temple for about half an hour, a good exercise cum parikrama for Lord in a beautiful and healthy atmosphere.
+    <aspectTerm term="walk" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_8">If you cannot walk in barefoot inside then walk outside temple inside swaraj square with your jog shoes.
+    <aspectTerm term="outside" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="42_9">This is the only cleanest place without traffic at Thrissur.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="Thrissur" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="43">
+    <Title>"culture must"    </Title>
+    <Username>lynne b    </Username>
+    <Userloc>Aberdeen, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed yesterday NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>38 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="43_0">you don't get into the temple but it a culture must just to be there to watch everyone doing their daily visit
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+
+ 
+  <sentence id="43_3">but there is also the horse palace (horses engraved in roof) next to the temple and this is worth a visit too
+    <aspectTerm term="palace" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="44">
+    <Title>"Magnificient temple."    </Title>
+    <Username>Shyam057    </Username>
+    <Userloc>Vadodara, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="44_0">Traditional hindu temple.
+    <aspectTerm term="Traditional" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_1">It is famous more as richest temple of India.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_2">Ladies are required to wear saree or kind of shawl below waist and gents are required to remove shirt and wear lungi like cloth below waist.
+    <aspectTerm term="shirt" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="45">
+    <Title>"some time with history"    </Title>
+    <Username>CAManishAg    </Username>
+    <Userloc>Kolkata, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="45_0">very ancient temple of God Vishnu.
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+
+
+  <sentence id="45_2">massive campus and gives a spiritual feeling all through.
+    <aspectTerm term="campus" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  </tripreview>
+ <tripreview review_index="46">
+    <Title>"if you are religious visit"    </Title>
+    <Username>ejsarma    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 days ago NEW    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>38 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="46_0">this temple is the richest one but poor god and devotees  but the maharaja and trustees must be busy counting the wealth.
+    <aspectTerm term="temple" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="trustees" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_1">only thing they have left to make money is to allow selfie with god and charge  they have commercialized this place.
+    <aspectTerm term="place" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="47">
+    <Title>"Reclining pose of Lord Vishnu."    </Title>
+    <Username>vvraoca    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="47_0">Beautiful temple architecture.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_1">a Temple didicated to Lord Vishnu.
+    <aspectTerm term="Temple" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_2">it has the idol of the Lord in a reclining pose ,with a shesh Naag over his head like aqn umbrella and Lord Brahma, in a lotus with a string from Lord Vishnu navel.
+    <aspectTerm term="over" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="idol" polarity="neutral" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_3">The idol cannot be viewed in ite entirety but has to be seen in three parts ,viz;the head ,the middle ,and the feet .
+    <aspectTerm term="idol" polarity="negative" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_4">the men have to be in an attire of Dhoti and no upper cloth and the ladies have to wear a sari or long skirt , so has the legs are not exposed.
+    <aspectTerm term="attire" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_5">the attire is compulsory, or entry to the temple is forbidden.
+    <aspectTerm term="entry" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_6">You can avail of the dhoti at the gate of the temple
+    <aspectTerm term="gate" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_8">lockers are provided to keep the clothes .
+    <aspectTerm term="lockers" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_9">The brahmin will guide you thro the temple ,and Dakshana is expected ,[[tip}  The best time to visit is in winter, because summer is uncomfortable walking bare foot towards the temple.
+    <aspectTerm term="brahmin" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+    
+ </sentence>
+ </tripreview>
+ <tripreview review_index="48">
+    <Title>"God in God's Own Country"    </Title>
+    <Username>Balan1963    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 5 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="48_0">This temple is believed to be over a 1000 years old.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_1">The temple dedicated to Lord Vishnu is unique in many ways.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_2">Here the idol of Vishnu is in a lying position and the idol is 18 feet long.
+    <aspectTerm term="idol" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_3">Its a very orthodox place where only hindus are allowed and all men should remove their shirt and must wear the traditional "mundu".
+    <aspectTerm term="orthodox place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_4">The security in and around the temple was beefed up recently due to the fact that the temple holds treasures worth billions of rupees.
+    <aspectTerm term="treasures" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="49">
+    <Title>"Very Impressive Temple - Just A Shame That Not Everyone Is Allowed Inside"    </Title>
+    <Username>Philip_Marsh    </Username>
+    <Userloc>Manchester, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 days ago NEW    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>54 reviews    </total_reviews>
+    <helpful_votes>46 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="49_0">It's an impressive temple but you can only get close (never mind enter) if you are the correct religion.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_1">It is however well worth seeing and taking time to watch people as they go to and fro.
+    <aspectTerm term="watch" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_2">If you aren't a Hindu don't get too close to the steps otherwise the guards will let you know, in no uncertain terms, that you can't get any closer.
+    <aspectTerm term="guards" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_3">You can however combine your view of the temple with a trip to the Puthen Malika Palace Museum next door.
+    <aspectTerm term="Palace" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_4">Top Tip: Take a telephoto lens and/or binoculars for a closer look at the architecture.
+    <aspectTerm term="binoculars" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="50">
+    <Title>"Rajan Manchanda "    </Title>
+    <Username>Rajan M    </Username>
+    <Userloc>MUMBAI, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="50_0">An experience of a life time.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_1">Had a Great Darshan.
+    <aspectTerm term="Darshan" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_2">A very Grand Temple with a very Rich Heritage.
+    <aspectTerm term="Heritage" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_3">A visit to Kerela just cannot be fulfilling with out visiting this Temple.
+    <aspectTerm term="Kerela" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="51">
+    <Title>"Nice Temple"    </Title>
+    <Username>SunayanaTiwari    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 6 days ago NEW    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>14 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="51_0">Worth a visit if you visiting Kovallam or Trivandrum.
+    <aspectTerm term="Kovallam" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Trivandrum" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_1">Specific dress code of Saree and Lungi only.
+    <aspectTerm term="dress" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_2">So be prepared in advance.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="52">
+    <Title>"Great building"    </Title>
+    <Username>Robbie H    </Username>
+    <Userloc>Utrecht, The Netherlands    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 6 days ago NEW    </Review_date>
+    <Date_of_visit>Visited March 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="52_0">Temple area and main building are great.
+    <aspectTerm term="building" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="53">
+    <Title>"A must visit "    </Title>
+    <Username>beingankuryadav    </Username>
+    <Userloc>Shahjahanpur, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago NEW    </Review_date>
+    <Date_of_visit>Visited March 2016    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>53 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="53_0">The temple is a must visit if you are in Trivandrum.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="Trivandrum" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_1">Its architecture is great .
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_2">Be on time to avoid long queue.
+    <aspectTerm term="queue" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_3">A dress code is there so you must follow that.
+    <aspectTerm term="dress" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="54">
+    <Title>"very sacred place"    </Title>
+    <Username>asthatte    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>79 reviews    </total_reviews>
+    <helpful_votes>30 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="54_0">World's richest temple located over 7.5 acres of land .
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="7.5 acres" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_1">one must visit this temple and feel enlightened and satisfied .
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_2">Lord vishnu idle is 18 feet long in laid down position loaded with gold, diamonds, pearls, silver etc .
+    <aspectTerm term="Lord vishnu idle" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="55">
+    <Title>"must visit temple"    </Title>
+    <Username>Roohi H    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="55_0">Grand Krishna temple, has huge queues so get in line a good hour earlier.
+    <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_1">There is a provision of special aarti which I dont think added more value except of shortening the queue.
+    <aspectTerm term="aarti" polarity="neutral" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_2">there is strict dress code for this temple.
+    <aspectTerm term="dress code" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_3">Men and women need to wear dhotis for darshan.
+    <aspectTerm term="dhotis" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_4">For women, saari or lehengas are also allowed.
+    <aspectTerm term="lehengas" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="56">
+    <Title>"Very good temple only thing I hate is I need to remove the shirt"    </Title>
+    <Username>gr t    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="56_0">Very good one but there is no proper cloak room and in between temple if we go without slipper means it was very hot .
+    <aspectTerm term="cloak room" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="57">
+    <Title>"LAND OF SRI PADMANABHA"    </Title>
+    <Username>225balasubramanians    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>17 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="57_0">One of the ancient temples dedicated to Lord Vishnu who is lying in the serpentine bed managed by the Royal family of Travancore for time immemorial.
+    <aspectTerm term="ancient" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="serpentine bed" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_1">Due to discovery of abundant wealth in the treasury of the temple, as per the direction of the Supreme Court of India, an Administrative Committee has been formed.
+    <aspectTerm term="treasury" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="57_2">Strict time norms and dress codes are followed in the temple.
+    <aspectTerm term="dress" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="58">
+    <Title>"world richest temple"    </Title>
+    <Username>nareshkumar2016    </Username>
+    <Userloc>Raipur, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>76 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="58_0">I have visited this place in the month of January with my family.
+    <aspectTerm term="visited" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_1">It is very big temple under high security.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_2">You have to wear dhoti to visit to this place.
+    <aspectTerm term="dhoti" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_3">Statue of lord is very beautiful.
+    <aspectTerm term="Statue" polarity="positive" aspectCategories="Artefacts">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_4">It is very old and beautiful temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="59">
+    <Title>""Sree Padmanabha Swamy..the temple of history""    </Title>
+    <Username>sandeep9989    </Username>
+    <Userloc>Salem, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="59_0">very wonderful, holly place to visit in Kerala
+    <aspectTerm term="Kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_3">which is located very near to trivandrum central railway station
+    <aspectTerm term="railway station" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="59_5">males should wear dothi only no shirt or pants allowed
+    <aspectTerm term="dothi" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_7">even female should come in saree
+    <aspectTerm term="saree" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_8">if u were wearing chudidar u should wrap dothi and enter
+    <aspectTerm term="chudidar" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_11">special dharshan tickets are available 180/- and 200/- (both are for 2 people entrance and prasad will be complimentarywhich is of 60/- cost if u want seperately, for 200 archana will be done)
+    <aspectTerm term="tickets" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="59_12">my suggestion is to go for special dharsan
+    <aspectTerm term="special dharsan" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="60">
+    <Title>"Very peaceful"    </Title>
+    <Username>manojjain004    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="60_0">It was a good experience, you can not miss this when you are in thiruvananthpuram.
+    <aspectTerm term="thiruvananthpuram" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="60_2">in the evening 5 to 6:15 are most suitable timinngs for darshan.
+    <aspectTerm term="5 to 6:15" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="61">
+    <Title>"Temple of mythological importance"    </Title>
+    <Username>Midz15    </Username>
+    <Userloc>Trivandrum, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>36 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="61_0">Its a very old temple worshipping Lord Vishnu.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_1">Its known for it architectural importance and immense wealth stored beneath.
+    <aspectTerm term="architectural" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_2">Temple is under high security and is mostly crowded,hence plan your visit carefully during peak timings.
+    <aspectTerm term="peak" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_3">They have a website which clearly lays down the temple timings,but keep in mind that it would get rescheduled depending on day's pujas.
+    <aspectTerm term="website" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_4">So if you are a traveller you may call the temple authorities for updates.
+    <aspectTerm term="authorities" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_5">Dresscode is strict but I have heard that you can rent out dhotis from shops nearby or buy them too.
+    <aspectTerm term="Dresscode" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_6">The 'Palpayasam' "prasad" is also know for its taste.
+    <aspectTerm term="Palpayasam" polarity="positive" aspectCategories="Food">
+    </aspectTerm>
+ </sentence>
+  <sentence id="61_7">Atmosphere jn the premises are very calm but inside the main dome its all hurry berry.
+    <aspectTerm term="premises" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="62">
+    <Title>"Serenity and trust amalgamated"    </Title>
+    <Username>abhik_fe    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="62_0">I visited the place around 4:30 am and it was less crowded but very peaceful.
+    <aspectTerm term="4:30 am" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_1">I attended mangalarati there and it was like an out of the world feeling.
+    <aspectTerm term="mangalarati" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="62_2">this is a must visit place in Kerala.
+    <aspectTerm term="Kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="63">
+    <Title>"Good temple in the mid of city"    </Title>
+    <Username>Premb4    </Username>
+    <Userloc>Mysuru (Mysore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="63_0">Visit atleast once if you are going towards TRV.
+    <aspectTerm term="TRV" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_1">The temple is really good.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="63_2">The story behind the temple needs to be known for its importance.
+    <aspectTerm term="story" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="64">
+    <Title>"Must vist Devine Temple"    </Title>
+    <Username>Raghuthama    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 1 week ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>29 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="64_0">Any person who visits this temple can experiance gods presence in this temple.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_1">Very well managed clean temples I have ever been in recent times.
+    <aspectTerm term="temples" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_2">Temple opens very early in morning with lots of breaks in between for Darshan due to rituals during day.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="64_3">Please check for timings and visit the temple in traditional attire only as they are very particular of dress code.
+    <aspectTerm term="traditional attire" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+
+
+
+ <tripreview review_index="66">
+    <Title>"Recently I have visited Sree Padmanabhaswamy Temple"    </Title>
+    <Username>rajani2016    </Username>
+    <Userloc>Visakhapatnam (Vizag), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="67_0">Its a very old temple and worth visiting if you are visiting places in south kerala.
+    <aspectTerm term="old" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+    <aspectTerm term="south kerala" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_1">Male visitors are not permitted with any type of trousers , they should wear only the traditonal mundu and nothing on top .
+    <aspectTerm term="traditonal" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_2">female visitor is permitted to wear only saree .
+    <aspectTerm term="saree" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_3">churidars or any type of other dress is not permitted.
+    <aspectTerm term="churidars" polarity="negative" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_4">However the tradional mundu is sold at the temple for Rs 40 to 65 .
+    <aspectTerm term="temple" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_5">Ladies hand bags are permitted.
+    <aspectTerm term="bags" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_6">Mobiles .
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_7">cameras and any other bags are not permitted and can be kept in the cloak room which is close to temple.
+    <aspectTerm term="cloak room" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_8">The voulanteers at anna pasadam are not polite.
+    <aspectTerm term="voulanteers" polarity="negative" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="67_9">The darshan timings are displayed out side the temple .
+    <aspectTerm term="out side" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="timings" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="68">
+    <Title>"Amazing Architecture, great spiritual place"    </Title>
+    <Username>Jose M    </Username>
+    <Userloc>Toronto, Canada    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="68_0">You need to be respectful of Hindu religion to enter this temple.
+    <aspectTerm term="Hindu" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_1">There is strict dress code.
+    <aspectTerm term="dress code" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_2">if you are not from India, most likely you will not have the required dhoti.
+    <aspectTerm term="India" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_3">They do sell you one for about a $1.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_4">This is brand new and yours to keep.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_5">This is an awe inspiring temple, built centuries ago.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_6">The local kings made huge donations in gold - generation after generation.
+    <aspectTerm term="gold" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="68_7">Hence its one of the richest temples (richer than many countries
+    <aspectTerm term="temples" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+  
+ <tripreview review_index="69">
+
+ <Title>"great architecture"    </Title>
+    <Username>SWAP19    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>43 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>padmanabha temple    </Destination>
+    <Place>trivandrum    </Place>
+    <Review_extracted_on>7th march    </Review_extracted_on>
+  <sentence id="69_0">the temple is only open for hindus.
+    <aspectTerm term="temple" polarity="positive" aspectCategories="Cultural Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="69_1">non hindus are allowed to see temple from outside.
+    <aspectTerm term="outside" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="69_2">great architecture.
+    <aspectTerm term="architecture" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+
+</tripreview>
+
+</review>
+
