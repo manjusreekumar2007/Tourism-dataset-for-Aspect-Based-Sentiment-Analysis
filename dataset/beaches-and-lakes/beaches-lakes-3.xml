@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<review>
+
+
+
+
+<tripreview review_index="0">
+    <Title>"Picturesque"    </Title>
+    <Username>douglasmike    </Username>
+    <Userloc>mumbai    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 10 February 2014    </Review_date>
+    <Date_of_visit>Visited February 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>27 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="0_0">A great view on the drive from Munnar to Thekkady.
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_1">The gap is a shear cliff,with winding roads.
+    <aspectTerm term="winding roads" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="0_2">You can click pics and can have tit bits by the road side.
+    <aspectTerm term="pics" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ <aspectTerm term="tit bits" polarity="neutral" aspectCategories="Food">
+    </aspectTerm>
+</sentence>
+  
+ </tripreview>
+
+
+
+ <tripreview review_index="1">
+    <Title>"Breathtaking"    </Title>
+    <Username>Ankur_Ag2013    </Username>
+    <Userloc>Kokrajhar, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 31 January 2014    </Review_date>
+    <Date_of_visit>Visited January 2014    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>46 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="1_0">The view is just breathtaking.
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_1">It makes you keep looking at it.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="1_2">The tea gardens with rocks in between with all the greenery all around is so calming and beautiful that words are insufficient to describe the feeling and has to be experienced to be believed.
+    <aspectTerm term="greenery" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="2">
+    <Title>"the histroy behind is very interesting!"    </Title>
+    <Username>brendanj0hn    </Username>
+    <Userloc>Edmond, Oklahoma    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 17 January 2014    </Review_date>
+    <Date_of_visit>Visited December 2013    </Date_of_visit>
+    <Contributor_level>    </Contributor_level>
+    <total_reviews>    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="2_0">The gap is a shear cliff,with winding roads.
+    <aspectTerm term="winding roads" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_1">Built by the brtish back in 1920-50
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="2_2">Amazing place that is worth a visit.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="3">
+    <Title>"Excellent view point"    </Title>
+    <Username>AmitJ24    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 23 December 2013    </Review_date>
+    <Date_of_visit>Visited December 2013    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>292 reviews    </total_reviews>
+    <helpful_votes>751 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="3_0">Excellent view point from almost all along the road.
+    <aspectTerm term="view point" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="3_1">The tea garden access is now blocked, so one cannot enter the tea gardens now.
+    <aspectTerm term="tea garden" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="4">
+    <Title>"Great View"    </Title>
+    <Username>Jos_walter    </Username>
+    <Userloc>Kochi (Cochin), India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 22 October 2013    </Review_date>
+    <Date_of_visit>Visited October 2013    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>17 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="4_0">A great view on the drive from Thekkady to Munnar.
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_1">The entire area is covered with tea gardens and a lake.
+    <aspectTerm term="tea gardens" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+  <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="4_2">Great for taking snaps.
+    <aspectTerm term="snaps" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="5">
+    <Title>"Amazing View Points"    </Title>
+    <Username>AmarMysore    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 20 October 2013    </Review_date>
+    <Date_of_visit>Visited October 2013    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>81 reviews    </total_reviews>
+    <helpful_votes>68 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="5_0">The drive from Munnar to LockHart is brilliant.
+    <aspectTerm term="drive" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="5_1">Gets cloudy and misty at times and is a brilliant place to drive in fog.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="5_2">The Lockhart estate also has a waterfall and close by is the tata tea factory and sales outlet.
+    <aspectTerm term="waterfall" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="6">
+    <Title>"Place to meet the clouds !!!"    </Title>
+    <Username>SasankaSBanerjee    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 19 October 2013    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>23 reviews    </total_reviews>
+    <helpful_votes>28 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="6_0">This place is on the way to Thekaddy from Munnar.
+    <aspectTerm term="place" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_1">Journey towards this place itself is absolutely stunning with tea gardens forming the green carpets all around.
+    <aspectTerm term="tea gardens" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_2">The fresh mountain air, the mist-clad blue hills covered with lush greenery, winding roads and silver brooks splashing the emerald greenery with white streaks makes it worthy of a visit.
+    <aspectTerm term="mountain air" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="mist-clad blue hills" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="silver brooks" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="6_3">The climate and picturesque surroundings make it one of the most preferred locations to visit in Munnar.
+    <aspectTerm term="climate" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="surroundings" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="7">
+    <Title>"Lock Heart Gap, Munnar - Beautiful place to visit"    </Title>
+    <Username>Vinod V    </Username>
+    <Userloc>Bangalore    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 7 September 2013    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>6 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Lock Heart Gap    </Destination>
+    <Place>Munnar    </Place>
+    <Review_extracted_on>26th Feb    </Review_extracted_on>
+  <sentence id="7_0">Its good place to view.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_1">Clouds will be passing every second , so you can enjoy the hill station view and its climate .
+    <aspectTerm term="hill station" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="climate" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_2">It will be full of clouds and mist.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_3">Best time to visit , by morning 7 to 8 am.
+    <aspectTerm term="time" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_4">For more information and photos on Munnar trip pls do visit  http://mysouthindiatrips.
+    <aspectTerm term="information" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="photos" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_5">blogspot.
+    <aspectTerm term="blogspot" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="7_6">in/2013/08/munnar-thekkady-trip-august-2013.
+    <aspectTerm term="none" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="8">
+    <Title>"Disappointing"    </Title>
+    <Username>RedHeadPeter    </Username>
+    <Userloc>London, England    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 days ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>233 reviews    </total_reviews>
+    <helpful_votes>193 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="8_0">We visited Periyar Lake 40 years ago when the boat ride was in an open boat for about 20 people.
+    <aspectTerm term="periyar lake" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_1">Then we saw lots of elephants.
+    <aspectTerm term="elephants" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_2">Now there are at least 6 boats, each holding about 100 people.
+    <aspectTerm term="boats" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_3">Seats were 8 abreast on our boat, so if you were in the middle your view was rather restricted.
+    <aspectTerm term="view" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_4">Since the sinking a few years ago you have to wear lifejackets all the time.
+    <aspectTerm term="lifejackets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="lifejackets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_5">And we saw no elephants.
+    <aspectTerm term="elephants" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="8_6">An ndian bison, some antelope and smaller beasts but all quite some distance away.
+    <aspectTerm term="ndian bison" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="antelope" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="beasts" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="9">
+    <Title>"Pleasant but no Wildlife"    </Title>
+    <Username>1seagull1    </Username>
+    <Userloc>Kendal, United Kingdom    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 days ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>21 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="9_0">We got up very early to get the 1st boat out - meant to be the best for seeing wildlife.
+    <aspectTerm term="wildlife" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_1">When we arrived it was typically chaotic with little or no information about what to do or where to go
+    <aspectTerm term="chaotic" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_2">but you just work it out.
+    <aspectTerm term="none" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_3">If you have a pre-printed ticket - you must still go to the small window to obtain your seat.
+    <aspectTerm term="ticket" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="9_4">Life jackets are mandatory - essentially it was a pleasant ride around the lake but not much to see on our trip.
+    <aspectTerm term="life jackets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="ride" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="trip" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+ <tripreview review_index="12">
+    <Title>"A look from the seaside"    </Title>
+    <Username>Per23733    </Username>
+    <Userloc>Malmo, Sweden    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 days ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="12_0">The tour on the boat was pleasant and gave us many good looks of landscape, mammals and birds.
+    <aspectTerm term="tour" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="landscape" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="mammals" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_1">To slowly sit in front row and watch the life in this very special environment will give a relaxed way of travelling.
+    <aspectTerm term="environment" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_2">Recommend an early entry so the animals are at their best.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="12_3">Be aware of the monkeys at the jetty.
+    <aspectTerm term="monkeys" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="13">
+    <Title>"Okay to visit"    </Title>
+    <Username>Nikhil G    </Username>
+    <Userloc>Thane, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 5 days ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>23 reviews    </total_reviews>
+    <helpful_votes>18 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="13_0">Periyar lake is very huge.
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_1">It offers a boat ride - daily 5 rides with 5 to 6 boats each time containing around 100 - 120 travellers per boat.
+    <aspectTerm term="boat ride" polarity="neutral" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_2">It is better to go for the very first boat ride which starts around 7:30 in the morning.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="13_3">However there would be huge rush for first ride so it is better to reach there at least 1 hr.
+    <aspectTerm term="rush" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  
+ </tripreview>
+ <tripreview review_index="14">
+    <Title>"Jungle Mein Mangal"    </Title>
+    <Username>AnujA1585    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 5 days ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>15 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="14_0">The Lake Periyar is a Part of the Periyar Forest where animals come to have water, and take a bath during day.
+    <aspectTerm term="lake periyar" polarity="neutral" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="animals" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="16">
+
+
+
+
+    <Title>"Had a decent boat ride"    </Title>
+    <Username>kmani20    </Username>
+    <Userloc>Hyderabad, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 5 days ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="16_0">I went for boat ride at 9.30 AM slot.
+    <aspectTerm term="boat ride" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_1">Since it was not a season for animals to come out for water, their were only few animals I saw while boating.
+    <aspectTerm term="season" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    <aspectTerm term="animals" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_2">I heard summer is the season where we can see maximum number of animals while boating.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="16_3">Apart from this it was a very good experience travelling in boat between forest.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="17">
+    <Title>"In the lap of nature"    </Title>
+    <Username>Jayesh S    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 5 days ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>20 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="17_0">Great place to see when you visit thekkady.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="17_1">It will be better if you can buy online tickets for the boating to avoid any setbacks.
+    <aspectTerm term="online tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+<tripreview review_index="19">
+    <Title>"Boat trip on the Lake"    </Title>
+    <Username>alexv_alexander    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 days ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="19_0">Boats operated by the Govt.
+    <aspectTerm term="boats" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_1">Authority are available daily at fixed times.
+    <aspectTerm term="authority" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_2">Big focus on safety.
+    <aspectTerm term="safety" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_3">Boats travel in groups.
+    <aspectTerm term="boats" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_4">Takes one round the lake.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_5">This is Nature at its best.
+    <aspectTerm term="nature" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="19_6">If you are lucky you can see wild elephants, Bisons, deer, all kinds of birds and other wild animals.
+    <aspectTerm term="elephants" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="bisons" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="wild animals" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="20">
+    <Title>"Awesome beauty"    </Title>
+    <Username>Argha M    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 6 days ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="20_0">The periyar lake is simply awesome, you will feel the beauty the moment you enter the park.
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="park" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <tripreview review_index="21">
+    <Title>"bamboo rafting"    </Title>
+    <Username>subu75    </Username>
+    <Userloc>Greater London, United Kingdom    </Userloc>
+    <Rating>2    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>3 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="21_0">After reading bad reviews of the boat trip we decided to do the hike and bamboo raft package.
+    <aspectTerm term="boat trip" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="hike" polarity="neutral" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="bamboo raft" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_1">There was not much to see, the guides did not point out anything of interest throughout the trip.
+    <aspectTerm term="trip" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_2">We paddled 1/2 hour up one side of the lake which was very peaceful, not stunningly beautiful, then back.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="21_3">Wish we had opted for the longer walk which went up to a high viewpoint.
+    <aspectTerm term="walk" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="22">
+    <Title>"Amazingly beautiful and scenic"    </Title>
+    <Username>nik_men    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>82 reviews    </total_reviews>
+    <helpful_votes>12 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="22_0">It was an amazing experience taking a boat ride in the serene and pristine Periyar lake.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_1">What a feeling i must say.
+    <aspectTerm term="feeling" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_2">If you have to take a boat ride would recommend to take the first one in the morning.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_3">Tickets can be booked online as well.
+    <aspectTerm term="online tickets" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_4">Better do it online due to the rush at the counters.
+    <aspectTerm term="online" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="rush at counters" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_5">Its a great 45 mins to 1 hour ride and great sun rise time.
+    <aspectTerm term="sun rise time" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="22_6">Best time to view the animals by the lake is during the morning as they come to the banks for drinking water.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+   
+ </sentence>
+ </tripreview>
+ <tripreview review_index="23">
+    <Title>"Beautiful lake with good views"    </Title>
+    <Username>hariharan93    </Username>
+    <Userloc>Ernakulam, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="23_0">Our experience at the lake was wonderful.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_1">The water is very clear and calm.
+    <aspectTerm term="water" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+    <aspectTerm term="water" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_2">Boating was one of the most exciting experiences we had in Thekkady.
+    <aspectTerm term="boating" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="23_3">We saw an elephant herd by the lake.
+    <aspectTerm term="elephant herd" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="23_4">Get your tickets early to avoid long queues.
+    <aspectTerm term="tickets" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ <aspectTerm term="queues" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="25">
+
+
+
+
+
+    <Title>"nice lake view un polluted"    </Title>
+    <Username>ejsarma    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>36 reviews    </total_reviews>
+    <helpful_votes>7 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="25_0">can spend time amidst nature.
+    <aspectTerm term="nature" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_1">relax, there will be crowd on week ends  so choose weekdays.
+    <aspectTerm term="crowd on weekends" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="25_2">good to take a walk.
+    <aspectTerm term="walk" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="26">
+    <Title>"Enjoy the Nature"    </Title>
+    <Username>contact_poly    </Username>
+    <Userloc>Kolkata, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>15 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="26_0">We did boat ride over Periyar Lake.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_1">It was awazing.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_2">We saw different types of bird, sambal deer , wild elephant , wild boar , tortoise etc.
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="sambal deer" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="wild elephant" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="wild boar" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="tortoise" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="26_3">It was one hour boat side.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+
+</sentence>
+</tripreview>
+
+
+ <tripreview review_index="28">
+
+    <Title>"Beautiful Lake"    </Title>
+    <Username>AzizaNaaz    </Username>
+    <Userloc>Chennai    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="28_0">The lake was beautiful and serene.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_1">The boating was an average experience.
+    <aspectTerm term="boating" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_2">We hardly saw any animals at all and the boating cost was high.
+    <aspectTerm term="boating cost" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_3">The life jackets were not clean and were a pain to wear for the entire 1:30 hours.
+    <aspectTerm term="life jackets" polarity="negative" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_4">The boat went at a very very slow pace.
+    <aspectTerm term="pace" polarity="negative" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="28_5">You can give this a skip!
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+ <tripreview review_index="29">
+    <Title>"Strikingly Beautiful"    </Title>
+    <Username>Philip_Marsh    </Username>
+    <Userloc>Manchester, United Kingdom    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>50 reviews    </total_reviews>
+    <helpful_votes>44 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="29_0">If you visit Thekkady this is a a must.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_1">There are approximately 4 large boats which take visitors on a tour of the lake for around 1.5 hours, to take in both the beauty of the lake and (hopefully) to see the wild life.
+    <aspectTerm term="tour of the lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="wild life" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_2">We managed to see a variety of birds, an elephant, otters, boars and bison (there is no guarantee that you'll see anything in particular but there should be at least a few sites to see).
+    <aspectTerm term="variety of birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="elephant" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="otters" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="bison" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="boars" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_3">The boats take a predetermined course but don't all travel around together.
+    <aspectTerm term="predetermined course" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_4">(There are other boats that sail around as well but they tend to be much smaller.
+    <aspectTerm term="boats" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="29_5">)   NEED TO KNOW:  1.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_6">BEST TIME: The first tour of the day offers the best viewing for birds and wild life (7:30am start).
+    <aspectTerm term="tour" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="29_8">TICKETS: Everyone runs (as soon as the gates open) to get tickets.
+    <aspectTerm term="tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_9">We stayed at the Aranya Nivas Hotel (just up the steps) and so could pre-book tiockets.
+    <aspectTerm term="aranya nivas hotel" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="29_11">SEATING: Seat numbers are allocated BUT some of the chairs (garden chairs) aren't fixed to the floor so you suffer from 'people creep' i.e. you may end up with little space.
+    <aspectTerm term="seating" polarity="negative" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="29_15">TIGERS: There are an estimated 42 tigers in the park.
+    <aspectTerm term="tigers" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_16">Do not expect to see one!
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_17">Whilst I enjoyed the wild life I was just as impressed by the trees in the water which adds to the beauty.
+    <aspectTerm term="trees" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="29_18">(I'm told that these are remnants of the forest that was flooded to form the dam at the end of the 1800s).
+    <aspectTerm term="remnants of the forest" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="30">
+    <Title>"Average"    </Title>
+    <Username>SagarWazarkar    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>39 reviews    </total_reviews>
+    <helpful_votes>20 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="30_0">Boating on a shared ferry was fun.
+    <aspectTerm term="boating" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_1">But actually not the worth they charge.
+    <aspectTerm term="charge" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="30_2">1:30 hrs boating to see hardly any animal.
+    <aspectTerm term="animal" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+ <tripreview review_index="31">
+    <Title>"Serene beauty"    </Title>
+    <Username>Kaushik_Basu_1969    </Username>
+    <Userloc>Calcutta, West Bengal, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>16 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="31_0">A morning boat ride with booking in advance was a perfect way to start the day in Thekkady.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="31_1">Gets a little crowded with a long queue of vehicles to the Periyar National Park, so make sure you start early.
+    <aspectTerm term="queue" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="31_2">And try the first boat to get a good view of animals and birds.
+    <aspectTerm term="boat" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="32">
+    <Title>"Nice Scenic Boating but hardly any animals"    </Title>
+    <Username>Deepak G    </Username>
+    <Userloc>New Delhi, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>28 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="32_0">Periyar Lake is likely the only activity Thekkady is famous for.
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_1">Boat gives you a scenic ride of Periyar lake for an hour or so and you might spot a few animals on sides.
+    <aspectTerm term="scenic ride" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_2">NOTE:  1.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_3">Ensure to book in advance.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_4">There's very less chance for getting tickets there  2.
+    <aspectTerm term="tickets" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_5">You need to book ticket individually for each person.
+    <aspectTerm term="ticket" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_6">I saw many cases where couples came with one booking.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_7">Fill the form twice and use same email Id.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_8">Subsequent booking is much cheaper.
+    <aspectTerm term="booking" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_9">For example, if a person books first time it costs ~700.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_10">But when another booking is done (for the spouse), it costs 281.
+    <aspectTerm term="booking" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="32_12">Ensure to carry or remember the ID you put   TIP:  Once you're through, a good option is to do a Jeep safari for some great scenic views.
+    <aspectTerm term="jeep safari" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+<aspectTerm term="scenic views" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="32_13">It also gives you a small flavor of Tamil Nadu.
+    <aspectTerm term="flavour of tamil nadu" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="33">
+    <Title>"Crazy public for boating"    </Title>
+    <Username>Mihir D    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>10 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="33_0">All the crowd is madly waiting for tickets to a 90 minute boat ride which does not seem worth at all.
+    <aspectTerm term="waiting for tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="34">
+    <Title>"Boating"    </Title>
+    <Username>Gaurav P    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="34_0">Very calm place and good viewing.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="34_1">You need to carry good camera for beautiful pictures.
+    <aspectTerm term="pictures" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="34_2">Carry your food to munch as you will not get anything on boat.
+    <aspectTerm term="food" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="35">
+    <Title>"Lovely lake boat ride at Periyar Lake"    </Title>
+    <Username>traveller24by7    </Username>
+    <Userloc>Kuala Lumpur, Malaysia    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>37 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="35_0">Had such a peaceful boat ride.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="35_1">Did not get to spot the tiger or elephants but did see the wild boars and Sambar, and of course the naughty monkey population.
+    <aspectTerm term="elephants" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+<aspectTerm term="tiger" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+<aspectTerm term="wild boars" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+<aspectTerm term="Sambar" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+<aspectTerm term="monkey" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+
+ </sentence>
+ </tripreview>
+ <tripreview review_index="36">
+    <Title>"Good Big Lake"    </Title>
+    <Username>satyajitray101    </Username>
+    <Userloc>Columbia, Maryland    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="36_0">Enjoyed our boat ride late in the afternoon.
+    <aspectTerm term="boar ride" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="36_1">It was rainy and monsoon season; obviously could not see any wild elephant.
+    <aspectTerm term="wild elephant" polarity="negative" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="36_2">I guess they come to drink water when water is scarce in the deep forest.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="37">
+    <Title>"Periyar Lake Safari"    </Title>
+    <Username>Nirmal K    </Username>
+    <Userloc>Pune, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>44 reviews    </total_reviews>
+    <helpful_votes>1 helpful vote    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="37_0">I would recommend to go on a 7:30 AM safari as the lake looks beautiful in the morning.
+    <aspectTerm term="7:30 AM safari" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_1">Don't expect fancy animals visit during the safari, we got to see one wild Elephant, some wild birds, Wild Pig and few small animals.
+    <aspectTerm term="fancy animals" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_2">The morning tour is of 90 min and afternoon tour I guess if of 60 min but the charges are same.
+    <aspectTerm term="charges" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="37_3">the fare is Rs 225 per person for safari and 33 Rs per person for entry into Periyar Forest Reserve.
+    <aspectTerm term="fare" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="37_4">Entry ticket window opens at 6 am and I would recommend to reach the place at 6 am for 7:30 ride as later the queue gets bigger and there chances you might miss the ferry as there are limited seats.
+    <aspectTerm term="limited seats" polarity="neutral" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="38">
+    <Title>"Nice place"    </Title>
+    <Username>blesson c    </Username>
+    <Userloc>Brisbane, Australia    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>11 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="38_0">This place is nice and peaceful when the crowd is minimal.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_1">We were there on new years and lace was crowded.
+    <aspectTerm term="crowded" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="38_3">There is a natural beauty.
+    <aspectTerm term="natural beauty" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_4">The only frustrating part is entry for a foreigner is like 20 times more than an indian.
+    <aspectTerm term="entry for a foreigner" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_5">This is not a good sign of tourism as we indicate clear descrimnation.
+    <aspectTerm term="descrimnation" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="38_6">This never happens in an any other country.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="39">
+    <Title>"not good"    </Title>
+    <Username>sandeepsanghvi    </Username>
+    <Userloc>bhuj    </Userloc>
+    <Rating>2    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited February 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>5 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="39_0">my mother father and sister is go with boat but not much to see in park also many items is very high charge.
+    <aspectTerm term="charge" polarity="negative" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="43">
+
+
+
+    <Title>"Boat ride"    </Title>
+    <Username>Freddy S    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="43_0">Relaxing boat ride over this lake but a bit slow.
+    <aspectTerm term="boat ride" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="43_1">if you are lucky you see animals.
+    <aspectTerm term="animals" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="44">
+    <Title>"Artificial lake, but excellent wildlife on offer!"    </Title>
+    <Username>Jiffy J    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 2 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>66 reviews    </total_reviews>
+    <helpful_votes>15 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="44_0">Periyar lake is the heart of the Tiger Reserve that goes by the same name.
+    <aspectTerm term="Periyar lake" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_1">The lake, albeit artificial, is beautiful and clean.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Hygiene">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_2">This was my third visit to the reserve and I've always loved the hour-and-a-half boat ride with guaranteed wildlife sightings (although the forest officials announce otherwise before the start of the boating).
+    <aspectTerm term="wildlife sightings" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+<aspectTerm term="boar ride" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_3">We got to see elephants, gaur (Indian bison), sambar, wild boar, waterbirds, and terrapins, offering plenty of photography opportunities.
+    <aspectTerm term="elephants,gaur,sambar" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="wild boar,waterbirds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="photography" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="44_4">I'd recommend booking the boat ride tickets online, and selecting the evening's last trip (3:30 PM).
+    <aspectTerm term="online tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+    <aspectTerm term="evening's last trip" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="45">
+    <Title>"The lake is great, the boating not so much"    </Title>
+    <Username>silverblaze80    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>143 reviews    </total_reviews>
+    <helpful_votes>80 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="45_0">Ok
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_1">this is the kind of a review where you review something because you didn't get to see it.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_2">We went to the lake, stood in the queue for close to 45 minutes, in the heat with a cranky kid, and did not get the ticket.
+    <aspectTerm term="ticket" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+    <aspectTerm term="queue" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_3">Well, they did stick a note saying that only 35 tickets are available.
+    <aspectTerm term="note" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_4">But we were so optimistic .
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_5">You can book the tickets online, one ticket at a time, so if you are a group of 5 and unlucky, the tickets would have sold out by the time you book 3
+    <aspectTerm term="online tickets" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_6">leaving the other 2 watching forlornly as you sail away.
+    <aspectTerm term="null" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_7">To be fair, the lake is beautiful and I am sure the boat trip is lovely too.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ <aspectTerm term="boat trip" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_8">Despite the fact the boats did not inspire too much confidence.
+    <aspectTerm term="boats" polarity="negative" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_9">I wish they allowed people without tickets also to go closer to the lake.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="45_10">We could just see it from far, click some pics and return.
+    <aspectTerm term="pics" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="46">
+    <Title>"Different experience"    </Title>
+    <Username>Alok M    </Username>
+    <Userloc>Anand, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="46_0">It's not an ordinary Lake, it is surrounded by Periyar National Park.
+    <aspectTerm term="periyar national park" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_1">If you are a nature lover than you should visit it.
+    <aspectTerm term="nature" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_2">Enjoy 90 minutes boat ride in the lake.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_3">Take tickets in advance, at least 30-60 minutes before.
+    <aspectTerm term="tickets" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="46_4">Rate is Rs 225 per person (above 5 years of age).
+    <aspectTerm term="rate" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  
+  <sentence id="46_6">You can see common wild animals like deer, bison, boar,black monkey etc during the ride, don't expect elephant and tiger.
+    <aspectTerm term="common wild animals" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="elephant" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="tiger" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="47">
+    <Title>"Great experience of boating!"    </Title>
+    <Username>vcshah101    </Username>
+    <Userloc>Indore, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited July 2015    </Date_of_visit>
+    <Contributor_level>6    </Contributor_level>
+    <total_reviews>146 reviews    </total_reviews>
+    <helpful_votes>13 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="47_0">The whole lake is famous for boating and wild life in the forest around the lake.
+    <aspectTerm term="boating" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="wild life" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_1">If you are lucky, then only you can see a tiger as the density of tiger population is very less here.
+    <aspectTerm term="tiger population" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_2">The boating tickets can be booked online also.
+    <aspectTerm term="boating tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_3">The full one and half hour boating is at a very reasonable cost.
+    <aspectTerm term="cost" polarity="positive" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="47_4">Enjoyed the experience!
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="48">
+    <Title>"Lake Cruise"    </Title>
+    <Username>lavilobo    </Username>
+    <Userloc>Australia    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>1    </Contributor_level>
+    <total_reviews>4 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="48_0">It was wonderful to go by the cruise.
+    <aspectTerm term="cruise" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_1">Very dreamy and serene.
+    <aspectTerm term="dreamy" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="serene" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="48_2">We were trying to look for some animals.
+    <aspectTerm term="animals" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="49">
+    <Title>"Great for spotting animals"    </Title>
+    <Username>anubhab1    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>10 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="49_0">We did a mistake by not buying the tickets for boat online.
+    <aspectTerm term="tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_1">There will be very limited amount of seats available, so if possible book it online a day in advance.
+    <aspectTerm term="seats" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_2">Each boat will take about 60-80 people and it will roam in the lake for 90 minutes.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_3">We had taken the last trip of 3:30PM and spotted deers, wild boar, bison, elephant etc.
+    <aspectTerm term="deers,wild boar,bison" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="elephant" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_4">Though the elephant was quite faaaar.
+    <aspectTerm term="elephant" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="49_5">;)  I guess if you can catch the first trip which is around 7:30 AM i suppose.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="50">
+    <Title>"Worst place"    </Title>
+    <Username>aravindmanoharan    </Username>
+    <Userloc>Chennai, India    </Userloc>
+    <Rating>1    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>5 reviews    </total_reviews>
+    <helpful_votes>    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="50_0">Worst place to check in.
+    <aspectTerm term="place" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_1">I haven't seen any animals when i went in for a boat drive.
+    <aspectTerm term="animals" polarity="negative" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="boat drive" polarity="negative" aspectCategories="Activities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_2">Only one Elephant I have seen that too it is very long.
+    <aspectTerm term="elephant" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="50_3">They are not driving the boat close to the shore.
+    <aspectTerm term="boat" polarity="negative" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="50_4">getting the tickets in the weekend is so tough.
+    <aspectTerm term="tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+
+ </sentence>
+  <sentence id="50_5">so better book through online.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="51">
+    <Title>"Few animals to be seen"    </Title>
+    <Username>kristin w    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>12 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="51_0">Pied Kingfisher was the great discovery.
+    <aspectTerm term="pied kingfisher" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_1">Aside from them, we saw a few wild boar in the distance and other birds.
+    <aspectTerm term="wild boar" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_2">This may well be much more worthwhile at a drier time of year when the wild animals have to come to the lake to get water.
+    <aspectTerm term="drier time of year" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_3">The guide could have been more helpful in identifying what birds we did see.
+    <aspectTerm term="guide" polarity="neutral" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="51_4">However it was beautiful on the lake in the early morning pink glow.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="51_5">My husband did not think it was worth the early rise.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="52">
+    <Title>"A memorable experiance"    </Title>
+    <Username>SudiptaKS    </Username>
+    <Userloc>Kolkata, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>5    </Contributor_level>
+    <total_reviews>17 reviews    </total_reviews>
+    <helpful_votes>2 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="52_0">The boat ride in the Periyar lake in the early morning was a memorable experiance in the Kerala trip.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="52_1">You may be lucky to see some wild animals.
+    <aspectTerm term="wild animals" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="53">
+    <Title>"Awsome experience."    </Title>
+    <Username>jkpandey    </Username>
+    <Userloc>Mumbai, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>9 reviews    </total_reviews>
+    <helpful_votes>3 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="53_0">The boating in river provide the opportunity to see the wildlife in close proximity with safety of water.
+    <aspectTerm term="boating" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+    <aspectTerm term="wildlife" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="53_1">We saw a Bison family grazing the grass near by river and also beatiful birds on tree stumps.
+    <aspectTerm term="bison family" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="54">
+    <Title>""Boating along Wildlife Watching ""    </Title>
+    <Username>Indukrish    </Username>
+    <Userloc>    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>32 reviews    </total_reviews>
+    <helpful_votes>10 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="54_0">This is a of type of boat ride tour which takes around 2.30 - 3.30 hours including the time waiting in the queue(starts in morning and ends around 5pm).
+    <aspectTerm term="boat ride tour" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_1">The boat is a big one like they have upper and lower area decks with plastic chair seatings.
+    <aspectTerm term="plastic chair seatings" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+    <aspectTerm term="upper and lower decks" polarity="positive" aspectCategories="Infrastructure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_2">We should watch for wildlife(Elephants , Wild Boar, Wild Pigs, Sambhar Deers, Birds, Tigers
+    <aspectTerm term="wildlife" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+
+  <sentence id="54_4">) If you are lucky charm u can spot any of the above or else it is a peaceful long hour boat ride along the Western Ghats dense vegetation.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_5">In monsoon times the water level is very high compared to the summers.
+    <aspectTerm term="water level" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="54_6">There are sooo many broken bark of trees lying in the la?
+    <aspectTerm term="broken bark of trees" polarity="negative" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_7">e scattered, which we can spot during our boating.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_8">This area serves as shooting location for so many Indian Movies.
+    <aspectTerm term="shooting location" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_9">We can reach either through Tamilnadu(dindugal,theni, kumbum route) or via Kerala(thodupuzha, vagamon, kumily).
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="54_10">This is a beautiful calm place located in kumily which is around 12-15kms distance where we should drive through Periyar forest to reach the Periyar lake.
+    <aspectTerm term="place" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+   
+ </sentence>
+  <sentence id="54_11">Those who are interested in boating with wildlife watching don't miss it(don't forget to ask for life jackets while boating).
+    <aspectTerm term="boating with wildlife watching" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="54_12">Be cautious and don't run as a crowd to same side while boating to spot the wildlife.
+    <aspectTerm term="crowd" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_13">Explore and Enjoy.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="54_14">Happy Travelling!
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+
+ </tripreview>
+ <tripreview review_index="55">
+    <Title>"amazing place to visit for Couple"    </Title>
+    <Username>Karam D    </Username>
+    <Userloc>    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited October 2015    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>8 reviews    </total_reviews>
+    <helpful_votes>6 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="55_0">This one is must visit place for couple.
+    <aspectTerm term="place for couple" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="55_1">this one is famous for boat and nice nature scenery beauty.
+    <aspectTerm term="boat" polarity="positive" aspectCategories="Activities">
+    </aspectTerm>
+    <aspectTerm term="scenery beauty" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="56">
+    <Title>"A memorable boat ride in Periyar Lake"    </Title>
+    <Username>shuvro_ind    </Username>
+    <Userloc>Bengaluru (Bangalore), India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited December 2015    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>34 reviews    </total_reviews>
+    <helpful_votes>86 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="56_0">I visited Kumily during the last Christmas holidays (Dec'15) and one of the areas of attraction is the Periyar Lake.
+    
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_1">It is not a far drive from Kumily.
+    <aspectTerm term="drive" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+  
+ </sentence>
+  <sentence id="56_2">I went along with my family and took my own car.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_3">If you are planning a trip to Thekkady or Munnar, ensure that you stop at Kumily one day for just this.
+    
+    <aspectTerm term="kumily" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_4">You won't regret it.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_5">I'll share my experience with you all so that you are well prepared for this.
+    <aspectTerm term="experience" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_6">First things first.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_7">The place is about 15kms from Kumily and is inside the Periyar forest.
+    <aspectTerm term="15kms from kumily" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+    <aspectTerm term="periyar forest" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_8">The boat ride starts at 7.30 am and there are rides every two hours until 3.30pm.
+    <aspectTerm term="boat ride" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_9">Please book your tickets in advance and online if possible (search for periyar lake boat ride booking or periyarfoundation).
+    <aspectTerm term="tickets" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_10">The site sucks.
+    <aspectTerm term="site" polarity="negative" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_11">You can only book 1 ticket at a time.
+    <aspectTerm term="ticket" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_12">So people going in groups may have a challenge.
+    <aspectTerm term="people in groups" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_13">I had to book 5 times for my family.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_14">The cost of tickets for Indian Nationals are about INR 285 for adults and INR 85 for children (Upto 11yrs).
+    <aspectTerm term="cost of tickets" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_15">Even if you buy tickets online, once you reach the inside the forest near the pier, you have to take tickets (yes yet again and I narrowly missed this) where the forest department folks will issue you the ticket with the seat numbers and the boat assigned to you (there are 3 boats, launches actually double decked ones) and you need to buy a ticket for your camera as well.
+    <aspectTerm term="tickets" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_16">The second important tip, you need to reach the forest entrance atleast 1 hour or earlier if possible.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_17">I reached around 630am for my 730am trip and had to stand in a queue of almost 50 vehicles.
+    <aspectTerm term="queue" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_18">You need to procure a ticket for your car before you can enter the forest area.
+    <aspectTerm term="ticket" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_19">Once you enter the forest, you have to drive about 4 kms inside and park your vehicle.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_20">And then you have to walk around 2 more kms to the pier.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_21">You have food stalls and tea/coffee shops here just in case.
+    <aspectTerm term="food stalls and tea/coffee shops" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_22">If you were not lucky and didn't get your online tickets, then ensure that you reach 2 hours before the scheduled trip time.
+    <aspectTerm term="online tickets" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+    </sentence> 
+  <sentence id="56_23">You have to encounter a very long queue for purchasing tickets at the gate before you can enter.
+    <aspectTerm term="queue to purchase" polarity="negative" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_24">Tip number 3.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_25">If you buy tickets online and when you are taking your tickets the 2nd time from the inside counter (yes and you need valid ID as well), you should try to get the Upper Deck seats.
+    <aspectTerm term="upper deck seats" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_26">It was very cold and windy the day I visited however the view is much better than the lower deck as the upper deck is open and the lower deck is not.
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    
+ </sentence>
+  <sentence id="56_27">Moreover the outreach of the view is much more from the upper deck.
+    <aspectTerm term="view" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_28">What to expect: Well it all depends on how much lady luck is on your side.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_29">I was able to see wild bisons, wild pigs and boars, black bucks and few birds.
+    <aspectTerm term="wild bisons,wild pigs and boars" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="black bucks" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_30">It is rumoured that you can see tigers if you are lucky, but, then I wasn't.
+    <aspectTerm term="tigers" polarity="neutral" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_31">The trip lasts about 2 hours and it is really very enjoyable.
+    <aspectTerm term="trip" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="56_32">I hope you visit the place and have more luck than me!
+    <aspectTerm term="place" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="57">
+    <Title>"boat trip"    </Title>
+    <Username>MDutta81    </Username>
+    <Userloc>Birkerod, Denmark    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>26 reviews    </total_reviews>
+    <helpful_votes>23 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="57_0">We took a boat trip in the early morning which was really refreshing and could see a lot of animals around.
+    <aspectTerm term="boat trip" polarity="positive" aspectCategories="Transportation">
+    </aspectTerm>
+    
+    <aspectTerm term="animals" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="58">
+    <Title>"Good boating experience and some animal sighting"    </Title>
+    <Username>Vijaya D    </Username>
+    <Userloc>    </Userloc>
+    <Rating>3    </Rating>
+    <Review_date>Reviewed 3 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>4    </Contributor_level>
+    <total_reviews>30 reviews    </total_reviews>
+    <helpful_votes>30 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="58_0">If you can negotiate the online booking system that does not allow you to book more than one seat at a time (for reasons best known to the organisers) and then manage to find a seat on one of the boats, this can be an interesting half-day tour of the lake.
+    <aspectTerm term="half-day tour" polarity="neutral" aspectCategories="Environment and view">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_1">However, the seats on the boats are most uncomfortable and the life vests perhaps designed for submarines.
+    <aspectTerm term="seats on the boats" polarity="negative" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+  <sentence id="58_2">You are sure to see some wild life that makes the trip worthwhile.
+    <aspectTerm term="wild life" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+ <tripreview review_index="59">
+    <Title>"Totally amazing "    </Title>
+    <Username>Shubham1985    </Username>
+    <Userloc>National Capital Territory of Delhi, India    </Userloc>
+    <Rating>5    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>Visited January 2016    </Date_of_visit>
+    <Contributor_level>2    </Contributor_level>
+    <total_reviews>7 reviews    </total_reviews>
+    <helpful_votes>4 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="59_0">Lovely.
+    <aspectTerm term="null" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="59_2">No words to explain.
+    <aspectTerm term="" polarity="positive" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+
+ </tripreview>
+ <tripreview review_index="60">
+    <Title>"A very Pleasant Boat ride"    </Title>
+    <Username>dipakray41    </Username>
+    <Userloc>Kolkata, India    </Userloc>
+    <Rating>4    </Rating>
+    <Review_date>Reviewed 4 weeks ago    </Review_date>
+    <Date_of_visit>    </Date_of_visit>
+    <Contributor_level>3    </Contributor_level>
+    <total_reviews>20 reviews    </total_reviews>
+    <helpful_votes>9 helpful votes    </helpful_votes>
+    <Destination>Periyar Lake    </Destination>
+    <Place>Thekkadi    </Place>
+    <Review_extracted_on>21st Feb    </Review_extracted_on>
+  <sentence id="60_0">We were a group of 11 people of various age-group.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_1">We had to purchase entry tickets Rs 33/- per head.
+    <aspectTerm term="entry tickets" polarity="neutral" aspectCategories="Expenditure">
+    </aspectTerm>
+ </sentence>
+ 
+  <sentence id="60_3">A jeep took us inside the area of Periyar Lake upto a certain point.
+    <aspectTerm term="null" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Location">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_4">After having a pleasant walk in the winter morning, we had to stand in a Q to get our tickets for the 1-1/2 hour launch ride.
+    <aspectTerm term="walk" polarity="positive" aspectCategories="Favourable season/day/time">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_5">After a short wait we boarded the double-decker launch run by KTDC and also Kerala Forest Deptt.
+    <aspectTerm term="double-decker launch" polarity="neutral" aspectCategories="Transportation">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_6">3 boats left the jetty simaltenously.
+    <aspectTerm term="" polarity="neutral" aspectCategories="Others">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_7">Periyar is a huge lake and the driver of the launch tried his best to bring us closer to the animals roaming in the adjacent forest.
+    <aspectTerm term="periyar lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="driver" polarity="positive" aspectCategories="Staff">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_8">we saw a herd of wild elephants, sambar deers and wild buffaloes, beside a lot of birds.
+    <aspectTerm term="herd of wilf elephants" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="sambar deers" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="wild buffaloes" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+    <aspectTerm term="birds" polarity="positive" aspectCategories="Wildlife Richness">
+    </aspectTerm>
+ </sentence>
+  <sentence id="60_9">the lake is a photographer's delight.
+    <aspectTerm term="lake" polarity="positive" aspectCategories="Environment and view">
+    </aspectTerm>
+    <aspectTerm term="photographer's delight" polarity="positive" aspectCategories="Amenities">
+    </aspectTerm>
+ </sentence>
+ </tripreview>
+
+
+
+
+
+
+</review>
